@@ -1,14 +1,582 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "📜 Papers"
+      "description": "Summary of github or other types of projects that are related to anime or manga except above.",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Classification and vectorization of key-frames and face characters of anime",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 474243310,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-06-26T19:10:38Z",
+                "owner": "enmanuelmag",
+                "repo": "AnimeClassificator",
+                "stars": 1
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "makegirlsmoe",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97284537,
+                "language": "JavaScript",
+                "last_commit": "2022-12-08T18:47:14Z",
+                "owner": "makegirlsmoe",
+                "repo": "makegirlsmoe_web",
+                "stars": 3412
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jayleicn/AnimeGAN",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 83440490,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-08-24T04:29:50Z",
+                "owner": "jayleicn",
+                "repo": "animeGAN",
+                "stars": 1276
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tdrussell/IllustrationGAN",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66954304,
+                "language": "Python",
+                "last_commit": "2016-08-31T16:00:56Z",
+                "owner": "tdrussell",
+                "repo": "IllustrationGAN",
+                "stars": 265
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pavitrakumar78/Anime-Face-GAN-Keras",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97803883,
+                "language": "Python",
+                "last_commit": "2017-07-20T09:03:03Z",
+                "owner": "pavitrakumar78",
+                "repo": "Anime-Face-GAN-Keras",
+                "stars": 198
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ANIME305/Anime-GAN-tensorflow",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 158161304,
+                "language": "Jupyter Notebook",
+                "last_commit": "2018-12-13T04:59:41Z",
+                "owner": "ANIME305",
+                "repo": "Anime-GAN-tensorflow",
+                "stars": 197
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "forcecore/Keras-GAN-Animeface-Character",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 90182530,
+                "language": "Python",
+                "last_commit": "2018-08-01T14:09:49Z",
+                "owner": "forcecore",
+                "repo": "Keras-GAN-Animeface-Character",
+                "stars": 162
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "m516825/Conditional-GAN",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92197220,
+                "language": "Python",
+                "last_commit": "2017-05-25T18:43:57Z",
+                "owner": "m516825",
+                "repo": "Conditional-GAN",
+                "stars": 150
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bchao1/Anime-Generation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 150204772,
+                "language": "Python",
+                "last_commit": "2022-05-12T06:03:35Z",
+                "owner": "bchao1",
+                "repo": "Anime-Generation",
+                "stars": 71
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FangYang970206/Anime_GAN",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 143601363,
+                "language": "Python",
+                "last_commit": "2019-10-24T03:08:45Z",
+                "owner": "FangYang970206",
+                "repo": "Anime_GAN",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "harubaru/waifu-diffusion",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 526383335,
+                "language": "Python",
+                "last_commit": "2023-02-16T20:02:49Z",
+                "owner": "harubaru",
+                "repo": "waifu-diffusion",
+                "stars": 1921
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TachibanaYoshino/AnimeGANv2",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 285840886,
+                "language": "Python",
+                "last_commit": "2024-08-27T04:44:47Z",
+                "owner": "TachibanaYoshino",
+                "repo": "AnimeGANv2",
+                "stars": 5370
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "experience-ml/cartoonize",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 283240725,
+                "language": "Python",
+                "last_commit": "2023-09-12T19:33:40Z",
+                "owner": "experience-ml",
+                "repo": "cartoonize",
+                "stars": 623
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SystemErrorWang/FacialCartoonization",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 284487890,
+                "language": "Python",
+                "last_commit": "2020-10-03T09:31:25Z",
+                "owner": "SystemErrorWang",
+                "repo": "FacialCartoonization",
+                "stars": 282
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Aixile/chainer-cyclegan",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 87806263,
+                "language": "Python",
+                "last_commit": "2017-09-16T03:00:30Z",
+                "owner": "Aixile",
+                "repo": "chainer-cyclegan",
+                "stars": 240
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "racinmat/anime-style-transfer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 138349751,
+                "language": "Python",
+                "last_commit": "2020-01-23T21:53:30Z",
+                "owner": "racinmat",
+                "repo": "anime-style-transfer",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "XiaoSanGit/Real2Animation-video-generation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 233764629,
+                "language": "Python",
+                "last_commit": "2022-11-22T05:03:36Z",
+                "owner": "KiedaTamashi",
+                "repo": "Real2Animation-video-generation",
+                "stars": 30
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "style2paints",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93354260,
+                "language": "JavaScript",
+                "last_commit": "2023-08-01T02:02:00Z",
+                "owner": "lllyasviel",
+                "repo": "style2paints",
+                "stars": 18180
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PaintsChainer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80181687,
+                "language": "Jupyter Notebook",
+                "last_commit": "2019-01-06T02:35:33Z",
+                "owner": "pfnet",
+                "repo": "PaintsChainer",
+                "stars": 3763
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sanjay235/Sketch2Color-anime-translation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 228595390,
+                "language": "Jupyter Notebook",
+                "last_commit": "2020-10-21T06:06:01Z",
+                "owner": "sanjay035",
+                "repo": "Sketch2Color-anime-translation",
+                "stars": 114
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pengxiao-Wang/Style2Paints_V3",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 169379766,
+                "language": "Python",
+                "last_commit": "2019-04-19T09:07:29Z",
+                "owner": "Pengxiao-Wang",
+                "repo": "Style2Paints_V3",
+                "stars": 94
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ugness/Line-Art-Colorization-SPADE",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 213906884,
+                "language": "Python",
+                "last_commit": "2026-07-21T05:04:13Z",
+                "owner": "Ugness",
+                "repo": "Line-Art-Colorization-SPADE",
+                "stars": 15
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Talking Head Anime from a Single Image",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 230434313,
+                "language": "Python",
+                "last_commit": "2022-06-29T20:27:14Z",
+                "owner": "pkhungurn",
+                "repo": "talking-head-anime-demo",
+                "stars": 2025
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Talking Head Anime from a Single Image 2: More Expressive",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 343834897,
+                "language": "Python",
+                "last_commit": "2022-06-29T20:26:56Z",
+                "owner": "pkhungurn",
+                "repo": "talking-head-anime-2-demo",
+                "stars": 1153
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Talking Head(?) Anime from a Single Image 3: Now the Body Too",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 508822336,
+                "language": "Python",
+                "last_commit": "2023-08-29T08:12:25Z",
+                "owner": "pkhungurn",
+                "repo": "talking-head-anime-3-demo",
+                "stars": 1044
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Neural Rendering with Attention: An Incremental Improvement for Anime Character Animation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 521813525,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-04-15T03:38:48Z",
+                "owner": "transpchan",
+                "repo": "Live3D-v2",
+                "stars": 418
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "waifu2x",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35756351,
+                "language": "Lua",
+                "last_commit": "2023-05-04T00:50:48Z",
+                "owner": "nagadomi",
+                "repo": "waifu2x",
+                "stars": 28217
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Anime4K",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 202234517,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-08-17T12:09:12Z",
+                "owner": "bloc97",
+                "repo": "Anime4K",
+                "stars": 21266
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Real-CUGAN",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 365098852,
+                "language": "Python",
+                "last_commit": "2023-08-02T15:34:07Z",
+                "owner": "bilibili",
+                "repo": "ailab",
+                "stars": 5880
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "goldhuang/SRGAN-PyTorch",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 157783183,
+                "language": "Python",
+                "last_commit": "2018-12-15T19:58:34Z",
+                "owner": "goldhuang",
+                "repo": "SRGAN-PyTorch",
+                "stars": 87
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "jerryli27/AniSeg",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 146223769,
+                "language": "Python",
+                "last_commit": "2020-08-09T10:19:31Z",
+                "owner": "jerryli27",
+                "repo": "AniSeg",
+                "stars": 209
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zymk9/Yet-Another-Anime-Segmenter",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 302627837,
+                "language": "Jupyter Notebook",
+                "last_commit": "2020-12-25T03:15:23Z",
+                "owner": "zymk9",
+                "repo": "Yet-Another-Anime-Segmenter",
+                "stars": 197
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Anime Face Detector using mmdet and mmpose",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 422685613,
+                "language": "Python",
+                "last_commit": "2026-07-05T12:37:29Z",
+                "owner": "hysts",
+                "repo": "anime-face-detector",
+                "stars": 531
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Anime face landmark detection by deep cascaded regression",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 220654474,
+                "language": "Python",
+                "last_commit": "2019-11-16T08:13:17Z",
+                "owner": "kanosawa",
+                "repo": "anime_face_landmark_detection",
+                "stars": 253
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T22:43:18.971Z",
+    "last_updated": "2026-08-19T12:09:08.060Z",
     "original_repository": "SerialLain3170/AwesomeAnimeResearch",
+    "original_repository_id": 259125787,
     "original_repository_sha": "b93d524e8e9975b14d99ba153521a7323595fcff",
     "enhanced_repository": "enhansome/enhansome-AwesomeAnimeResearch",
     "enhanced_repository_description": null,
