@@ -199,7 +199,7 @@
                 "last_commit": "2024-08-27T04:44:47Z",
                 "owner": "TachibanaYoshino",
                 "repo": "AnimeGANv2",
-                "stars": 5369
+                "stars": 5370
               }
             },
             {
@@ -296,7 +296,7 @@
                 "last_commit": "2023-08-01T02:02:00Z",
                 "owner": "lllyasviel",
                 "repo": "style2paints",
-                "stars": 18180
+                "stars": 18179
               }
             },
             {
@@ -341,7 +341,7 @@
                 "last_commit": "2019-04-19T09:07:29Z",
                 "owner": "Pengxiao-Wang",
                 "repo": "Style2Paints_V3",
-                "stars": 94
+                "stars": 93
               }
             },
             {
@@ -460,7 +460,7 @@
                 "last_commit": "2024-08-17T12:09:12Z",
                 "owner": "bloc97",
                 "repo": "Anime4K",
-                "stars": 21269
+                "stars": 21275
               }
             },
             {
@@ -475,7 +475,7 @@
                 "last_commit": "2023-08-02T15:34:07Z",
                 "owner": "bilibili",
                 "repo": "ailab",
-                "stars": 5880
+                "stars": 5879
               }
             },
             {
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T22:47:14.792Z",
+    "last_updated": "2026-08-21T22:43:41.654Z",
     "original_repository": "SerialLain3170/AwesomeAnimeResearch",
     "original_repository_id": 259125787,
     "original_repository_sha": "b93d524e8e9975b14d99ba153521a7323595fcff",
