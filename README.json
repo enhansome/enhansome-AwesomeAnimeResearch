@@ -579,7 +579,7 @@
                     "last_commit": "2024-02-25T09:49:39Z",
                     "owner": "lllyasviel",
                     "repo": "ControlNet",
-                    "stars": 34078
+                    "stars": 34079
                   }
                 },
                 {
@@ -1145,7 +1145,7 @@
                     "last_commit": "2026-07-16T08:14:26Z",
                     "owner": "bilibili",
                     "repo": "Index-anisora",
-                    "stars": 2500
+                    "stars": 2503
                   }
                 },
                 {
@@ -1160,7 +1160,7 @@
                     "last_commit": "2026-07-16T08:14:26Z",
                     "owner": "bilibili",
                     "repo": "Index-anisora",
-                    "stars": 2500
+                    "stars": 2503
                   }
                 }
               ]
@@ -1182,7 +1182,7 @@
                     "last_commit": "2025-10-17T05:46:57Z",
                     "owner": "ali-vilab",
                     "repo": "VACE",
-                    "stars": 3929
+                    "stars": 3930
                   }
                 },
                 {
@@ -1212,7 +1212,7 @@
                     "last_commit": "2024-07-31T01:14:15Z",
                     "owner": "guoyww",
                     "repo": "AnimateDiff",
-                    "stars": 12223
+                    "stars": 12224
                   }
                 },
                 {
@@ -1495,7 +1495,7 @@
                     "last_commit": "2026-08-15T03:56:15Z",
                     "owner": "TencentARC",
                     "repo": "ColorFlow",
-                    "stars": 463
+                    "stars": 462
                   }
                 },
                 {
@@ -2151,7 +2151,7 @@
                     "last_commit": "2024-08-06T13:15:18Z",
                     "owner": "xinntao",
                     "repo": "Real-ESRGAN",
-                    "stars": 36570
+                    "stars": 36574
                   }
                 },
                 {
@@ -2959,7 +2959,7 @@
                 "last_commit": "2024-08-17T12:09:12Z",
                 "owner": "bloc97",
                 "repo": "Anime4K",
-                "stars": 21286
+                "stars": 21289
               }
             },
             {
@@ -3073,7 +3073,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:12:07.104Z",
+    "last_updated": "2026-08-24T22:46:24.510Z",
     "original_repository": "SerialLain3170/AwesomeAnimeResearch",
     "original_repository_id": 259125787,
     "original_repository_sha": "b93d524e8e9975b14d99ba153521a7323595fcff",
