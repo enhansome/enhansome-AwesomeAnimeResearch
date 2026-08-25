@@ -10,8 +10,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "arXiv AnimeScore: A Preference-Based Dataset and Framework for Evaluating Anime-Like Speech Style Github",
+              "title": "sizigi/animescore",
+              "description": "arXiv AnimeScore: A Preference-Based Dataset and Framework for Evaluating Anime-Like Speech Style",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -25,8 +25,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "COLING Context-Informed Machine Translation of Manga using Multimodal Large Language Models GitHub",
+              "title": "PLippmann/multimodal-manga-translation",
+              "description": "COLING Context-Informed Machine Translation of Manga using Multimodal Large Language Models",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -40,8 +40,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024",
-              "description": "Arxiv Tails Tell Tales: Chapter-Wide Manga Transcriptions with Character Names GitHub",
+              "title": "ragavsachdeva/magi",
+              "description": "Arxiv Tails Tell Tales: Chapter-Wide Manga Transcriptions with Character Names",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -55,8 +55,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024",
-              "description": "Arxiv CoMix: A Comprehensive Benchmark for Multi-Task Comic Understanding GitHub",
+              "title": "emanuelevivoli/CoMix-dataset",
+              "description": "Arxiv CoMix: A Comprehensive Benchmark for Multi-Task Comic Understanding",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -70,8 +70,8 @@
             },
             {
               "node_type": "item",
-              "title": "2023",
-              "description": "CVPR Human-Art: A Versatile Human-Centric Dataset Bridging Natural and Artificial Scenes Github",
+              "title": "IDEA-Research/HumanArt",
+              "description": "CVPR Human-Art: A Versatile Human-Centric Dataset Bridging Natural and Artificial Scenes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -85,8 +85,8 @@
             },
             {
               "node_type": "item",
-              "title": "2023",
-              "description": "Arxiv Manga109Dialog: A Large-scale Dialogue Dataset for Comics Speaker Detection Github",
+              "title": "manga109/public-annotations",
+              "description": "Arxiv Manga109Dialog: A Large-scale Dialogue Dataset for Comics Speaker Detection",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -100,8 +100,8 @@
             },
             {
               "node_type": "item",
-              "title": "2023",
-              "description": "ACM-TG Semi-supervised reference-based sketch extraction using a contrastive learning framework Github",
+              "title": "Chanuku/4skst",
+              "description": "ACM-TG Semi-supervised reference-based sketch extraction using a contrastive learning framework",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -115,8 +115,8 @@
             },
             {
               "node_type": "item",
-              "title": "2023",
-              "description": "ACM-TG Parsing-Conditioned Anime Translation: A New Dataset and Method Github",
+              "title": "zsl2018/StyleAnime",
+              "description": "ACM-TG Parsing-Conditioned Anime Translation: A New Dataset and Method",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -130,8 +130,8 @@
             },
             {
               "node_type": "item",
-              "title": "2022",
-              "description": "ECCV COO: Comic Onomatopoeia Dataset for Recognizing Arbitrary or Truncated Texts Github",
+              "title": "ku21fan/COO-Comic-Onomatopoeia",
+              "description": "ECCV COO: Comic Onomatopoeia Dataset for Recognizing Arbitrary or Truncated Texts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -145,8 +145,8 @@
             },
             {
               "node_type": "item",
-              "title": "2022",
-              "description": "ECCV AnimeCeleb: Large-Scale Animation CelebHeads Dataset for Head Reenactment Github",
+              "title": "kangyeolk/AnimeCeleb",
+              "description": "ECCV AnimeCeleb: Large-Scale Animation CelebHeads Dataset for Head Reenactment",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -160,8 +160,8 @@
             },
             {
               "node_type": "item",
-              "title": "2021",
-              "description": "Arxiv DAF:RE: A CHALLENGING, CROWD-SOURCED, LARGE-SCALE, LONG-TAILED DATASET FOR ANIME CHARACTER RECOGNITION Github",
+              "title": "arkel23/animesion",
+              "description": "Arxiv DAF:RE: A CHALLENGING, CROWD-SOURCED, LARGE-SCALE, LONG-TAILED DATASET FOR ANIME CHARACTER RECOGNITION",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -175,8 +175,8 @@
             },
             {
               "node_type": "item",
-              "title": "2020",
-              "description": "ACM-MM Cartoon Face Recognition: A Benchmark Dataset Github",
+              "title": "luxiangju-PersonAI/iCartoonFace",
+              "description": "ACM-MM Cartoon Face Recognition: A Benchmark Dataset",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -190,8 +190,8 @@
             },
             {
               "node_type": "item",
-              "title": "2020",
-              "description": "ECCV Workshop Unconstrained Text Detection in Manga: a New Dataset and Baseline Github",
+              "title": "juvian/Manga-Text-Segmentation",
+              "description": "ECCV Workshop Unconstrained Text Detection in Manga: a New Dataset and Baseline",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -205,8 +205,8 @@
             },
             {
               "node_type": "item",
-              "title": "2020",
-              "description": "ECCV DanbooRegion: An Illustration Region Dataset Github",
+              "title": "lllyasviel/DanbooRegion",
+              "description": "ECCV DanbooRegion: An Illustration Region Dataset",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -220,8 +220,8 @@
             },
             {
               "node_type": "item",
-              "title": "2017",
-              "description": "CVPR The Amazing Mysteries of the Gutter: Drawing Inferences Between Panels in Comic Book Narratives Github",
+              "title": "miyyer/comics",
+              "description": "CVPR The Amazing Mysteries of the Gutter: Drawing Inferences Between Panels in Comic Book Narratives",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -242,8 +242,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2026",
-              "description": "arXiv AnimationBench: Are Video Models Good at Character-Centric Animation? Github",
+              "title": "VideoVerses/AnimationBench",
+              "description": "arXiv AnimationBench: Are Video Models Good at Character-Centric Animation?",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -272,8 +272,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2025",
-                  "description": "SIGGRAPH AniMaker: Multi-Agent Animated Storytelling with MCTS-Driven Clip Generation Github",
+                  "title": "HITsz-TMG/Anim-Director",
+                  "description": "SIGGRAPH AniMaker: Multi-Agent Animated Storytelling with MCTS-Driven Clip Generation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -287,8 +287,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
-                  "description": "SIGGRAPH Anim-Director: A Large Multimodal Model Powered Agent for Controllable Animation Video Generation Github",
+                  "title": "HITsz-TMG/Anim-Director",
+                  "description": "SIGGRAPH Anim-Director: A Large Multimodal Model Powered Agent for Controllable Animation Video Generation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -316,8 +316,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2022",
-                  "description": "SIGGRAPH StyleGAN-NADA: CLIP-Guided Domain Adaptation of Image Generators Github",
+                  "title": "rinongal/StyleGAN-nada",
+                  "description": "SIGGRAPH StyleGAN-NADA: CLIP-Guided Domain Adaptation of Image Generators",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -326,13 +326,13 @@
                     "last_commit": "2022-09-29T17:52:46Z",
                     "owner": "rinongal",
                     "repo": "StyleGAN-nada",
-                    "stars": 1194
+                    "stars": 1195
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2021",
-                  "description": "ICCV DisUnknown: Distilling Unknown Factors for Disentanglement Learning Github",
+                  "title": "stormraiser/disunknown",
+                  "description": "ICCV DisUnknown: Distilling Unknown Factors for Disentanglement Learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -346,8 +346,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021",
-                  "description": "CVPR HistoGAN: Controlling Colors of GAN-Generated and Real Images via Color Histograms Github",
+                  "title": "mahmoudnafifi/HistoGAN",
+                  "description": "CVPR HistoGAN: Controlling Colors of GAN-Generated and Real Images via Color Histograms",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -361,8 +361,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2020",
-                  "description": "NeurIPS GAN Memory with No Forgetting Github",
+                  "title": "MiaoyunZhao/GANmemory_LifelongLearning",
+                  "description": "NeurIPS GAN Memory with No Forgetting",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -376,8 +376,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2020",
-                  "description": "Arxiv Autoencoding Generative Adversarial Networks Github",
+                  "title": "RileyLazarou/AEGAN-keras",
+                  "description": "Arxiv Autoencoding Generative Adversarial Networks",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -398,8 +398,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2020",
-                  "description": "CVPR Workshop Freeze the Discriminator: a Simple Baseline for Fine-Tuning GANs Github",
+                  "title": "sangwoomo/FreezeD",
+                  "description": "CVPR Workshop Freeze the Discriminator: a Simple Baseline for Fine-Tuning GANs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -413,8 +413,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2020",
-                  "description": "CVPR MineGAN: effective knowledge transfer from GANs to target domains with few images Github",
+                  "title": "yaxingwang/MineGAN",
+                  "description": "CVPR MineGAN: effective knowledge transfer from GANs to target domains with few images",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -428,8 +428,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2020",
-                  "description": "Arxiv FEW-SHOT ADAPTATION OF GENERATIVE ADVERSARIAL NETWORKS Github",
+                  "title": "e-271/few-shot-gan",
+                  "description": "Arxiv FEW-SHOT ADAPTATION OF GENERATIVE ADVERSARIAL NETWORKS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -443,8 +443,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2019",
-                  "description": "ICCV Image Generation From Small Datasets via Batch Statistics Adaptation Github",
+                  "title": "nogu-atsu/small-dataset-image-generation",
+                  "description": "ICCV Image Generation From Small Datasets via Batch Statistics Adaptation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -465,8 +465,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2021",
-                  "description": "Arxiv EigenGAN: Layer-Wise Eigen-Learning for GANs Github",
+                  "title": "LynnHo/EigenGAN-Tensorflow",
+                  "description": "Arxiv EigenGAN: Layer-Wise Eigen-Learning for GANs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -480,8 +480,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021",
-                  "description": "Arxiv Do Generative Models Know Disentanglement? Contrastive Learning is All You Need Github",
+                  "title": "xrenaa/DisCo",
+                  "description": "Arxiv Do Generative Models Know Disentanglement? Contrastive Learning is All You Need",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -495,8 +495,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021",
-                  "description": "CVPR Closed-Form Factorization of Latent Semantics in GANs Github",
+                  "title": "genforce/sefa",
+                  "description": "CVPR Closed-Form Factorization of Latent Semantics in GANs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -510,8 +510,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2020",
-                  "description": "ICML Unsupervised Discovery of Interpretable Directions in the GAN Latent Space Github",
+                  "title": "anvoynov/GANLatentDiscovery",
+                  "description": "ICML Unsupervised Discovery of Interpretable Directions in the GAN Latent Space",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -525,8 +525,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2019",
-                  "description": "Arxiv RPGAN: GANs Interpretability via Random Routing Github",
+                  "title": "anvoynov/RandomPathGAN",
+                  "description": "Arxiv RPGAN: GANs Interpretability via Random Routing",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -547,8 +547,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2022",
-                  "description": "ICPR MontageGAN: Generation and Assembly of Multiple Components by GANs Github",
+                  "title": "uchidalab/docker-montage-gan",
+                  "description": "ICPR MontageGAN: Generation and Assembly of Multiple Components by GANs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -569,8 +569,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2023",
-                  "description": "Arxiv Adding Conditional Control to Text-to-Image Diffusion Models Github",
+                  "title": "lllyasviel/ControlNet",
+                  "description": "Arxiv Adding Conditional Control to Text-to-Image Diffusion Models",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -584,8 +584,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
-                  "description": "Arxiv DreamArtist: Towards Controllable One-Shot Text-to-Image Generation via Positive-Negative Prompt-Tuning Github",
+                  "title": "IrisRainbowNeko/DreamArtist-stable-diffusion",
+                  "description": "Arxiv DreamArtist: Towards Controllable One-Shot Text-to-Image Generation via Positive-Negative Prompt-Tuning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -613,8 +613,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2021",
-                  "description": "ACM-TG AgileGAN: Stylizing Portraits by Inversion-Consistent Transfer Learning Github",
+                  "title": "GuoxianSong/AgileGAN",
+                  "description": "ACM-TG AgileGAN: Stylizing Portraits by Inversion-Consistent Transfer Learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -628,8 +628,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021",
-                  "description": "Arxiv FINE-TUNING STYLEGAN2 FOR CARTOON FACE GENERATION Github",
+                  "title": "happy-jihye/Cartoon-StyleGAN",
+                  "description": "Arxiv FINE-TUNING STYLEGAN2 FOR CARTOON FACE GENERATION",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -643,8 +643,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021",
-                  "description": "Arxiv GANs N’ Roses: Stable, Controllable, Diverse Image to Image Translation (works for videos too!) Github",
+                  "title": "mchong6/GANsNRoses",
+                  "description": "Arxiv GANs N’ Roses: Stable, Controllable, Diverse Image to Image Translation (works for videos too!)",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -658,8 +658,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021",
-                  "description": "Arxiv AniGAN: Style-Guided Generative Adversarial Networks for Unsupervised Anime Face Generation Github",
+                  "title": "bing-li-ai/AniGAN",
+                  "description": "Arxiv AniGAN: Style-Guided Generative Adversarial Networks for Unsupervised Anime Face Generation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -673,8 +673,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2020",
-                  "description": "Arxiv Unsupervised Image-to-Image Translation via Pre-trained StyleGAN2 Network Github",
+                  "title": "HideUnderBush/UI2I_via_StyleGAN2",
+                  "description": "Arxiv Unsupervised Image-to-Image Translation via Pre-trained StyleGAN2 Network",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -688,8 +688,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2018",
-                  "description": "CVPR DA-GAN: Instance-level Image Translation by Deep Attention Generative Adversarial Networks Github",
+                  "title": "Rongpeng-Lin/A-DA-GAN-architecture",
+                  "description": "CVPR DA-GAN: Instance-level Image Translation by Deep Attention Generative Adversarial Networks",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -703,8 +703,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2018",
-                  "description": "Arxiv Twin-GAN – Unpaired Cross-Domain Image Translation with Weight-Sharing GANs Github",
+                  "title": "jerryli27/TwinGAN",
+                  "description": "Arxiv Twin-GAN – Unpaired Cross-Domain Image Translation with Weight-Sharing GANs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -718,8 +718,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2018",
-                  "description": "ECCV Improving Shape Deformation in Unsupervised Image-to-Image Translation Github",
+                  "title": "brownvc/ganimorph",
+                  "description": "ECCV Improving Shape Deformation in Unsupervised Image-to-Image Translation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -740,8 +740,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2020",
-                  "description": "ICML Feature Quantization Improves GAN Training Github",
+                  "title": "YangNaruto/FQ-GAN",
+                  "description": "ICML Feature Quantization Improves GAN Training",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -755,8 +755,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2020",
-                  "description": "ECCV Unpaired Image-to-Image Translation using Adversarial Consistency Loss Github",
+                  "title": "hyperplane-lab/ACL-GAN",
+                  "description": "ECCV Unpaired Image-to-Image Translation using Adversarial Consistency Loss",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -770,8 +770,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2019",
-                  "description": "IJCNN AttentionGAN: Unpaired Image-to-Image Translation using Attention-Guided Generative Adversarial Networks Github",
+                  "title": "Ha0Tang/AttentionGAN",
+                  "description": "IJCNN AttentionGAN: Unpaired Image-to-Image Translation using Attention-Guided Generative Adversarial Networks",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -785,8 +785,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2020",
-                  "description": "CVPR Breaking the cycle—Colleagues are all you need Github",
+                  "title": "Onr/Council-GAN",
+                  "description": "CVPR Breaking the cycle—Colleagues are all you need",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -800,8 +800,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2020",
-                  "description": "ICLR U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation Github",
+                  "title": "taki0112/UGATIT",
+                  "description": "ICLR U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -822,8 +822,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2023",
-                  "description": "ICCV Scenimefy: Learning to Craft Anime Scene via Semi-Supervised Image-to-Image Translation Github",
+                  "title": "Yuxinn-J/Scenimefy",
+                  "description": "ICCV Scenimefy: Learning to Craft Anime Scene via Semi-Supervised Image-to-Image Translation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -837,8 +837,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
-                  "description": "MVIP ARGAN: Fast Converging GAN for Animation Style Transfer Github",
+                  "title": "amirzenoozi/ARGAN",
+                  "description": "MVIP ARGAN: Fast Converging GAN for Animation Style Transfer",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -862,12 +862,12 @@
                     "last_commit": "2022-08-03T16:38:02Z",
                     "owner": "TachibanaYoshino",
                     "repo": "AnimeGAN",
-                    "stars": 4605
+                    "stars": 4606
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "Github",
+                  "title": "TachibanaYoshino/AnimeGAN",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -877,13 +877,13 @@
                     "last_commit": "2022-08-03T16:38:02Z",
                     "owner": "TachibanaYoshino",
                     "repo": "AnimeGAN",
-                    "stars": 4605
+                    "stars": 4606
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2020",
-                  "description": "Arxiv Generative Adversarial Networks for photo to Hayao Miyazaki style cartoons Github",
+                  "title": "FilipAndersson245/cartoon-gan",
+                  "description": "Arxiv Generative Adversarial Networks for photo to Hayao Miyazaki style cartoons",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -912,7 +912,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Github",
+                  "title": "SystemErrorWang/White-box-Cartoonization",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -927,8 +927,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2020",
-                  "description": "Arxiv GANILLA: Generative adversarial networks for image to illustration translation Github",
+                  "title": "giddyyupp/ganilla",
+                  "description": "Arxiv GANILLA: Generative adversarial networks for image to illustration translation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -942,8 +942,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2018",
-                  "description": "Arxiv Comixify: Transform video into a comics Github",
+                  "title": "maciej3031/comixify",
+                  "description": "Arxiv Comixify: Transform video into a comics",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -957,8 +957,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2018",
-                  "description": "CVPR CartoonGAN: Generative Adversarial Networks for Photo Cartoonization Github",
+                  "title": "znxlwm/pytorch-CartoonGAN",
+                  "description": "CVPR CartoonGAN: Generative Adversarial Networks for Photo Cartoonization",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -979,8 +979,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2020",
-                  "description": "ECCV Modeling Artistic Workflows for Image Generation and Editing Github",
+                  "title": "hytseng0509/ArtEditing",
+                  "description": "ECCV Modeling Artistic Workflows for Image Generation and Editing",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -994,8 +994,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2019",
-                  "description": "Arxiv PI-REC: Progressive Image Reconstruction Network With Edge and Color Domain Github",
+                  "title": "youyuge34/PI-REC",
+                  "description": "Arxiv PI-REC: Progressive Image Reconstruction Network With Edge and Color Domain",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1016,8 +1016,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2023",
-                  "description": "CVPR LANIT: Language-Driven Image-to-Image Translation for Unlabeled Data Github",
+                  "title": "cvlab-kaist/LANIT",
+                  "description": "CVPR LANIT: Language-Driven Image-to-Image Translation for Unlabeled Data",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1031,8 +1031,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
-                  "description": "NeurIPS Towards Diverse and Faithful One-shot Adaption of Generative Adversarial Networks Github",
+                  "title": "YBYBZhang/DiFa",
+                  "description": "NeurIPS Towards Diverse and Faithful One-shot Adaption of Generative Adversarial Networks",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1046,8 +1046,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
-                  "description": "CVPR Pastiche Master: Exemplar-Based High-Resolution Portrait Style Transfer Github",
+                  "title": "williamyang1991/DualStyleGAN",
+                  "description": "CVPR Pastiche Master: Exemplar-Based High-Resolution Portrait Style Transfer",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1061,8 +1061,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
-                  "description": "ICLR Mind the Gap: Domain Gap Control for Single Shot Domain Adaptation for Generative Adversarial Networks Github",
+                  "title": "ZPdesu/MindTheGap",
+                  "description": "ICLR Mind the Gap: Domain Gap Control for Single Shot Domain Adaptation for Generative Adversarial Networks",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1076,8 +1076,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021",
-                  "description": "Arxiv JoJoGAN: One Shot Face Stylization Github",
+                  "title": "mchong6/JoJoGAN",
+                  "description": "Arxiv JoJoGAN: One Shot Face Stylization",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1091,8 +1091,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021",
-                  "description": "Arxiv Few-shot Semantic Image Synthesis Using StyleGAN Prior Github",
+                  "title": "endo-yuki-t/Fewshot-SMIS",
+                  "description": "Arxiv Few-shot Semantic Image Synthesis Using StyleGAN Prior",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1106,8 +1106,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2019",
-                  "description": "Arxiv Disentangling Style and Content in Anime Illustrations Github",
+                  "title": "stormraiser/adversarial-disentangle",
+                  "description": "Arxiv Disentangling Style and Content in Anime Illustrations",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1135,8 +1135,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2025",
-                  "description": "IJCAI AniSora: Exploring the Frontiers of Animation Video Generation in the Sora Era Github",
+                  "title": "bilibili/Index-anisora",
+                  "description": "IJCAI AniSora: Exploring the Frontiers of Animation Video Generation in the Sora Era",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1150,8 +1150,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
-                  "description": "Arxiv Aligning Anime Video Generation with Human Feedback Github",
+                  "title": "bilibili/Index-anisora",
+                  "description": "Arxiv Aligning Anime Video Generation with Human Feedback",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1172,8 +1172,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2025",
-                  "description": "ICCV VACE: All-in-One Video Creation and Editing Github",
+                  "title": "ali-vilab/VACE",
+                  "description": "ICCV VACE: All-in-One Video Creation and Editing",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1187,8 +1187,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
-                  "description": "ICCV LayerAnimate: Layer-level Control for Animation Github",
+                  "title": "IamCreateAI/LayerAnimate",
+                  "description": "ICCV LayerAnimate: Layer-level Control for Animation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1202,8 +1202,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
-                  "description": "ICLR ANIMATEDIFF: ANIMATE YOUR PERSONALIZEDTEXT-TO-IMAGE DIFFUSION MODELS WITHOUTSPECIFIC TUNING Github",
+                  "title": "guoyww/AnimateDiff",
+                  "description": "ICLR ANIMATEDIFF: ANIMATE YOUR PERSONALIZEDTEXT-TO-IMAGE DIFFUSION MODELS WITHOUTSPECIFIC TUNING",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1217,8 +1217,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
-                  "description": "TMM Language-Guided Face Animation by Recurrent StyleGAN-based Generator Github",
+                  "title": "TiankaiHang/language-guided-animation",
+                  "description": "TMM Language-Guided Face Animation by Recurrent StyleGAN-based Generator",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1232,8 +1232,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
-                  "description": "IJCAI Collaborative Neural Rendering using Anime Character Sheets Github",
+                  "title": "megvii-research/IJCAI2023-CoNR",
+                  "description": "IJCAI Collaborative Neural Rendering using Anime Character Sheets",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1261,8 +1261,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2021",
-                  "description": "- Semi-automatic Manga Colorization Using Conditional Adversarial Networks Github",
+                  "title": "qweasdd/manga-colorization",
+                  "description": "- Semi-automatic Manga Colorization Using Conditional Adversarial Networks",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1276,8 +1276,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
-                  "description": "CHI No Pixel Left Behind: Filling Gaps in Anime Colorization Github",
+                  "title": "marc2825/GapFill",
+                  "description": "CHI No Pixel Left Behind: Filling Gaps in Anime Colorization",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1298,8 +1298,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2019",
-                  "description": "ICIP MANGAN: ASSISTING COLORIZATION OF MANGA CHARACTERS CONCEPT ART USING CONDITIONAL GAN Github",
+                  "title": "felipelodur/ManGAN",
+                  "description": "ICIP MANGAN: ASSISTING COLORIZATION OF MANGA CHARACTERS CONCEPT ART USING CONDITIONAL GAN",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1313,8 +1313,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2019",
-                  "description": "Engineering Letters Anime Sketch Coloring with Swish-gated Residual U-net and Spectrally Normalized GAN Github",
+                  "title": "pradeeplam/Anime-Sketch-Coloring-with-Swish-Gated-Residual-UNet",
+                  "description": "Engineering Letters Anime Sketch Coloring with Swish-gated Residual U-net and Spectrally Normalized GAN",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1343,7 +1343,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Github",
+                  "title": "lllyasviel/style2paints",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -1358,8 +1358,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2018",
-                  "description": "ACM-MC User-Guided Deep Anime Line Art Colorization with Conditional Adversarial Networks Github",
+                  "title": "orashi/AlacGAN",
+                  "description": "ACM-MC User-Guided Deep Anime Line Art Colorization with Conditional Adversarial Networks",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1373,8 +1373,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2018",
-                  "description": "Neurocomputing Auto-painter: Cartoon Image Generation from Sketch by Using Conditional Wasserstein Generative Adversarial Networks Github",
+                  "title": "irfanICMLL/Auto_painter",
+                  "description": "Neurocomputing Auto-painter: Cartoon Image Generation from Sketch by Using Conditional Wasserstein Generative Adversarial Networks",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1395,8 +1395,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2026",
-                  "description": "CVPR Towards High-resolution and Disentangled Reference-based Sketch Colorization Github",
+                  "title": "tellurion-kanata/ColorizeDiffusionXL",
+                  "description": "CVPR Towards High-resolution and Disentangled Reference-based Sketch Colorization",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1410,8 +1410,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
-                  "description": "ICCV MagicColor: Multi-Instance Sketch Colorization Github",
+                  "title": "YinHan-Zhang/MagicColor",
+                  "description": "ICCV MagicColor: Multi-Instance Sketch Colorization",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1425,8 +1425,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
-                  "description": "CVPR Image Referenced Sketch Colorization Based on Animation Creation Workflow Github",
+                  "title": "tellurion-kanata/colorizeDiffusion",
+                  "description": "CVPR Image Referenced Sketch Colorization Based on Animation Creation Workflow",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1440,8 +1440,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
-                  "description": "Arxiv SSIMBaD: Sigma Scaling with SSIM-Guided Balanced Diffusion for AnimeFace Colorization GitHub",
+                  "title": "Giventicket/SSIMBaD-Sigma-Scaling-with-SSIM-Guided-Balanced-Diffusion-for-AnimeFace-Colorization",
+                  "description": "Arxiv SSIMBaD: Sigma Scaling with SSIM-Guided Balanced Diffusion for AnimeFace Colorization",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1455,8 +1455,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
-                  "description": "ACM-TG ColorizeDiffusion v2: Enhancing Reference-based Sketch Colorization Through Separating Utilities GitHub",
+                  "title": "tellurion-kanata/colorizeDiffusion",
+                  "description": "ACM-TG ColorizeDiffusion v2: Enhancing Reference-based Sketch Colorization Through Separating Utilities",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1470,8 +1470,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
-                  "description": "Arxiv MangaDiT: Reference-Guided Line Art Colorization with Hierarchical Attention in Diffusion Transformers Github",
+                  "title": "CyberAgentAILab/MangaDiT",
+                  "description": "Arxiv MangaDiT: Reference-Guided Line Art Colorization with Hierarchical Attention in Diffusion Transformers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1485,8 +1485,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
-                  "description": "Arxiv ColorFlow: Retrieval-Augmented Image Sequence Colorization Github",
+                  "title": "TencentARC/ColorFlow",
+                  "description": "Arxiv ColorFlow: Retrieval-Augmented Image Sequence Colorization",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1500,8 +1500,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
-                  "description": "CGF Two-Step Training: Adjustable Sketch Colourization via Reference Image and Text Tag Github",
+                  "title": "tellurion-kanata/sketch_colorizer",
+                  "description": "CGF Two-Step Training: Adjustable Sketch Colourization via Reference Image and Text Tag",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1515,8 +1515,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
-                  "description": "ECCV Eliminating Gradient Conflict in Reference-based Line-Art Colorization Github",
+                  "title": "kunkun0w0/SGA",
+                  "description": "ECCV Eliminating Gradient Conflict in Reference-based Line-Art Colorization",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1530,8 +1530,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2020",
-                  "description": "CVPR Reference-Based Sketch Image Colorization using Augmented-Self Reference and Dense Semantic Correspondence Github",
+                  "title": "Jungjaewon/Reference_based_Skectch_Image_Colorization",
+                  "description": "CVPR Reference-Based Sketch Image Colorization using Augmented-Self Reference and Dense Semantic Correspondence",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1560,7 +1560,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Github",
+                  "title": "ktaebum/AttentionedDeepPaint",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -1575,8 +1575,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2017",
-                  "description": "SIGGRAPH Comicolorization: Semi-Automatic Manga Colorization Github",
+                  "title": "DwangoMediaVillage/Comicolorization",
+                  "description": "SIGGRAPH Comicolorization: Semi-Automatic Manga Colorization",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1590,8 +1590,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2017",
-                  "description": "ICDAR cGAN-based Manga Colorization Using a Single Training Image Github",
+                  "title": "sudheerachary/Manga_Colorization",
+                  "description": "ICDAR cGAN-based Manga Colorization Using a Single Training Image",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1612,8 +1612,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2019",
-                  "description": "ICCV Tag2Pix: Line Art Colorization Using Text Tag With SECat and Changing Loss Github",
+                  "title": "blandocs/Tag2Pix",
+                  "description": "ICCV Tag2Pix: Line Art Colorization Using Text Tag With SECat and Changing Loss",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1634,8 +1634,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2026",
-                  "description": "arXiv OmniColor: A Unified Framework for Multi-modal Lineart Colorization Github",
+                  "title": "zhangxulu1996/OmniColor",
+                  "description": "arXiv OmniColor: A Unified Framework for Multi-modal Lineart Colorization",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1649,8 +1649,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
-                  "description": "ICLR ToonComposer: Streamlining Cartoon Production with Generative Post-Keyframing Github",
+                  "title": "TencentARC/ToonComposer",
+                  "description": "ICLR ToonComposer: Streamlining Cartoon Production with Generative Post-Keyframing",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1664,8 +1664,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
-                  "description": "ICCV LongAnimation: Long Animation Generation with Dynamic Global-Local Memory Github",
+                  "title": "CN-makers/LongAnimation",
+                  "description": "ICCV LongAnimation: Long Animation Generation with Dynamic Global-Local Memory",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1679,8 +1679,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
-                  "description": "CVPR AniDoc: Animation Creation Made Easier Github",
+                  "title": "ant-research/AniDoc",
+                  "description": "CVPR AniDoc: Animation Creation Made Easier",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1694,8 +1694,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
-                  "description": "Arxiv InstanceAnimator: Multi-Instance Sketch Video Colorization Github",
+                  "title": "YinHan-Zhang/InstanceAnimator",
+                  "description": "Arxiv InstanceAnimator: Multi-Instance Sketch Video Colorization",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1709,8 +1709,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
-                  "description": "ACM-TG LVCD: Reference-based Lineart Video Colorization with Diffusion Models Github",
+                  "title": "luckyhzt/LVCD",
+                  "description": "ACM-TG LVCD: Reference-based Lineart Video Colorization with Diffusion Models",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1724,8 +1724,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2019",
-                  "description": "CCCRV Automatic Temporally Coherent Video Colorization Github",
+                  "title": "Harry-Thasarathan/TCVC",
+                  "description": "CCCRV Automatic Temporally Coherent Video Colorization",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1753,8 +1753,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2020",
-                  "description": "CVPR Learning to Shadow Hand-drawn Sketches Github",
+                  "title": "qyzdao/ShadeSketch",
+                  "description": "CVPR Learning to Shadow Hand-drawn Sketches",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1768,8 +1768,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2020",
-                  "description": "ACM-TG Generating Digital Painting Lighting Effects via RGB-space Geometry Github",
+                  "title": "lllyasviel/PaintingLight",
+                  "description": "ACM-TG Generating Digital Painting Lighting Effects via RGB-space Geometry",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1783,8 +1783,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2018",
-                  "description": "ECCV Workshop Deep Normal Estimation for Automatic Shading of Hand-Drawn Characters Github",
+                  "title": "V-Sense/DeepNormals",
+                  "description": "ECCV Workshop Deep Normal Estimation for Automatic Shading of Hand-Drawn Characters",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1805,8 +1805,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2026",
-                  "description": "SIGGRAPH See-through: Single-image Layer Decomposition for Anime Characters Github",
+                  "title": "shitagaki-lab/see-through",
+                  "description": "SIGGRAPH See-through: Single-image Layer Decomposition for Anime Characters",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1815,13 +1815,13 @@
                     "last_commit": "2026-08-05T13:31:48Z",
                     "owner": "shitagaki-lab",
                     "repo": "see-through",
-                    "stars": 3613
+                    "stars": 3617
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
-                  "description": "Arxiv Reference-base Image Composition with Sketch via Structure-aware Diffusion Model Github",
+                  "title": "kangyeolk/Paint-by-Sketch",
+                  "description": "Arxiv Reference-base Image Composition with Sketch via Structure-aware Diffusion Model",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1835,8 +1835,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021",
-                  "description": "NeurIPS Unsupervised Learning of Compositional Energy Concepts Github",
+                  "title": "yilundu/comet",
+                  "description": "NeurIPS Unsupervised Learning of Compositional Energy Concepts",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1850,8 +1850,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021",
-                  "description": "TVCG Cross-Domain and Disentangled Face Manipulation with 3D Guidance Github",
+                  "title": "cassiePython/cddfm3d",
+                  "description": "TVCG Cross-Domain and Disentangled Face Manipulation with 3D Guidance",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1865,8 +1865,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2020",
-                  "description": "ECCV Erasing Appearance Preservation in Optimization-based Smoothing Github",
+                  "title": "lllyasviel/AppearanceEraser",
+                  "description": "ECCV Erasing Appearance Preservation in Optimization-based Smoothing",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1880,8 +1880,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2018",
-                  "description": "Arxiv Spatially Controllable Image Synthesis with Internal Representation Collaging Github",
+                  "title": "quolc/neural-collage",
+                  "description": "Arxiv Spatially Controllable Image Synthesis with Internal Representation Collaging",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1895,8 +1895,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2018",
-                  "description": "PG Decomposing Images into Layers with Advanced Color Blending Github",
+                  "title": "yuki-koyama/unblending",
+                  "description": "PG Decomposing Images into Layers with Advanced Color Blending",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1917,8 +1917,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2023",
-                  "description": "ACM-TG Semi-supervised reference-based sketch extraction using a contrastive learning framework Github",
+                  "title": "Chanuku/Semi_ref2sketch_code",
+                  "description": "ACM-TG Semi-supervised reference-based sketch extraction using a contrastive learning framework",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1932,8 +1932,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
-                  "description": "ACM-TG Reference Based Sketch Extraction via Attention Mechanism Github",
+                  "title": "ref2sketch/ref2sketch",
+                  "description": "ACM-TG Reference Based Sketch Extraction via Attention Mechanism",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1947,8 +1947,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2020",
-                  "description": "ACM-MM SketchMan: Learning to Create Professional Sketches Github",
+                  "title": "LCXCUC/SketchMan2020",
+                  "description": "ACM-MM SketchMan: Learning to Create Professional Sketches",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1962,8 +1962,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2018",
-                  "description": "ACM-TG Real-Time Data-Driven Interactive Rough Sketch Inking Github",
+                  "title": "bobbens/line_thinning",
+                  "description": "ACM-TG Real-Time Data-Driven Interactive Rough Sketch Inking",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1977,8 +1977,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2018",
-                  "description": "ACM-TG Mastering Sketching: Adversarial Augmentation for Structured Prediction Github",
+                  "title": "bobbens/sketch_simplification",
+                  "description": "ACM-TG Mastering Sketching: Adversarial Augmentation for Structured Prediction",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1992,8 +1992,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2017",
-                  "description": "ACM-TG Deep Extraction of Manga Structural Lines Github",
+                  "title": "ljsabc/MangaLineExtraction",
+                  "description": "ACM-TG Deep Extraction of Manga Structural Lines",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2007,8 +2007,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2016",
-                  "description": "ACM-TG Learning to Simplify: Fully Convolutional Networks for Rough Sketch Cleanup Github",
+                  "title": "bobbens/sketch_simplification",
+                  "description": "ACM-TG Learning to Simplify: Fully Convolutional Networks for Rough Sketch Cleanup",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2029,8 +2029,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2024",
-                  "description": "ACM-TG ToonCrafter: Generative Cartoon Interpolation Github",
+                  "title": "Doubiiu/ToonCrafter",
+                  "description": "ACM-TG ToonCrafter: Generative Cartoon Interpolation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2044,8 +2044,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
-                  "description": "ICCV Deep Geometrized Cartoon Line Inbetweening Github",
+                  "title": "lisiyao21/AnimeInbet",
+                  "description": "ICCV Deep Geometrized Cartoon Line Inbetweening",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2059,8 +2059,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
-                  "description": "ICIP Enhanced Deep Animation Video Interpolation Github",
+                  "title": "laomao0/AutoSktFI",
+                  "description": "ICIP Enhanced Deep Animation Video Interpolation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2074,8 +2074,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
-                  "description": "ECCV Improving the Perceptual Quality of 2D Animation Interpolation Github",
+                  "title": "ShuhongChen/eisai-anime-interpolator",
+                  "description": "ECCV Improving the Perceptual Quality of 2D Animation Interpolation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2089,8 +2089,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021",
-                  "description": "CVPR Deep Animation Video Interpolation in the Wild Github",
+                  "title": "lisiyao21/AnimeInterp",
+                  "description": "CVPR Deep Animation Video Interpolation in the Wild",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2111,8 +2111,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2024",
-                  "description": "CVPR APISR: Anime Production Inspired Real-World Anime Super-Resolution Github",
+                  "title": "Kiteretsu77/APISR",
+                  "description": "CVPR APISR: Anime Production Inspired Real-World Anime Super-Resolution",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2126,8 +2126,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
-                  "description": "NeurIPS AnimeSR: Learning Real-World Super-Resolution Models for Animation Videos Github",
+                  "title": "TencentARC/AnimeSR",
+                  "description": "NeurIPS AnimeSR: Learning Real-World Super-Resolution Models for Animation Videos",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2141,8 +2141,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021",
-                  "description": "ICCV Workshop Real-ESRGAN: Training Real-World Blind Super-Resolution with Pure Synthetic Data Github",
+                  "title": "xinntao/Real-ESRGAN",
+                  "description": "ICCV Workshop Real-ESRGAN: Training Real-World Blind Super-Resolution with Pure Synthetic Data",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2151,13 +2151,13 @@
                     "last_commit": "2024-08-06T13:15:18Z",
                     "owner": "xinntao",
                     "repo": "Real-ESRGAN",
-                    "stars": 36574
+                    "stars": 36578
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2021",
-                  "description": "JSCI Enhancement of Anime Imaging Enlargement using Modified Super-Resolution CNN Github",
+                  "title": "TanakitInt/SRCNN-anime",
+                  "description": "JSCI Enhancement of Anime Imaging Enlargement using Modified Super-Resolution CNN",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -2178,8 +2178,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2025",
-                  "description": "arXiv ToonOut: Fine-tuned Background-Removal for Anime Characters Github",
+                  "title": "MatteoKartoon/BiRefNet",
+                  "description": "arXiv ToonOut: Fine-tuned Background-Removal for Anime Characters",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2207,8 +2207,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2024",
-                  "description": "Arxiv Sketch2Manga: Shaded Manga Screening from Sketch with Diffusion Models Github",
+                  "title": "dmMaze/sketch2manga",
+                  "description": "Arxiv Sketch2Manga: Shaded Manga Screening from Sketch with Diffusion Models",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2229,8 +2229,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2021",
-                  "description": "CVPR Exploiting Aliasing for Manga Restoration Github",
+                  "title": "msxie92/MangaRestoration",
+                  "description": "CVPR Exploiting Aliasing for Manga Restoration",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2251,8 +2251,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2018",
-                  "description": "Arxiv Facial Landmark Detection for Manga Images GitHub",
+                  "title": "oaugereau/FacialLandmarkManga",
+                  "description": "Arxiv Facial Landmark Detection for Manga Images",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2280,8 +2280,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2015",
-                  "description": "SIGGRAPH Illustration2Vec: A Semantic Vector Representation of Illustrations Github",
+                  "title": "rezoo/illustration2vec",
+                  "description": "SIGGRAPH Illustration2Vec: A Semantic Vector Representation of Illustrations",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2309,8 +2309,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2022",
-                  "description": "WACV Transfer Learning for Pose Estimation of Illustrated Characters Github",
+                  "title": "ShuhongChen/bizarre-pose-estimator",
+                  "description": "WACV Transfer Learning for Pose Estimation of Illustrated Characters",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2338,8 +2338,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2021",
-                  "description": "Arxiv AugNet: End-to-End Unsupervised Visual Representation Learning with Image Augmentation Github",
+                  "title": "chenmingxiang110/AugNet",
+                  "description": "Arxiv AugNet: End-to-End Unsupervised Visual Representation Learning with Image Augmentation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2367,8 +2367,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2022",
-                  "description": "ECCV Open-Vocabulary DETR with Conditional Matching Github",
+                  "title": "yuhangzang/OV-DETR",
+                  "description": "ECCV Open-Vocabulary DETR with Conditional Matching",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2396,8 +2396,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2023",
-                  "description": "NeurIPS DreamWaltz: Make a Scene with Complex 3D Animatable Avatars Github",
+                  "title": "IDEA-Research/DreamWaltz",
+                  "description": "NeurIPS DreamWaltz: Make a Scene with Complex 3D Animatable Avatars",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2425,8 +2425,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2019",
-                  "description": "ACM SAC KidsGUARD: Fine Grained Approach for Child Unsafe Video Representation and Detection Github",
+                  "title": "precog-iiith/kidsguard-sac",
+                  "description": "ACM SAC KidsGUARD: Fine Grained Approach for Child Unsafe Video Representation and Detection",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2454,8 +2454,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2024",
-                  "description": "under review One missing peace in Vision & Language: A survey on Comics Understanding GitHub",
+                  "title": "One missing peace in Vision & Language: A survey on Comics Understanding",
+                  "description": "under review GitHub",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2944,7 +2944,7 @@
                 "last_commit": "2023-05-04T00:50:48Z",
                 "owner": "nagadomi",
                 "repo": "waifu2x",
-                "stars": 28212
+                "stars": 28211
               }
             },
             {
@@ -3048,7 +3048,7 @@
                 "last_commit": "2026-07-05T12:37:29Z",
                 "owner": "hysts",
                 "repo": "anime-face-detector",
-                "stars": 531
+                "stars": 532
               }
             },
             {
@@ -3073,7 +3073,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T22:46:24.510Z",
+    "last_updated": "2026-08-25T05:17:47.015Z",
     "original_repository": "SerialLain3170/AwesomeAnimeResearch",
     "original_repository_id": 259125787,
     "original_repository_sha": "b93d524e8e9975b14d99ba153521a7323595fcff",
