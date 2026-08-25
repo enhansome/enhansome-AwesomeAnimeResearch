@@ -2,7 +2,7 @@
 
 Everything related to Anime.\
 For the **Comics/Manga** papers, please refer to [🔥 Awesome Comics Understanding](https://github.com/emanuelevivoli/awesome-comics-understanding) ⭐ 142 | 🐛 1 | 📅 2025-01-02\
-For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-Research](https://github.com/zhenglinpan/Awesome-Animation-Research) ⭐ 212 | 🐛 2 | 📅 2026-04-21
+For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-Research](https://github.com/zhenglinpan/Awesome-Animation-Research) ⭐ 212 | 🐛 1 | 📅 2026-08-25
 
 ## 📂 Datasets
 
@@ -479,7 +479,7 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
 
   | **Year** | **Conference / Journal** | **Title**                                                                                                                                                                                                                                        | **Links**                                                                                               |   |
   | -------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- | - |
-  | 2026     | SIGGRAPH                 | [See-through: Single-image Layer Decomposition for Anime Characters](https://dl.acm.org/doi/epdf/10.1145/3799902.3811209)                                                                                                                        | [Github](https://github.com/shitagaki-lab/see-through) ⭐ 3,617 \| 🐛 16 \| 🌐 Python \| 📅 2026-08-05   |   |
+  | 2026     | SIGGRAPH                 | [See-through: Single-image Layer Decomposition for Anime Characters](https://dl.acm.org/doi/epdf/10.1145/3799902.3811209)                                                                                                                        | [Github](https://github.com/shitagaki-lab/see-through) ⭐ 3,619 \| 🐛 16 \| 🌐 Python \| 📅 2026-08-05   |   |
   | 2024     | Arxiv                    | [Re:Draw - Context Aware Translation as a Controllable Method for Artistic Production](https://arxiv.org/pdf/2401.03499.pdf)                                                                                                                     |                                                                                                         |   |
   | 2023     | Arxiv                    | [DreamTuner: Single Image is Enough for Subject-Driven Generation](https://arxiv.org/pdf/2312.13691)                                                                                                                                             |                                                                                                         |   |
   | 2023     | Arxiv                    | [Instance-guided Cartoon Editing with a Large-scale Dataset](https://arxiv.org/pdf/2312.01943.pdf)                                                                                                                                               |                                                                                                         |   |
@@ -545,7 +545,7 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
   | 2024     | CVPR                     | [APISR: Anime Production Inspired Real-World Anime Super-Resolution](https://arxiv.org/pdf/2403.01598.pdf)               | [Github](https://github.com/Kiteretsu77/APISR) ⭐ 1,135 \| 🐛 21 \| 🌐 Python \| 📅 2025-10-16     |
   | 2022     | NeurIPS                  | [AnimeSR: Learning Real-World Super-Resolution Models for Animation Videos](https://arxiv.org/pdf/2206.07038.pdf)        | [Github](https://github.com/TencentARC/AnimeSR) ⭐ 370 \| 🐛 11 \| 🌐 Python \| 📅 2023-08-18      |
   | 2022     | Sensors                  | [A Transformer-Based Model for Super-Resolution of Anime Image](https://www.mdpi.com/1424-8220/22/21/8126)               |                                                                                                   |
-  | 2021     | ICCV Workshop            | [Real-ESRGAN: Training Real-World Blind Super-Resolution with Pure Synthetic Data](https://arxiv.org/pdf/2107.10833.pdf) | [Github](https://github.com/xinntao/Real-ESRGAN) ⭐ 36,578 \| 🐛 646 \| 🌐 Python \| 📅 2024-08-06 |
+  | 2021     | ICCV Workshop            | [Real-ESRGAN: Training Real-World Blind Super-Resolution with Pure Synthetic Data](https://arxiv.org/pdf/2107.10833.pdf) | [Github](https://github.com/xinntao/Real-ESRGAN) ⭐ 36,579 \| 🐛 646 \| 🌐 Python \| 📅 2024-08-06 |
   | 2021     | JSCI                     | [Enhancement of Anime Imaging Enlargement using Modified Super-Resolution CNN](https://arxiv.org/pdf/2110.02321.pdf)     | [Github](https://github.com/TanakitInt/SRCNN-anime) ⚠️ Archived                                   |
 
   </details>
@@ -846,7 +846,7 @@ Summary of github or other types of projects that are related to anime or manga 
 * <details>
     <summary>Repository</summary>
 
-  * [Awesome-Animation-Research](https://github.com/zhenglinpan/Awesome-Animation-Research) ⭐ 212 | 🐛 2 | 📅 2026-04-21
+  * [Awesome-Animation-Research](https://github.com/zhenglinpan/Awesome-Animation-Research) ⭐ 212 | 🐛 1 | 📅 2026-08-25
 
   </details>
 

@@ -1815,7 +1815,7 @@
                     "last_commit": "2026-08-05T13:31:48Z",
                     "owner": "shitagaki-lab",
                     "repo": "see-through",
-                    "stars": 3617
+                    "stars": 3619
                   }
                 },
                 {
@@ -2151,7 +2151,7 @@
                     "last_commit": "2024-08-06T13:15:18Z",
                     "owner": "xinntao",
                     "repo": "Real-ESRGAN",
-                    "stars": 36578
+                    "stars": 36579
                   }
                 },
                 {
@@ -2494,7 +2494,7 @@
                 "archived": false,
                 "id": 728390467,
                 "language": null,
-                "last_commit": "2026-04-21T03:50:04Z",
+                "last_commit": "2026-08-25T05:38:06Z",
                 "owner": "zhenglinpan",
                 "repo": "Awesome-Animation-Research",
                 "stars": 212
@@ -3073,7 +3073,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:17:47.015Z",
+    "last_updated": "2026-08-25T06:06:04.749Z",
     "original_repository": "SerialLain3170/AwesomeAnimeResearch",
     "original_repository_id": 259125787,
     "original_repository_sha": "b93d524e8e9975b14d99ba153521a7323595fcff",
