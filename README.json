@@ -579,7 +579,7 @@
                     "last_commit": "2024-02-25T09:49:39Z",
                     "owner": "lllyasviel",
                     "repo": "ControlNet",
-                    "stars": 34079
+                    "stars": 34086
                   }
                 },
                 {
@@ -1182,7 +1182,7 @@
                     "last_commit": "2025-10-17T05:46:57Z",
                     "owner": "ali-vilab",
                     "repo": "VACE",
-                    "stars": 3930
+                    "stars": 3932
                   }
                 },
                 {
@@ -1212,7 +1212,7 @@
                     "last_commit": "2024-07-31T01:14:15Z",
                     "owner": "guoyww",
                     "repo": "AnimateDiff",
-                    "stars": 12224
+                    "stars": 12227
                   }
                 },
                 {
@@ -1286,7 +1286,7 @@
                     "last_commit": "2026-08-21T16:43:11Z",
                     "owner": "marc2825",
                     "repo": "GapFill",
-                    "stars": 28
+                    "stars": 21
                   }
                 }
               ]
@@ -1495,7 +1495,7 @@
                     "last_commit": "2026-08-15T03:56:15Z",
                     "owner": "TencentARC",
                     "repo": "ColorFlow",
-                    "stars": 462
+                    "stars": 461
                   }
                 },
                 {
@@ -1659,7 +1659,7 @@
                     "last_commit": "2025-08-20T06:21:56Z",
                     "owner": "TencentARC",
                     "repo": "ToonComposer",
-                    "stars": 585
+                    "stars": 586
                   }
                 },
                 {
@@ -1815,7 +1815,7 @@
                     "last_commit": "2026-08-05T13:31:48Z",
                     "owner": "shitagaki-lab",
                     "repo": "see-through",
-                    "stars": 3619
+                    "stars": 3627
                   }
                 },
                 {
@@ -2151,7 +2151,7 @@
                     "last_commit": "2024-08-06T13:15:18Z",
                     "owner": "xinntao",
                     "repo": "Real-ESRGAN",
-                    "stars": 36579
+                    "stars": 36585
                   }
                 },
                 {
@@ -2556,7 +2556,7 @@
                 "last_commit": "2022-08-24T04:29:50Z",
                 "owner": "jayleicn",
                 "repo": "animeGAN",
-                "stars": 1276
+                "stars": 1277
               }
             },
             {
@@ -2959,7 +2959,7 @@
                 "last_commit": "2024-08-17T12:09:12Z",
                 "owner": "bloc97",
                 "repo": "Anime4K",
-                "stars": 21289
+                "stars": 21287
               }
             },
             {
@@ -3073,7 +3073,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:06:04.749Z",
+    "last_updated": "2026-08-25T22:47:19.532Z",
     "original_repository": "SerialLain3170/AwesomeAnimeResearch",
     "original_repository_id": 259125787,
     "original_repository_sha": "b93d524e8e9975b14d99ba153521a7323595fcff",
