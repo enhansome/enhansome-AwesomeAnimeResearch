@@ -155,7 +155,7 @@
                 "last_commit": "2025-03-10T00:25:46Z",
                 "owner": "kangyeolk",
                 "repo": "AnimeCeleb",
-                "stars": 133
+                "stars": 134
               }
             },
             {
@@ -579,7 +579,7 @@
                     "last_commit": "2024-02-25T09:49:39Z",
                     "owner": "lllyasviel",
                     "repo": "ControlNet",
-                    "stars": 34086
+                    "stars": 34093
                   }
                 },
                 {
@@ -862,7 +862,7 @@
                     "last_commit": "2022-08-03T16:38:02Z",
                     "owner": "TachibanaYoshino",
                     "repo": "AnimeGAN",
-                    "stars": 4606
+                    "stars": 4607
                   }
                 },
                 {
@@ -877,7 +877,7 @@
                     "last_commit": "2022-08-03T16:38:02Z",
                     "owner": "TachibanaYoshino",
                     "repo": "AnimeGAN",
-                    "stars": 4606
+                    "stars": 4607
                   }
                 },
                 {
@@ -907,7 +907,7 @@
                     "last_commit": "2026-01-19T01:43:24Z",
                     "owner": "SystemErrorWang",
                     "repo": "White-box-Cartoonization",
-                    "stars": 4001
+                    "stars": 4002
                   }
                 },
                 {
@@ -922,7 +922,7 @@
                     "last_commit": "2026-01-19T01:43:24Z",
                     "owner": "SystemErrorWang",
                     "repo": "White-box-Cartoonization",
-                    "stars": 4001
+                    "stars": 4002
                   }
                 },
                 {
@@ -1145,7 +1145,7 @@
                     "last_commit": "2026-07-16T08:14:26Z",
                     "owner": "bilibili",
                     "repo": "Index-anisora",
-                    "stars": 2503
+                    "stars": 2505
                   }
                 },
                 {
@@ -1160,7 +1160,7 @@
                     "last_commit": "2026-07-16T08:14:26Z",
                     "owner": "bilibili",
                     "repo": "Index-anisora",
-                    "stars": 2503
+                    "stars": 2505
                   }
                 }
               ]
@@ -1182,7 +1182,7 @@
                     "last_commit": "2025-10-17T05:46:57Z",
                     "owner": "ali-vilab",
                     "repo": "VACE",
-                    "stars": 3932
+                    "stars": 3934
                   }
                 },
                 {
@@ -1495,7 +1495,7 @@
                     "last_commit": "2026-08-15T03:56:15Z",
                     "owner": "TencentARC",
                     "repo": "ColorFlow",
-                    "stars": 461
+                    "stars": 462
                   }
                 },
                 {
@@ -1815,7 +1815,7 @@
                     "last_commit": "2026-08-05T13:31:48Z",
                     "owner": "shitagaki-lab",
                     "repo": "see-through",
-                    "stars": 3627
+                    "stars": 3644
                   }
                 },
                 {
@@ -2084,7 +2084,7 @@
                     "last_commit": "2024-06-30T02:24:44Z",
                     "owner": "ShuhongChen",
                     "repo": "eisai-anime-interpolator",
-                    "stars": 125
+                    "stars": 127
                   }
                 },
                 {
@@ -2136,7 +2136,7 @@
                     "last_commit": "2023-08-18T13:09:28Z",
                     "owner": "TencentARC",
                     "repo": "AnimeSR",
-                    "stars": 370
+                    "stars": 369
                   }
                 },
                 {
@@ -2151,7 +2151,7 @@
                     "last_commit": "2024-08-06T13:15:18Z",
                     "owner": "xinntao",
                     "repo": "Real-ESRGAN",
-                    "stars": 36585
+                    "stars": 36594
                   }
                 },
                 {
@@ -2698,7 +2698,7 @@
                 "last_commit": "2024-08-27T04:44:47Z",
                 "owner": "TachibanaYoshino",
                 "repo": "AnimeGANv2",
-                "stars": 5371
+                "stars": 5372
               }
             },
             {
@@ -2728,7 +2728,7 @@
                 "last_commit": "2020-10-03T09:31:25Z",
                 "owner": "SystemErrorWang",
                 "repo": "FacialCartoonization",
-                "stars": 282
+                "stars": 283
               }
             },
             {
@@ -2892,7 +2892,7 @@
                 "last_commit": "2022-06-29T20:26:56Z",
                 "owner": "pkhungurn",
                 "repo": "talking-head-anime-2-demo",
-                "stars": 1153
+                "stars": 1154
               }
             },
             {
@@ -2944,7 +2944,7 @@
                 "last_commit": "2023-05-04T00:50:48Z",
                 "owner": "nagadomi",
                 "repo": "waifu2x",
-                "stars": 28211
+                "stars": 28213
               }
             },
             {
@@ -2959,7 +2959,7 @@
                 "last_commit": "2024-08-17T12:09:12Z",
                 "owner": "bloc97",
                 "repo": "Anime4K",
-                "stars": 21287
+                "stars": 21296
               }
             },
             {
@@ -2974,7 +2974,7 @@
                 "last_commit": "2023-08-02T15:34:07Z",
                 "owner": "bilibili",
                 "repo": "ailab",
-                "stars": 5880
+                "stars": 5881
               }
             },
             {
@@ -3048,7 +3048,7 @@
                 "last_commit": "2026-07-05T12:37:29Z",
                 "owner": "hysts",
                 "repo": "anime-face-detector",
-                "stars": 532
+                "stars": 533
               }
             },
             {
@@ -3073,7 +3073,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T22:47:19.532Z",
+    "last_updated": "2026-08-27T03:20:28.732Z",
     "original_repository": "SerialLain3170/AwesomeAnimeResearch",
     "original_repository_id": 259125787,
     "original_repository_sha": "b93d524e8e9975b14d99ba153521a7323595fcff",
