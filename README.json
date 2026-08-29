@@ -15,12 +15,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1176615151,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-03-12T01:36:51Z",
+                "open_issues": 0,
                 "owner": "sizigi",
                 "repo": "animescore",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             },
@@ -31,12 +36,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Context-Informed Machine Translation of Manga using Multimodal Large Language Models",
+                "homepage": "https://arxiv.org/abs/2411.02589",
                 "id": 883279963,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-12-03T09:58:37Z",
+                "open_issues": 0,
                 "owner": "PLippmann",
                 "repo": "multimodal-manga-translation",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             },
@@ -47,12 +57,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generate a transcript for your favourite Manga: Detect manga characters, text blocks and panels. Order panels. Cluster characters. Match texts to their speakers. Perform OCR. ",
+                "homepage": null,
                 "id": 745046789,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-06-27T05:59:24Z",
+                "open_issues": 6,
                 "owner": "ragavsachdeva",
                 "repo": "magi",
-                "stars": 468
+                "stars": 468,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             },
@@ -63,12 +78,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository for \"CoMix: Comprehensive Benchmark for Multi-Task Comic Understanding\"",
+                "homepage": null,
                 "id": 806977234,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-11-20T14:59:30Z",
+                "open_issues": 0,
                 "owner": "emanuelevivoli",
                 "repo": "CoMix-dataset",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             },
@@ -79,12 +99,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2023] The official implementation of CVPR 2023 paper \"Human-Art: A Versatile Human-Centric Dataset Bridging Natural and Artificial Scenes\"",
+                "homepage": null,
                 "id": 622982264,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2023-10-03T07:29:58Z",
+                "open_issues": 5,
                 "owner": "IDEA-Research",
                 "repo": "HumanArt",
-                "stars": 286
+                "stars": 286,
+                "topics": [
+                  "cvpr",
+                  "cvpr2023",
+                  "datasets",
+                  "human-pose-estimation",
+                  "image-generation",
+                  "multi-scenario",
+                  "multi-scene",
+                  "pose-estimation"
+                ]
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             },
@@ -95,12 +129,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Various annotations of Manga109 dataset",
+                "homepage": null,
                 "id": 510622406,
                 "language": null,
+                "license": "CC-BY-4.0",
                 "last_commit": "2025-04-23T17:41:15Z",
+                "open_issues": 0,
                 "owner": "manga109",
                 "repo": "public-annotations",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "annotations",
+                  "comic-onomatopoeia",
+                  "manga109"
+                ]
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             },
@@ -111,12 +154,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Description of 4 sketch style (4SKST) dataset",
+                "homepage": null,
                 "id": 642809930,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-05-19T11:59:58Z",
+                "open_issues": 0,
                 "owner": "Chanuku",
                 "repo": "4skst",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             },
@@ -127,12 +175,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 606606075,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-02-27T10:25:50Z",
+                "open_issues": 1,
                 "owner": "zsl2018",
                 "repo": "StyleAnime",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             },
@@ -143,12 +196,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "COO: Comic onomatopoeia dataset (ECCV 2022)",
+                "homepage": null,
                 "id": 510341672,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-02-18T06:07:20Z",
+                "open_issues": 0,
                 "owner": "ku21fan",
                 "repo": "COO-Comic-Onomatopoeia",
-                "stars": 95
+                "stars": 95,
+                "topics": [
+                  "comic-onomatopoeia",
+                  "eccv2022",
+                  "link-prediction",
+                  "text-detection",
+                  "text-recognition"
+                ]
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             },
@@ -159,12 +223,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of \"AnimeCeleb: Large-Scale Animation CelebHeads Dataset for Head Reenactment\" (ECCV 2022)",
+                "homepage": null,
                 "id": 512798795,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-03-10T00:25:46Z",
+                "open_issues": 0,
                 "owner": "kangyeolk",
                 "repo": "AnimeCeleb",
-                "stars": 134
+                "stars": 134,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             },
@@ -175,12 +244,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "For holding anime-related object classification and detection models",
+                "homepage": null,
                 "id": 319500733,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2025-04-21T09:18:22Z",
+                "open_issues": 0,
                 "owner": "arkel23",
                 "repo": "animesion",
-                "stars": 91
+                "stars": 91,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             },
@@ -191,12 +265,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "iCartoonFace dataset, and baseline approaches, the project is supported by iQIYI",
+                "homepage": null,
                 "id": 307897965,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2021-06-25T08:43:49Z",
+                "open_issues": 6,
                 "owner": "luxiangju-PersonAI",
                 "repo": "iCartoonFace",
-                "stars": 310
+                "stars": 310,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             },
@@ -207,12 +286,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Segmentation of text in manga images",
+                "homepage": null,
                 "id": 293927247,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2021-02-06T22:09:51Z",
+                "open_issues": 0,
                 "owner": "juvian",
                 "repo": "Manga-Text-Segmentation",
-                "stars": 142
+                "stars": 142,
+                "topics": [
+                  "deep-learning",
+                  "manga",
+                  "segmentation"
+                ]
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             },
@@ -223,12 +311,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DanbooRegion: An Illustration Region Dataset (ECCV 2020)",
+                "homepage": null,
                 "id": 277060763,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-11-16T08:32:48Z",
+                "open_issues": 3,
                 "owner": "lllyasviel",
                 "repo": "DanbooRegion",
-                "stars": 400
+                "stars": 400,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             },
@@ -239,12 +332,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "COMICS data / code / annotations",
+                "homepage": null,
                 "id": 73947295,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-02-20T18:12:22Z",
+                "open_issues": 4,
                 "owner": "miyyer",
                 "repo": "comics",
-                "stars": 126
+                "stars": 126,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             }
@@ -262,12 +360,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AnimationBench: Are Video Models Good at Character-Centric Animation?",
+                "homepage": null,
                 "id": 1210553582,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-17T09:58:20Z",
+                "open_issues": 0,
                 "owner": "VideoVerses",
                 "repo": "AnimationBench",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             }
@@ -293,12 +396,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Controllable Animation Video Generation with Large Models-based Multimodal Agents",
+                    "homepage": null,
                     "id": 836212807,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2026-01-07T08:58:45Z",
+                    "open_issues": 5,
                     "owner": "HITsz-TMG",
                     "repo": "Anim-Director",
-                    "stars": 252
+                    "stars": 252,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -309,12 +417,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Controllable Animation Video Generation with Large Models-based Multimodal Agents",
+                    "homepage": null,
                     "id": 836212807,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2026-01-07T08:58:45Z",
+                    "open_issues": 5,
                     "owner": "HITsz-TMG",
                     "repo": "Anim-Director",
-                    "stars": 252
+                    "stars": 252,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 }
@@ -339,12 +452,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": "http://stylegan-nada.github.io/",
                     "id": 379050021,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-09-29T17:52:46Z",
+                    "open_issues": 14,
                     "owner": "rinongal",
                     "repo": "StyleGAN-nada",
-                    "stars": 1195
+                    "stars": 1195,
+                    "topics": [
+                      "domain-adaptation",
+                      "generative-adversarial-network",
+                      "stylegan"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -355,12 +477,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code and project page for ICCV 2021 paper \"DisUnknown: Distilling Unknown Factors for Disentanglement Learning\"",
+                    "homepage": null,
                     "id": 406071664,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-10-13T06:33:40Z",
+                    "open_issues": 0,
                     "owner": "stormraiser",
                     "repo": "disunknown",
-                    "stars": 26
+                    "stars": 26,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -371,12 +498,37 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Reference code for the paper HistoGAN: Controlling Colors of GAN-Generated and Real Images via Color Histograms (CVPR 2021). ",
+                    "homepage": null,
                     "id": 242064069,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2023-02-25T23:08:57Z",
+                    "open_issues": 9,
                     "owner": "mahmoudnafifi",
                     "repo": "HistoGAN",
-                    "stars": 292
+                    "stars": 292,
+                    "topics": [
+                      "color-histogram",
+                      "color-transfer",
+                      "cvpr",
+                      "cvpr2021",
+                      "deep-learning",
+                      "deeplearning",
+                      "gan",
+                      "gans",
+                      "histogram",
+                      "image-editing",
+                      "image-manipulation",
+                      "image-recoloring",
+                      "pytorch",
+                      "recoloring",
+                      "style-transfer",
+                      "style-transfer-algorithms",
+                      "style-transfers",
+                      "stylegan",
+                      "stylegan2"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -387,12 +539,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 302860390,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-02-10T08:29:48Z",
+                    "open_issues": 1,
                     "owner": "MiaoyunZhao",
                     "repo": "GANmemory_LifelongLearning",
-                    "stars": 51
+                    "stars": 51,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -403,12 +560,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 244036649,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-02-06T21:35:04Z",
+                    "open_issues": 1,
                     "owner": "RileyLazarou",
                     "repo": "AEGAN-keras",
-                    "stars": 28
+                    "stars": 28,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 }
@@ -426,12 +588,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Freeze the Discriminator: a Simple Baseline for Fine-Tuning GANs (CVPRW 2020)",
+                    "homepage": "https://arxiv.org/abs/2002.10964",
                     "id": 243036280,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-12-12T03:36:00Z",
+                    "open_issues": 4,
                     "owner": "sangwoomo",
                     "repo": "FreezeD",
-                    "stars": 286
+                    "stars": 286,
+                    "topics": [
+                      "gan",
+                      "generative-adversarial-network",
+                      "generative-models",
+                      "transfer-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -442,12 +614,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "GAN, transfer learning, few data. ",
+                    "homepage": null,
                     "id": 244921440,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-03-24T22:30:10Z",
+                    "open_issues": 3,
                     "owner": "yaxingwang",
                     "repo": "MineGAN",
-                    "stars": 143
+                    "stars": 143,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -458,12 +635,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Few-shot adaptation of GANs.",
+                    "homepage": "https://e-271.github.io/few-shot-gan",
                     "id": 240268092,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2020-12-14T02:18:25Z",
+                    "open_issues": 13,
                     "owner": "e-271",
                     "repo": "few-shot-gan",
-                    "stars": 127
+                    "stars": 127,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -474,12 +656,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 182192497,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-12-29T13:55:21Z",
+                    "open_issues": 4,
                     "owner": "nogu-atsu",
                     "repo": "small-dataset-image-generation",
-                    "stars": 58
+                    "stars": 58,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 }
@@ -497,12 +684,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICCV'21] EigenGAN: Layer-Wise Eigen-Learning for GANs",
+                    "homepage": null,
                     "id": 361605068,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-03-06T02:40:08Z",
+                    "open_issues": 0,
                     "owner": "LynnHo",
                     "repo": "EigenGAN-Tensorflow",
-                    "stars": 341
+                    "stars": 341,
+                    "topics": [
+                      "eigengan",
+                      "gan",
+                      "gans"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -513,12 +709,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICLR2022] Code for \"Learning Disentangled Representation by Exploiting Pretrained Generative Models: A Contrastive Learning View\"",
+                    "homepage": null,
                     "id": 340439382,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-03-24T06:03:26Z",
+                    "open_issues": 3,
                     "owner": "xrenaa",
                     "repo": "DisCo",
-                    "stars": 138
+                    "stars": 138,
+                    "topics": [
+                      "deep-learning",
+                      "disentangled-representations",
+                      "gan",
+                      "gans",
+                      "generative-adversarial-network",
+                      "generative-model",
+                      "pytorch",
+                      "pytorch-implementation",
+                      "unsupervised-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -529,12 +740,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2021] Closed-Form Factorization of Latent Semantics in GANs",
+                    "homepage": "https://genforce.github.io/sefa/",
                     "id": 279760284,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-03-04T07:28:10Z",
+                    "open_issues": 13,
                     "owner": "genforce",
                     "repo": "sefa",
-                    "stars": 965
+                    "stars": 965,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -545,12 +761,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The authors official implementation of Unsupervised Discovery of Interpretable Directions in the GAN Latent Space",
+                    "homepage": null,
                     "id": 239498856,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-10-03T22:35:26Z",
+                    "open_issues": 19,
                     "owner": "anvoynov",
                     "repo": "GANLatentDiscovery",
-                    "stars": 428
+                    "stars": 428,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -561,12 +782,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 210580804,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-10-02T11:12:07Z",
+                    "open_issues": 0,
                     "owner": "anvoynov",
                     "repo": "RandomPathGAN",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 }
@@ -584,12 +810,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 444351157,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-05-24T13:11:05Z",
+                    "open_issues": 0,
                     "owner": "uchidalab",
                     "repo": "docker-montage-gan",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 }
@@ -607,12 +838,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Let us control diffusion models!",
+                    "homepage": null,
                     "id": 595893961,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-02-25T09:49:39Z",
+                    "open_issues": 460,
                     "owner": "lllyasviel",
                     "repo": "ControlNet",
-                    "stars": 34097
+                    "stars": 34101,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -623,12 +859,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "stable diffusion webui with contrastive prompt tuning",
+                    "homepage": null,
                     "id": 551320265,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-11-23T02:22:28Z",
+                    "open_issues": 17,
                     "owner": "IrisRainbowNeko",
                     "repo": "DreamArtist-stable-diffusion",
-                    "stars": 865
+                    "stars": 865,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 }
@@ -653,12 +894,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official repo for paper \"AgileGAN: Stylizing Portraits by Inversion-Consistent Transfer Learning\"",
+                    "homepage": null,
                     "id": 361093043,
                     "language": null,
+                    "license": null,
                     "last_commit": "2022-08-09T02:37:21Z",
+                    "open_issues": 3,
                     "owner": "GuoxianSong",
                     "repo": "AgileGAN",
-                    "stars": 371
+                    "stars": 371,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -669,12 +915,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Fine-tuning StyleGAN2 for Cartoon Face Generation",
+                    "homepage": null,
                     "id": 378214423,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2021-10-16T08:08:34Z",
+                    "open_issues": 12,
                     "owner": "happy-jihye",
                     "repo": "Cartoon-StyleGAN",
-                    "stars": 655
+                    "stars": 655,
+                    "topics": [
+                      "animegan",
+                      "cartoongan",
+                      "gan",
+                      "stylegan2"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -685,12 +941,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official PyTorch repo for GAN's N' Roses. Diverse im2im and vid2vid selfie to anime translation.",
+                    "homepage": null,
                     "id": 376006790,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2022-05-27T02:22:58Z",
+                    "open_issues": 14,
                     "owner": "mchong6",
                     "repo": "GANsNRoses",
-                    "stars": 1148
+                    "stars": 1148,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -701,12 +962,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 347454765,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2022-11-21T10:54:36Z",
+                    "open_issues": 3,
                     "owner": "bing-li-ai",
                     "repo": "AniGAN",
-                    "stars": 101
+                    "stars": 101,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -717,12 +983,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Unsupervised image-to-image translation method via pre-trained StyleGAN2 network",
+                    "homepage": null,
                     "id": 304185516,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2020-11-23T10:29:39Z",
+                    "open_issues": 12,
                     "owner": "HideUnderBush",
                     "repo": "UI2I_via_StyleGAN2",
-                    "stars": 224
+                    "stars": 224,
+                    "topics": [
+                      "image-translation",
+                      "pytorch",
+                      "stylegan2"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -733,12 +1008,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A basic architecture of \"DA-GAN: Instance-level Image Translation by Deep Attention Generative Adversarial Networks\"",
+                    "homepage": null,
                     "id": 151804350,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2018-10-06T05:24:39Z",
+                    "open_issues": 1,
                     "owner": "Rongpeng-Lin",
                     "repo": "A-DA-GAN-architecture",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -749,12 +1029,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Twin-GAN -- Unpaired Cross-Domain Image Translation with Weight-Sharing GANs",
+                    "homepage": null,
                     "id": 130006211,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-11-22T02:46:57Z",
+                    "open_issues": 21,
                     "owner": "jerryli27",
                     "repo": "TwinGAN",
-                    "stars": 714
+                    "stars": 714,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -765,12 +1050,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Source code and information for the ECCV 2018 paper: Gokaslan et al., 'Improving Shape Deformation in Unsupervised Image-to-Image Translation'",
+                    "homepage": null,
                     "id": 142340123,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-09-01T21:27:27Z",
+                    "open_issues": 17,
                     "owner": "brownvc",
                     "repo": "ganimorph",
-                    "stars": 121
+                    "stars": 121,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 }
@@ -788,12 +1078,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official implementation of FQ-GAN",
+                    "homepage": null,
                     "id": 240402769,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-07-19T03:40:41Z",
+                    "open_issues": 7,
                     "owner": "YangNaruto",
                     "repo": "FQ-GAN",
-                    "stars": 168
+                    "stars": 168,
+                    "topics": [
+                      "biggan",
+                      "gans",
+                      "image-generation",
+                      "image-translation",
+                      "pytorch",
+                      "stylegan",
+                      "tensorflow"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -804,12 +1107,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Unpaired Image-to-Image Translation using Adversarial Consistency Loss, ECCV 2020",
+                    "homepage": null,
                     "id": 289187125,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2022-12-16T08:25:31Z",
+                    "open_issues": 5,
                     "owner": "hyperplane-lab",
                     "repo": "ACL-GAN",
-                    "stars": 150
+                    "stars": 150,
+                    "topics": [
+                      "image-to-image-translation"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -820,12 +1130,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "AttentionGAN for Unpaired Image-to-Image Translation & Multi-Domain Image-to-Image Translation",
+                    "homepage": null,
                     "id": 196018884,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-07-06T21:30:54Z",
+                    "open_issues": 19,
                     "owner": "Ha0Tang",
                     "repo": "AttentionGAN",
-                    "stars": 686
+                    "stars": 686,
+                    "topics": [
+                      "adversarial-networks",
+                      "attention-model",
+                      "computer-vision",
+                      "cyclegan",
+                      "deep-learning",
+                      "gans",
+                      "geometry",
+                      "ijcnn",
+                      "image-generation",
+                      "image-to-image-translation",
+                      "image-translation",
+                      "multi-domain",
+                      "pytorch",
+                      "unpaired"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -836,12 +1166,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Implementation for our paper Breaking the Cycle - Colleagues are all you need (CVPR 2020)",
+                    "homepage": null,
                     "id": 223907875,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2020-10-19T06:21:21Z",
+                    "open_issues": 4,
                     "owner": "Onr",
                     "repo": "Council-GAN",
-                    "stars": 264
+                    "stars": 264,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -852,12 +1187,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official Tensorflow implementation of U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation (ICLR 2020)",
+                    "homepage": null,
                     "id": 198919091,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-05-20T03:23:05Z",
+                    "open_issues": 56,
                     "owner": "taki0112",
                     "repo": "UGATIT",
-                    "stars": 6116
+                    "stars": 6116,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 }
@@ -875,12 +1215,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICCV 2023] Scenimefy: Learning to Craft Anime Scene via Semi-Supervised Image-to-Image Translation",
+                    "homepage": "https://yuxinn-j.github.io/projects/Scenimefy",
                     "id": 671285933,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-02-14T14:43:17Z",
+                    "open_issues": 1,
                     "owner": "Yuxinn-J",
                     "repo": "Scenimefy",
-                    "stars": 289
+                    "stars": 289,
+                    "topics": [
+                      "anime",
+                      "iccv2023",
+                      "style-transfer",
+                      "stylegan2"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -891,12 +1241,33 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[Open Source].  ARGAN - The improved version of AnimeGAN. Landscape photos/videos to anime",
+                    "homepage": null,
                     "id": 318529982,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-06-23T15:41:47Z",
+                    "open_issues": 0,
                     "owner": "amirzenoozi",
                     "repo": "ARGAN",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": [
+                      "animation",
+                      "anime",
+                      "argan",
+                      "gan",
+                      "generative-adversarial-network",
+                      "resnet-101",
+                      "resnet-18",
+                      "resnet-34",
+                      "resnet-50",
+                      "style-transfer",
+                      "tensorflow",
+                      "tensorflow2",
+                      "vgg19",
+                      "vide-generation",
+                      "video"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -907,12 +1278,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Tensorflow implementation of AnimeGAN for fast photo animation  ! This is the Open source of the paper 「AnimeGAN: a novel lightweight GAN for photo animation」, which uses the GAN framwork to transform real-world photos into anime images.",
+                    "homepage": null,
                     "id": 196959890,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-08-03T16:38:02Z",
+                    "open_issues": 17,
                     "owner": "TachibanaYoshino",
                     "repo": "AnimeGAN",
-                    "stars": 4607
+                    "stars": 4607,
+                    "topics": [
+                      "anime-images",
+                      "animegan",
+                      "hayao-style",
+                      "photo-animation",
+                      "tensorflow"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -923,12 +1305,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Tensorflow implementation of AnimeGAN for fast photo animation  ! This is the Open source of the paper 「AnimeGAN: a novel lightweight GAN for photo animation」, which uses the GAN framwork to transform real-world photos into anime images.",
+                    "homepage": null,
                     "id": 196959890,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-08-03T16:38:02Z",
+                    "open_issues": 17,
                     "owner": "TachibanaYoshino",
                     "repo": "AnimeGAN",
-                    "stars": 4607
+                    "stars": 4607,
+                    "topics": [
+                      "anime-images",
+                      "animegan",
+                      "hayao-style",
+                      "photo-animation",
+                      "tensorflow"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -939,12 +1332,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 236820978,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2022-06-02T10:36:13Z",
+                    "open_issues": 1,
                     "owner": "FilipAndersson245",
                     "repo": "cartoon-gan",
-                    "stars": 264
+                    "stars": 264,
+                    "topics": [
+                      "deep-learning",
+                      "gan",
+                      "pytorch"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -955,12 +1357,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official tensorflow implementation for CVPR2020 paper “Learning to Cartoonize Using White-box Cartoon Representations”",
+                    "homepage": null,
                     "id": 247693225,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-01-19T01:43:24Z",
+                    "open_issues": 72,
                     "owner": "SystemErrorWang",
                     "repo": "White-box-Cartoonization",
-                    "stars": 4001
+                    "stars": 4001,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -971,12 +1378,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official tensorflow implementation for CVPR2020 paper “Learning to Cartoonize Using White-box Cartoon Representations”",
+                    "homepage": null,
                     "id": 247693225,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-01-19T01:43:24Z",
+                    "open_issues": 72,
                     "owner": "SystemErrorWang",
                     "repo": "White-box-Cartoonization",
-                    "stars": 4001
+                    "stars": 4001,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -987,12 +1399,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official Pytorch implementation of GANILLA",
+                    "homepage": null,
                     "id": 162810060,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-21T12:01:22Z",
+                    "open_issues": 7,
                     "owner": "giddyyupp",
                     "repo": "ganilla",
-                    "stars": 483
+                    "stars": 483,
+                    "topics": [
+                      "deep-learning",
+                      "gan",
+                      "gans",
+                      "generative-adversarial-network",
+                      "illustration",
+                      "illustration-drawing",
+                      "illustrations",
+                      "illustrator",
+                      "image-to-image-translation",
+                      "pytorch"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -1003,12 +1431,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "End-to-end solution that transforms input video into a comics in just a few seconds",
+                    "homepage": "http://comixify.ii.pw.edu.pl/",
                     "id": 142175376,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-01-13T22:30:48Z",
+                    "open_issues": 23,
                     "owner": "maciej3031",
                     "repo": "comixify",
-                    "stars": 346
+                    "stars": 346,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -1019,12 +1452,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Pytorch implementation of CartoonGAN (CVPR 2018)",
+                    "homepage": null,
                     "id": 142090671,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-06-17T09:44:32Z",
+                    "open_issues": 12,
                     "owner": "znxlwm",
                     "repo": "pytorch-CartoonGAN",
-                    "stars": 389
+                    "stars": 390,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 }
@@ -1042,12 +1480,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Modeling Artistic Workflows for Image Generation and Editing (ECCV 2020)",
+                    "homepage": null,
                     "id": 277920542,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-09-24T05:11:33Z",
+                    "open_issues": 2,
                     "owner": "hytseng0509",
                     "repo": "ArtEditing",
-                    "stars": 89
+                    "stars": 89,
+                    "topics": [
+                      "eccv2020",
+                      "gan",
+                      "image-editing"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -1058,12 +1505,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":fire: PI-REC: Progressive Image Reconstruction Network With Edge and Color Domain. :fire: 图像翻译，条件GAN，AI绘画",
+                    "homepage": "https://arxiv.org/abs/1903.10146",
                     "id": 176908385,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2022-11-22T03:22:24Z",
+                    "open_issues": 7,
                     "owner": "youyuge34",
                     "repo": "PI-REC",
-                    "stars": 2057
+                    "stars": 2057,
+                    "topics": [
+                      "ai-painting",
+                      "auto-painting",
+                      "cgan",
+                      "edge-to-image-translation",
+                      "gan",
+                      "image",
+                      "image-reconstruction",
+                      "image-to-image-translation"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 }
@@ -1081,12 +1542,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official repository for LANIT: Language-Driven Image-to-Image Translation for Unlabeled Data (CVPR 2023)",
+                    "homepage": null,
                     "id": 530506388,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-10-01T12:06:16Z",
+                    "open_issues": 3,
                     "owner": "cvlab-kaist",
                     "repo": "LANIT",
-                    "stars": 141
+                    "stars": 141,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -1097,12 +1563,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS 2022] Official pytorch implementation of \"Towards Diverse and Faithful One-shot Domain Adaption of Generative Adversarial Networks\"",
+                    "homepage": null,
                     "id": 493597897,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-10-12T12:19:27Z",
+                    "open_issues": 2,
                     "owner": "YBYBZhang",
                     "repo": "DiFa",
-                    "stars": 51
+                    "stars": 51,
+                    "topics": [
+                      "generative-adversarial-network",
+                      "pytorch"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -1113,12 +1587,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2022] Pastiche Master: Exemplar-Based High-Resolution Portrait Style Transfer",
+                    "homepage": null,
                     "id": 469282325,
                     "language": "Jupyter Notebook",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-03-06T09:30:54Z",
+                    "open_issues": 31,
                     "owner": "williamyang1991",
                     "repo": "DualStyleGAN",
-                    "stars": 1683
+                    "stars": 1683,
+                    "topics": [
+                      "caricatures",
+                      "cvpr2022",
+                      "face",
+                      "style-transfer",
+                      "stylegan-image-manipulation",
+                      "stylegan2",
+                      "toonify"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -1129,12 +1616,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Mind the Gap: Domain Gap Control for Single Shot Domain Adaptation for Generative Adversarial Networks (ICLR 2022)",
+                    "homepage": "https://zpdesu.github.io/MindTheGap",
                     "id": 474729078,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2022-07-10T03:44:10Z",
+                    "open_issues": 2,
                     "owner": "ZPdesu",
                     "repo": "MindTheGap",
-                    "stars": 58
+                    "stars": 58,
+                    "topics": [
+                      "anime",
+                      "domain-adaptation",
+                      "iclr2022",
+                      "image-translation",
+                      "single-shot-domain-adaptation",
+                      "stylegan-image-manipulation",
+                      "stylegan2",
+                      "styletransfer"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -1145,12 +1646,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official PyTorch repo for JoJoGAN: One Shot Face Stylization",
+                    "homepage": null,
                     "id": 439414271,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2022-09-29T18:53:09Z",
+                    "open_issues": 18,
                     "owner": "mchong6",
                     "repo": "JoJoGAN",
-                    "stars": 1438
+                    "stars": 1438,
+                    "topics": [
+                      "anime",
+                      "gans",
+                      "image-translation"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -1161,12 +1671,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Pytorch implementation of few-shot semantic image synthesis",
+                    "homepage": null,
                     "id": 366645590,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-06-22T02:07:35Z",
+                    "open_issues": 2,
                     "owner": "endo-yuki-t",
                     "repo": "Fewshot-SMIS",
-                    "stars": 44
+                    "stars": 44,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -1177,12 +1692,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Implementation of \"Disentangling Style and Content in Anime Illustrations\"",
+                    "homepage": null,
                     "id": 191075840,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2019-07-03T04:09:44Z",
+                    "open_issues": 1,
                     "owner": "stormraiser",
                     "repo": "adversarial-disentangle",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 }
@@ -1207,12 +1727,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 904086443,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-16T08:14:26Z",
+                    "open_issues": 44,
                     "owner": "bilibili",
                     "repo": "Index-anisora",
-                    "stars": 2505
+                    "stars": 2505,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -1223,12 +1748,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 904086443,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-16T08:14:26Z",
+                    "open_issues": 44,
                     "owner": "bilibili",
                     "repo": "Index-anisora",
-                    "stars": 2505
+                    "stars": 2505,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 }
@@ -1246,12 +1776,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICCV 2025] Official implementations for paper: VACE: All-in-One Video Creation and Editing",
+                    "homepage": "https://ali-vilab.github.io/VACE-Page/",
                     "id": 944908986,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-10-17T05:46:57Z",
+                    "open_issues": 59,
                     "owner": "ali-vilab",
                     "repo": "VACE",
-                    "stars": 3936
+                    "stars": 3936,
+                    "topics": [
+                      "video-editing",
+                      "video-generation"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -1262,12 +1800,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICCV 2025] LayerAnimate: Layer-specific Control for Animation",
+                    "homepage": "https://layeranimate.github.io",
                     "id": 916916459,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-08-22T11:37:48Z",
+                    "open_issues": 0,
                     "owner": "IamCreateAI",
                     "repo": "LayerAnimate",
-                    "stars": 195
+                    "stars": 195,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -1278,12 +1821,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official implementation of AnimateDiff.",
+                    "homepage": "https://animatediff.github.io",
                     "id": 654930782,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-07-31T01:14:15Z",
+                    "open_issues": 319,
                     "owner": "guoyww",
                     "repo": "AnimateDiff",
-                    "stars": 12229
+                    "stars": 12229,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -1294,12 +1842,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Language-Guided Face Animation by Recurrent StyleGAN-based Generator",
+                    "homepage": null,
                     "id": 522132919,
                     "language": null,
+                    "license": null,
                     "last_commit": "2023-04-23T01:36:58Z",
+                    "open_issues": 0,
                     "owner": "TiankaiHang",
                     "repo": "language-guided-animation",
-                    "stars": 20
+                    "stars": 20,
+                    "topics": [
+                      "clip",
+                      "face-animation",
+                      "multi-modal-generation",
+                      "stylegan"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -1310,12 +1868,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "IJCAI2023 - Collaborative Neural Rendering using Anime Character Sheets",
+                    "homepage": null,
                     "id": 513423120,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2023-08-24T04:08:03Z",
+                    "open_issues": 0,
                     "owner": "megvii-research",
                     "repo": "IJCAI2023-CoNR",
-                    "stars": 806
+                    "stars": 806,
+                    "topics": [
+                      "anime",
+                      "computer-graphics",
+                      "computer-vision",
+                      "deep-learning",
+                      "pytorch"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 }
@@ -1340,12 +1909,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 295220628,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-06-14T17:37:19Z",
+                    "open_issues": 5,
                     "owner": "qweasdd",
                     "repo": "manga-colorization",
-                    "stars": 27
+                    "stars": 27,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -1356,12 +1930,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CHI'26] No Pixel Left Behind: Filling Gaps in Anime Colorization [WISS '25] / Implementation of “GapFill”",
+                    "homepage": null,
                     "id": 1150351048,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-21T16:43:11Z",
+                    "open_issues": 0,
                     "owner": "marc2825",
                     "repo": "GapFill",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 }
@@ -1379,12 +1958,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Assisting Colorization of Manga Characters Concept Art using Conditional GAN",
+                    "homepage": null,
                     "id": 157937432,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2019-09-24T13:42:40Z",
+                    "open_issues": 0,
                     "owner": "felipelodur",
                     "repo": "ManGAN",
-                    "stars": 25
+                    "stars": 25,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -1395,12 +1979,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Implementation of paper which uses a swish-gated residual U-net to color line-art anime drawings",
+                    "homepage": null,
                     "id": 174725444,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-11-21T21:02:16Z",
+                    "open_issues": 8,
                     "owner": "pradeeplam",
                     "repo": "Anime-Sketch-Coloring-with-Swish-Gated-Residual-UNet",
-                    "stars": 213
+                    "stars": 213,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -1411,12 +2000,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "sketch + style = paints :art: (TOG2018/SIGGRAPH2018ASIA)",
+                    "homepage": null,
                     "id": 93354260,
                     "language": "JavaScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-08-01T02:02:00Z",
+                    "open_issues": 54,
                     "owner": "lllyasviel",
                     "repo": "style2paints",
-                    "stars": 18179
+                    "stars": 18178,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -1427,12 +2021,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "sketch + style = paints :art: (TOG2018/SIGGRAPH2018ASIA)",
+                    "homepage": null,
                     "id": 93354260,
                     "language": "JavaScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-08-01T02:02:00Z",
+                    "open_issues": 54,
                     "owner": "lllyasviel",
                     "repo": "style2paints",
-                    "stars": 18179
+                    "stars": 18178,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -1443,12 +2042,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official PyTorch implementation of \"User-Guided Deep Anime Line Art Colorization with Conditional Adversarial Networks\"",
+                    "homepage": null,
                     "id": 156441060,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2018-11-10T21:39:19Z",
+                    "open_issues": 6,
                     "owner": "orashi",
                     "repo": "AlacGAN",
-                    "stars": 90
+                    "stars": 90,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -1459,12 +2063,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Recently, realistic image generation using deep neural networks has become a hot topic in machine learning and computer vision. Such an image can be generated at pixel level by learning from a large collection of images. Learning to generate colorful cartoon images from black-and-white sketches is not only an interesting research problem, but also a useful application in digital entertainment. In this paper, we investigate the sketch-to-image synthesis problem by using conditional generative adversarial networks (cGAN). We propose a model called auto-painter which can automatically generate compatible colors given a sketch. Wasserstein distance is used in training cGAN to overcome model collapse and enable the model converged much better. The new model is not only capable of painting hand-draw sketch with compatible colors, but also allowing users to indicate preferred colors. Experimental results on different sketch datasets show that the auto-painter performs better than other existing image-to-image methods.",
+                    "homepage": null,
                     "id": 110687305,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-11-05T06:27:23Z",
+                    "open_issues": 5,
                     "owner": "irfanICMLL",
                     "repo": "Auto_painter",
-                    "stars": 133
+                    "stars": 133,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 }
@@ -1482,12 +2091,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official implementation of ColorizeDiffusionXL",
+                    "homepage": null,
                     "id": 1169337720,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-04-09T06:37:05Z",
+                    "open_issues": 0,
                     "owner": "tellurion-kanata",
                     "repo": "ColorizeDiffusionXL",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -1498,12 +2112,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The official implementation of \"MagicColor: Multi-Instance Sketch Colorization\"",
+                    "homepage": null,
                     "id": 948856491,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-06-30T15:21:55Z",
+                    "open_issues": 6,
                     "owner": "YinHan-Zhang",
                     "repo": "MagicColor",
-                    "stars": 125
+                    "stars": 125,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -1514,12 +2133,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Implementation of ColorizeDiffusion",
+                    "homepage": null,
                     "id": 589702332,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-03-21T17:01:24Z",
+                    "open_issues": 0,
                     "owner": "tellurion-kanata",
                     "repo": "colorizeDiffusion",
-                    "stars": 97
+                    "stars": 97,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -1530,12 +2154,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "We introduce SSIMBaD (Sigma Scaling with SSIM-Guided Balanced Diffusion), a sigma-space transformation that ensures linear alignment of perceptual degradation, as measured by structural similarity.",
+                    "homepage": null,
                     "id": 983908815,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-06-25T05:33:13Z",
+                    "open_issues": 0,
                     "owner": "Giventicket",
                     "repo": "SSIMBaD-Sigma-Scaling-with-SSIM-Guided-Balanced-Diffusion-for-AnimeFace-Colorization",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -1546,12 +2175,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Implementation of ColorizeDiffusion",
+                    "homepage": null,
                     "id": 589702332,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-03-21T17:01:24Z",
+                    "open_issues": 0,
                     "owner": "tellurion-kanata",
                     "repo": "colorizeDiffusion",
-                    "stars": 97
+                    "stars": 97,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -1562,12 +2196,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official implementation of MangaDiT: Reference-Guided Line Art Colorization with Hierarchical Attention in Diffusion Transformers",
+                    "homepage": null,
                     "id": 1076590607,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2026-01-22T06:01:48Z",
+                    "open_issues": 0,
                     "owner": "CyberAgentAILab",
                     "repo": "MangaDiT",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -1578,12 +2217,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The official implementation of paper \"ColorFlow: Retrieval-Augmented Image Sequence Colorization\". ColorFlow：基于检索增强的图像序列上色",
+                    "homepage": "https://zhuang2002.github.io/ColorFlow/",
                     "id": 904199028,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-15T03:56:15Z",
+                    "open_issues": 14,
                     "owner": "TencentARC",
                     "repo": "ColorFlow",
-                    "stars": 462
+                    "stars": 462,
+                    "topics": [
+                      "automatic-colorization",
+                      "colorization",
+                      "computer-vision",
+                      "image-colorization"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -1594,12 +2243,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official implementation of CGF paper Two-step Training: Adjustable Sketch Colorization via Reference Image and Text Tag",
+                    "homepage": null,
                     "id": 382060691,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-08-31T10:20:58Z",
+                    "open_issues": 2,
                     "owner": "tellurion-kanata",
                     "repo": "sketch_colorizer",
-                    "stars": 21
+                    "stars": 21,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -1610,12 +2264,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The official code of \"Eliminating Gradient Conflict in Reference-based Line-art Colorization\" (ECCV2022)",
+                    "homepage": null,
                     "id": 510615324,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-12-12T12:17:45Z",
+                    "open_issues": 1,
                     "owner": "kunkun0w0",
                     "repo": "SGA",
-                    "stars": 39
+                    "stars": 39,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -1626,12 +2285,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This repository implements the paper \"Reference based Sketch Image Colorization using Augmented-Self Reference and Dense Semantic Correspondence\" which is published in CVPR2020.",
+                    "homepage": null,
                     "id": 295756181,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-10-19T01:13:08Z",
+                    "open_issues": 3,
                     "owner": "Jungjaewon",
                     "repo": "Reference_based_Skectch_Image_Colorization",
-                    "stars": 54
+                    "stars": 54,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -1642,12 +2306,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Automatic Colorization of Anime Sketch Image",
+                    "homepage": null,
                     "id": 147889932,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-12-08T01:19:46Z",
+                    "open_issues": 12,
                     "owner": "ktaebum",
                     "repo": "AttentionedDeepPaint",
-                    "stars": 121
+                    "stars": 121,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -1658,12 +2327,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Automatic Colorization of Anime Sketch Image",
+                    "homepage": null,
                     "id": 147889932,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-12-08T01:19:46Z",
+                    "open_issues": 12,
                     "owner": "ktaebum",
                     "repo": "AttentionedDeepPaint",
-                    "stars": 121
+                    "stars": 121,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -1674,12 +2348,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This is the implementation of the \"Comicolorization: Semi-automatic Manga Colorization\"",
+                    "homepage": "https://arxiv.org/abs/1706.06759",
                     "id": 100933978,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-02-09T09:44:36Z",
+                    "open_issues": 4,
                     "owner": "DwangoMediaVillage",
                     "repo": "Comicolorization",
-                    "stars": 148
+                    "stars": 148,
+                    "topics": [
+                      "chainer",
+                      "colorization",
+                      "computer-vision",
+                      "deep-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -1690,12 +2374,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "cGAN-based Manga Colorization Using a Single Training Image.",
+                    "homepage": null,
                     "id": 122367222,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2018-12-26T06:15:54Z",
+                    "open_issues": 3,
                     "owner": "sudheerachary",
                     "repo": "Manga_Colorization",
-                    "stars": 51
+                    "stars": 51,
+                    "topics": [
+                      "cgan",
+                      "comics",
+                      "computer-vision",
+                      "image-processing",
+                      "machine-learning",
+                      "manga"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 }
@@ -1713,12 +2409,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICCV 2019] Tag2Pix: Line Art Colorization Using Text Tag With SECat and Changing Loss",
+                    "homepage": "https://arxiv.org/abs/1908.05840",
                     "id": 201648688,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2019-12-22T04:00:06Z",
+                    "open_issues": 0,
                     "owner": "blandocs",
                     "repo": "Tag2Pix",
-                    "stars": 248
+                    "stars": 248,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 }
@@ -1736,12 +2437,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1190348098,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-08-11T08:23:45Z",
+                    "open_issues": 2,
                     "owner": "zhangxulu1996",
                     "repo": "OmniColor",
-                    "stars": 7
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -1752,12 +2458,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICLR 2026] Streamlining Cartoon Production with Generative Post-Keyframing",
+                    "homepage": "https://lg-li.github.io/project/tooncomposer",
                     "id": 1036703664,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-08-20T06:21:56Z",
+                    "open_issues": 9,
                     "owner": "TencentARC",
                     "repo": "ToonComposer",
-                    "stars": 586
+                    "stars": 586,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -1768,28 +2479,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1010993858,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-07-17T12:30:48Z",
+                    "open_issues": 4,
                     "owner": "CN-makers",
                     "repo": "LongAnimation",
-                    "stars": 226
+                    "stars": 226,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
                 {
                   "node_type": "item",
-                  "title": "ant-research/AniDoc",
+                  "title": "robbyant-research/AniDoc",
                   "description": "CVPR AniDoc: Animation Creation Made Easier",
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR'25] Official Implementations for Paper - AniDoc: Animation Creation Made Easier",
+                    "homepage": "https://yihao-meng.github.io/AniDoc_demo/",
                     "id": 905221788,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-04-15T06:21:33Z",
-                    "owner": "ant-research",
+                    "open_issues": 5,
+                    "owner": "robbyant-research",
                     "repo": "AniDoc",
-                    "stars": 572
+                    "stars": 572,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -1800,12 +2521,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The official implementation of \"InstanceAnimator: Multi-Instance Sketch Video Colorization\"",
+                    "homepage": null,
                     "id": 1111227252,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-27T06:53:24Z",
+                    "open_issues": 1,
                     "owner": "YinHan-Zhang",
                     "repo": "InstanceAnimator",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -1816,12 +2542,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The official code of paper \"LVCD: Reference-based Lineart Video Colorization with Diffusion Models\"",
+                    "homepage": null,
                     "id": 864849999,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-01-06T04:39:52Z",
+                    "open_issues": 13,
                     "owner": "luckyhzt",
                     "repo": "LVCD",
-                    "stars": 200
+                    "stars": 200,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -1832,12 +2563,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TCVC: Temporally Coherent Video Colorization, CRV 2019",
+                    "homepage": null,
                     "id": 169330781,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2019-11-16T01:23:52Z",
+                    "open_issues": 2,
                     "owner": "Harry-Thasarathan",
                     "repo": "TCVC",
-                    "stars": 19
+                    "stars": 19,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 }
@@ -1862,12 +2598,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Implementation of \"Learning to Shadow Hand-drawn Sketches\" CVPR 2020 (Oral)",
+                    "homepage": "https://cal.cs.umbc.edu/Papers/Zheng-2020-Shade/",
                     "id": 219580162,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2020-09-17T16:13:19Z",
+                    "open_issues": 0,
                     "owner": "qyzdao",
                     "repo": "ShadeSketch",
-                    "stars": 355
+                    "stars": 355,
+                    "topics": [
+                      "artists",
+                      "cvpr2020",
+                      "generated-shadows",
+                      "image-processing",
+                      "image-translation"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -1878,12 +2625,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Generating Digital Painting Lighting Effects via RGB-space Geometry (SIGGRAPH2020/TOG2020)",
+                    "homepage": null,
                     "id": 234752060,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-10-09T12:48:43Z",
+                    "open_issues": 11,
                     "owner": "lllyasviel",
                     "repo": "PaintingLight",
-                    "stars": 738
+                    "stars": 738,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -1894,12 +2646,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code and Dataset from Deep Normal Estimation for Automatic Shading of Hand-Drawn Characters",
+                    "homepage": null,
                     "id": 149762734,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2020-09-21T12:37:28Z",
+                    "open_issues": 6,
                     "owner": "V-Sense",
                     "repo": "DeepNormals",
-                    "stars": 182
+                    "stars": 182,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 }
@@ -1917,12 +2674,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "\"Single-image Layer Decomposition for Anime Characters\" (SIGGRAPH 2026 Conference Paper)",
+                    "homepage": null,
                     "id": 1196897920,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-05T13:31:48Z",
+                    "open_issues": 16,
                     "owner": "shitagaki-lab",
                     "repo": "see-through",
-                    "stars": 3662
+                    "stars": 3677,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -1933,12 +2695,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Stable Diffusion-based image manipulation method with a sketch and reference image",
+                    "homepage": null,
                     "id": 577753729,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-04-23T12:45:25Z",
+                    "open_issues": 4,
                     "owner": "kangyeolk",
                     "repo": "Paint-by-Sketch",
-                    "stars": 183
+                    "stars": 183,
+                    "topics": [
+                      "computer-vision",
+                      "diffusion-models",
+                      "image-editing",
+                      "image-generation",
+                      "image-manipulation",
+                      "pytorch",
+                      "stable-diffusion"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -1949,12 +2724,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS 2021] Code for Unsupervised Learning of Compositional Energy Concepts",
+                    "homepage": null,
                     "id": 424468900,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-09-21T19:42:02Z",
+                    "open_issues": 2,
                     "owner": "yilundu",
                     "repo": "comet",
-                    "stars": 61
+                    "stars": 61,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -1965,12 +2745,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Cross-Domain and Disentangled Face Manipulation with 3D Guidance",
+                    "homepage": null,
                     "id": 360754309,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-07-18T13:07:00Z",
+                    "open_issues": 3,
                     "owner": "cassiePython",
                     "repo": "cddfm3d",
-                    "stars": 107
+                    "stars": 107,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -1981,12 +2766,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Erasing Appearance Preservation in Optimization-based Smoothing (ECCV 2020)",
+                    "homepage": null,
                     "id": 277060993,
                     "language": "C++",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-10-09T12:49:09Z",
+                    "open_issues": 4,
                     "owner": "lllyasviel",
                     "repo": "AppearanceEraser",
-                    "stars": 186
+                    "stars": 186,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -1997,12 +2787,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Collaging on Internal Representations: An Intuitive Approach for Semantic Transfiguration",
+                    "homepage": null,
                     "id": 159269899,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2019-04-24T08:31:36Z",
+                    "open_issues": 3,
                     "owner": "quolc",
                     "repo": "neural-collage",
-                    "stars": 560
+                    "stars": 560,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -2013,12 +2808,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Decomposing an input image into layers via \"color unblending\"",
+                    "homepage": "https://koyama.xyz/project/color_unblending/",
                     "id": 160211135,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-03-13T08:53:38Z",
+                    "open_issues": 0,
                     "owner": "yuki-koyama",
                     "repo": "unblending",
-                    "stars": 192
+                    "stars": 192,
+                    "topics": [
+                      "color",
+                      "color-blending",
+                      "image",
+                      "image-processing",
+                      "unblending"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 }
@@ -2036,12 +2842,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This is official implementation of the paper \"Semi-supervised Reference based sketch extraction using a contrastive learning framework\"",
+                    "homepage": null,
                     "id": 652166336,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-09-10T15:48:44Z",
+                    "open_issues": 1,
                     "owner": "Chanuku",
                     "repo": "Semi_ref2sketch_code",
-                    "stars": 37
+                    "stars": 37,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -2052,12 +2863,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This is (official) pytorch implementation of the paper \"Reference based sketch extraction via attention mechanism\"",
+                    "homepage": "https://dl.acm.org/doi/10.1145/3550454.3555504",
                     "id": 533660295,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-04-26T14:28:54Z",
+                    "open_issues": 1,
                     "owner": "ref2sketch",
                     "repo": "ref2sketch",
-                    "stars": 40
+                    "stars": 40,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -2068,12 +2884,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Learning To Create Professional Sketch",
+                    "homepage": null,
                     "id": 246465527,
                     "language": null,
+                    "license": null,
                     "last_commit": "2021-08-16T01:09:53Z",
+                    "open_issues": 1,
                     "owner": "LCXCUC",
                     "repo": "SketchMan2020",
-                    "stars": 21
+                    "stars": 21,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -2084,12 +2905,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Line thickness normalization network using in the SIGGRPAH 2018 paper \"Real-Time Data-Driven Interactive Rough Sketch Inking\".",
+                    "homepage": null,
                     "id": 187426104,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2019-05-19T03:31:24Z",
+                    "open_issues": 1,
                     "owner": "bobbens",
                     "repo": "line_thinning",
-                    "stars": 29
+                    "stars": 29,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -2100,12 +2926,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Models and code related to sketch simplification of rough sketches.",
+                    "homepage": "https://esslab.jp/~ess/research/sketch_master/",
                     "id": 87502908,
                     "language": "Lua",
+                    "license": "NOASSERTION",
                     "last_commit": "2022-01-13T01:19:26Z",
+                    "open_issues": 11,
                     "owner": "bobbens",
                     "repo": "sketch_simplification",
-                    "stars": 751
+                    "stars": 751,
+                    "topics": [
+                      "convolutional-neural-networks",
+                      "deep-learning",
+                      "pytorch",
+                      "siggraph",
+                      "sketch",
+                      "torch"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -2116,12 +2954,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The pre-trained model and testing code of paper \"Deep Extraction of Manga Structural Lines\"",
+                    "homepage": null,
                     "id": 121627908,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-09-05T20:08:22Z",
+                    "open_issues": 4,
                     "owner": "ljsabc",
                     "repo": "MangaLineExtraction",
-                    "stars": 88
+                    "stars": 88,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -2132,12 +2975,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Models and code related to sketch simplification of rough sketches.",
+                    "homepage": "https://esslab.jp/~ess/research/sketch_master/",
                     "id": 87502908,
                     "language": "Lua",
+                    "license": "NOASSERTION",
                     "last_commit": "2022-01-13T01:19:26Z",
+                    "open_issues": 11,
                     "owner": "bobbens",
                     "repo": "sketch_simplification",
-                    "stars": 751
+                    "stars": 751,
+                    "topics": [
+                      "convolutional-neural-networks",
+                      "deep-learning",
+                      "pytorch",
+                      "siggraph",
+                      "sketch",
+                      "torch"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 }
@@ -2155,12 +3010,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[SIGGRAPH Asia 2024, Journal Track] ToonCrafter: Generative Cartoon Interpolation",
+                    "homepage": "https://doubiiu.github.io/projects/ToonCrafter/",
                     "id": 807266851,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-03-19T06:43:54Z",
+                    "open_issues": 57,
                     "owner": "Doubiiu",
                     "repo": "ToonCrafter",
-                    "stars": 6005
+                    "stars": 6005,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -2171,12 +3031,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code and data for ICCV23 work \"Deep Geometrized Cartoon Line Inbetweening\"",
+                    "homepage": null,
                     "id": 679803104,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-04-15T15:05:30Z",
+                    "open_issues": 9,
                     "owner": "lisiyao21",
                     "repo": "AnimeInbet",
-                    "stars": 370
+                    "stars": 370,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -2187,12 +3052,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 448229777,
                     "language": null,
+                    "license": null,
                     "last_commit": "2022-08-02T08:39:01Z",
+                    "open_issues": 1,
                     "owner": "laomao0",
                     "repo": "AutoSktFI",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -2203,12 +3073,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ECCV2022: Improving the Perceptual Quality of 2D Animation Interpolation",
+                    "homepage": null,
                     "id": 431608032,
                     "language": "Python",
+                    "license": "AGPL-3.0",
                     "last_commit": "2024-06-30T02:24:44Z",
+                    "open_issues": 0,
                     "owner": "ShuhongChen",
                     "repo": "eisai-anime-interpolator",
-                    "stars": 127
+                    "stars": 127,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -2219,12 +3094,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The code for CVPR21 paper \"Deep Animation Video Interpolation in the Wild\"",
+                    "homepage": null,
                     "id": 351389935,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-03-31T11:36:05Z",
+                    "open_issues": 15,
                     "owner": "lisiyao21",
                     "repo": "AnimeInterp",
-                    "stars": 455
+                    "stars": 455,
+                    "topics": [
+                      "animation-videos",
+                      "frame-interpolation"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 }
@@ -2242,12 +3125,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "APISR: Anime Production Inspired Real-World Anime Super-Resolution (CVPR 2024)",
+                    "homepage": null,
                     "id": 766000879,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-10-16T00:57:56Z",
+                    "open_issues": 21,
                     "owner": "Kiteretsu77",
                     "repo": "APISR",
-                    "stars": 1135
+                    "stars": 1135,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -2258,12 +3146,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Codes for \"AnimeSR: Learning Real-World Super-Resolution Models for Animation Videos\"",
+                    "homepage": null,
                     "id": 503246082,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-08-18T13:09:28Z",
+                    "open_issues": 11,
                     "owner": "TencentARC",
                     "repo": "AnimeSR",
-                    "stars": 369
+                    "stars": 369,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -2274,12 +3167,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.",
+                    "homepage": null,
                     "id": 387326890,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2024-08-06T13:15:18Z",
+                    "open_issues": 646,
                     "owner": "xinntao",
                     "repo": "Real-ESRGAN",
-                    "stars": 36612
+                    "stars": 36624,
+                    "topics": [
+                      "amine",
+                      "denoise",
+                      "esrgan",
+                      "image-restoration",
+                      "jpeg-compression",
+                      "pytorch",
+                      "real-esrgan",
+                      "super-resolution"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 },
@@ -2290,12 +3197,33 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A Super-Resolution Convolutional Neural Network builds for artwork, anime, and illustration. Senior Project - Artwork Enlargement and Quality Improvement using Machine Learning. ICITEE 2021 - Enhancement of Anime Imaging Enlargement Using Modified Super-Resolution CNN.",
+                    "homepage": "https://arxiv.org/abs/2110.02321",
                     "id": 321205010,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-05-17T08:47:48Z",
+                    "open_issues": 0,
                     "owner": "TanakitInt",
                     "repo": "SRCNN-anime",
-                    "stars": 27
+                    "stars": 27,
+                    "topics": [
+                      "anime",
+                      "cnn",
+                      "computer-vision",
+                      "convolutional-neural-networks",
+                      "deep-learning",
+                      "denoising",
+                      "image-processing",
+                      "keras",
+                      "machine-learning",
+                      "python",
+                      "srcnn",
+                      "super-resolution",
+                      "tensorflow",
+                      "upscaling",
+                      "waifu2x"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 }
@@ -2313,12 +3241,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ToonOut, a fork of BiRefNet focused on background removal for anime images. We open-source our dataset & our weights. See our paper at: https://arxiv.org/abs/2509.06839 ",
+                    "homepage": null,
                     "id": 951389408,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-06-12T08:10:43Z",
+                    "open_issues": 1,
                     "owner": "MatteoKartoon",
                     "repo": "BiRefNet",
-                    "stars": 102
+                    "stars": 102,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 }
@@ -2343,12 +3276,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Apply screentone to line drawings or colored illustrations with diffusion models.",
+                    "homepage": null,
                     "id": 736951970,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2025-03-31T08:51:09Z",
+                    "open_issues": 0,
                     "owner": "dmMaze",
                     "repo": "sketch2manga",
-                    "stars": 48
+                    "stars": 48,
+                    "topics": [
+                      "comfyui",
+                      "image-processing",
+                      "manga",
+                      "screentone",
+                      "stable-diffusion"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 }
@@ -2366,12 +3310,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Implementation for \"Exploiting Aliasing for Manga Restoration\" (CVPR 2021)",
+                    "homepage": null,
                     "id": 364249565,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-07-19T04:59:49Z",
+                    "open_issues": 4,
                     "owner": "msxie92",
                     "repo": "MangaRestoration",
-                    "stars": 159
+                    "stars": 159,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 }
@@ -2389,12 +3338,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Facial Landmark labels for Manga 109 dataset",
+                    "homepage": null,
                     "id": 157508171,
                     "language": null,
+                    "license": null,
                     "last_commit": "2019-11-21T15:07:31Z",
+                    "open_issues": 3,
                     "owner": "oaugereau",
                     "repo": "FacialLandmarkManga",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 }
@@ -2419,12 +3373,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A simple deep learning library for estimating a set of tags and extracting semantic feature vectors from given illustrations.",
+                    "homepage": null,
                     "id": 43010401,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2019-01-18T10:08:11Z",
+                    "open_issues": 22,
                     "owner": "rezoo",
                     "repo": "illustration2vec",
-                    "stars": 677
+                    "stars": 677,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 }
@@ -2449,12 +3408,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "WACV2022: Transfer Learning for Pose Estimation of Illustrated Characters",
+                    "homepage": null,
                     "id": 392525316,
                     "language": "Python",
+                    "license": "AGPL-3.0",
                     "last_commit": "2025-02-03T14:00:39Z",
+                    "open_issues": 1,
                     "owner": "ShuhongChen",
                     "repo": "bizarre-pose-estimator",
-                    "stars": 264
+                    "stars": 264,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 }
@@ -2479,12 +3443,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The AugNet Python module contains functions for the fast computation of image similarity.",
+                    "homepage": null,
                     "id": 375960649,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2025-03-13T00:48:45Z",
+                    "open_issues": 1,
                     "owner": "chenmingxiang110",
                     "repo": "AugNet",
-                    "stars": 93
+                    "stars": 93,
+                    "topics": [
+                      "computer-vision",
+                      "deep-learning",
+                      "image-retrieval",
+                      "image-similarity",
+                      "unsupervised-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 }
@@ -2509,12 +3484,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[Under preparation] Code repo for \"Open-Vocabulary DETR with Conditional Matching\" (ECCV 2022)",
+                    "homepage": null,
                     "id": 472738394,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-08-03T14:10:38Z",
+                    "open_issues": 22,
                     "owner": "yuhangzang",
                     "repo": "OV-DETR",
-                    "stars": 241
+                    "stars": 241,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 }
@@ -2539,12 +3519,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS 2023] Official implementation of the paper \"DreamWaltz: Make a Scene with Complex 3D Animatable Avatars\".",
+                    "homepage": "https://idea-research.github.io/DreamWaltz/",
                     "id": 662400263,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-10-15T13:38:33Z",
+                    "open_issues": 1,
                     "owner": "IDEA-Research",
                     "repo": "DreamWaltz",
-                    "stars": 189
+                    "stars": 189,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 }
@@ -2569,12 +3554,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 161803664,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2020-01-30T21:33:07Z",
+                    "open_issues": 3,
                     "owner": "precog-iiith",
                     "repo": "kidsguard-sac",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 }
@@ -2599,12 +3589,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The official repo of the Comics Survey: \"A missing piece in Vision and Language: A Survey on Comics Understanding\"",
+                    "homepage": "https://arxiv.org/abs/2409.09502",
                     "id": 851062699,
                     "language": null,
+                    "license": null,
                     "last_commit": "2025-01-02T22:59:02Z",
+                    "open_issues": 1,
                     "owner": "emanuelevivoli",
                     "repo": "awesome-comics-understanding",
-                    "stars": 142
+                    "stars": 142,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
                 }
@@ -2633,12 +3628,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Papers, datasets, and resources related to 2D cartoon video research. Contributions welcome.",
+                "homepage": null,
                 "id": 728390467,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-25T05:38:06Z",
+                "open_issues": 1,
                 "owner": "zhenglinpan",
                 "repo": "Awesome-Animation-Research",
-                "stars": 212
+                "stars": 212,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             }
@@ -2656,12 +3656,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Investigation of models for anime classification using representative anime data (frames, videos, audio)",
+                "homepage": "https://www.researchgate.net/project/Anime-classification",
                 "id": 474243310,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2022-06-26T19:10:38Z",
+                "open_issues": 0,
                 "owner": "enmanuelmag",
                 "repo": "AnimeClassificator",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "anime",
+                  "classification-algorithm",
+                  "deep-learning",
+                  "embeddings",
+                  "image-classification",
+                  "learning",
+                  "machile",
+                  "manga"
+                ]
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             }
@@ -2679,12 +3693,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create Anime Characters with MakeGirlsMoe",
+                "homepage": "http://make.girls.moe",
                 "id": 97284537,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2022-12-08T18:47:14Z",
+                "open_issues": 41,
                 "owner": "makegirlsmoe",
                 "repo": "makegirlsmoe_web",
-                "stars": 3414
+                "stars": 3414,
+                "topics": [
+                  "anime",
+                  "deep-learning",
+                  "gan",
+                  "generative-adversarial-network",
+                  "react",
+                  "reactjs"
+                ]
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             },
@@ -2695,12 +3721,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple PyTorch Implementation of Generative Adversarial Networks, focusing on anime face drawing.",
+                "homepage": null,
                 "id": 83440490,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2022-08-24T04:29:50Z",
+                "open_issues": 6,
                 "owner": "jayleicn",
                 "repo": "animeGAN",
-                "stars": 1277
+                "stars": 1277,
+                "topics": [
+                  "dataset",
+                  "generative-adversarial-network",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             },
@@ -2711,12 +3746,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple, clean TensorFlow implementation of Generative Adversarial Networks with a focus on modeling illustrations.",
+                "homepage": null,
                 "id": 66954304,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2016-08-31T16:00:56Z",
+                "open_issues": 3,
                 "owner": "tdrussell",
                 "repo": "IllustrationGAN",
-                "stars": 265
+                "stars": 265,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             },
@@ -2727,12 +3767,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A DCGAN to generate anime faces using custom mined dataset",
+                "homepage": null,
                 "id": 97803883,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-07-20T09:03:03Z",
+                "open_issues": 0,
                 "owner": "pavitrakumar78",
                 "repo": "Anime-Face-GAN-Keras",
-                "stars": 198
+                "stars": 198,
+                "topics": [
+                  "anime",
+                  "cnn",
+                  "deep-learning",
+                  "face",
+                  "gan",
+                  "generative-adversarial-network",
+                  "keras",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             },
@@ -2743,12 +3797,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The BIGGAN based Anime generation implemented with tensorflow. All training data has been open sourced.",
+                "homepage": null,
                 "id": 158161304,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2018-12-13T04:59:41Z",
+                "open_issues": 7,
                 "owner": "ANIME305",
                 "repo": "Anime-GAN-tensorflow",
-                "stars": 197
+                "stars": 197,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             },
@@ -2759,12 +3818,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "GAN example for Keras. Cuz MNIST is too small and there should be something more realistic.",
+                "homepage": null,
                 "id": 90182530,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-08-01T14:09:49Z",
+                "open_issues": 3,
                 "owner": "forcecore",
                 "repo": "Keras-GAN-Animeface-Character",
-                "stars": 162
+                "stars": 162,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             },
@@ -2775,12 +3839,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Anime Generation",
+                "homepage": null,
                 "id": 92197220,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-05-25T18:43:57Z",
+                "open_issues": 5,
                 "owner": "m516825",
                 "repo": "Conditional-GAN",
-                "stars": 150
+                "stars": 150,
+                "topics": [
+                  "deep-learning",
+                  "generative-adversarial-network",
+                  "generative-model",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             },
@@ -2791,12 +3865,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎨 Anime generation with GANs.",
+                "homepage": null,
                 "id": 150204772,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-05-12T06:03:35Z",
+                "open_issues": 1,
                 "owner": "bchao1",
                 "repo": "Anime-Generation",
-                "stars": 72
+                "stars": 72,
+                "topics": [
+                  "acgan",
+                  "anime",
+                  "anime-generation",
+                  "computer-vision",
+                  "conditional-gan",
+                  "dataset",
+                  "dcgan",
+                  "gan",
+                  "generative-adversarial-network"
+                ]
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             },
@@ -2807,12 +3896,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GAN models with Anime.",
+                "homepage": null,
                 "id": 143601363,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-10-24T03:08:45Z",
+                "open_issues": 1,
                 "owner": "FangYang970206",
                 "repo": "Anime_GAN",
-                "stars": 61
+                "stars": 61,
+                "topics": [
+                  "anime",
+                  "cgan",
+                  "conditional-gan",
+                  "dcgan",
+                  "python3",
+                  "pytorch",
+                  "wgan"
+                ]
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             },
@@ -2823,12 +3925,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "stable diffusion finetuned on weeb stuff",
+                "homepage": null,
                 "id": 526383335,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2023-02-16T20:02:49Z",
+                "open_issues": 5,
                 "owner": "harubaru",
                 "repo": "waifu-diffusion",
-                "stars": 1921
+                "stars": 1921,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             }
@@ -2846,12 +3953,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[Open Source].  The improved version of AnimeGAN. Landscape photos/videos to anime",
+                "homepage": null,
                 "id": 285840886,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-08-27T04:44:47Z",
+                "open_issues": 51,
                 "owner": "TachibanaYoshino",
                 "repo": "AnimeGANv2",
-                "stars": 5373
+                "stars": 5373,
+                "topics": [
+                  "animegan",
+                  "animeganv2",
+                  "tensorflow-gpu"
+                ]
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             },
@@ -2862,12 +3978,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A demo webapp to convert images and videos into cartoon!",
+                "homepage": "https://cartoonize-lkqov62dia-de.a.run.app/",
                 "id": 283240725,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-09-12T19:33:40Z",
+                "open_issues": 14,
                 "owner": "experience-ml",
                 "repo": "cartoonize",
-                "stars": 623
+                "stars": 623,
+                "topics": [
+                  "deeplearning",
+                  "demo",
+                  "gans",
+                  "webapp"
+                ]
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             },
@@ -2878,12 +4004,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Imporved performance on facial image cartoonizaiton",
+                "homepage": null,
                 "id": 284487890,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-10-03T09:31:25Z",
+                "open_issues": 7,
                 "owner": "SystemErrorWang",
                 "repo": "FacialCartoonization",
-                "stars": 283
+                "stars": 283,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             },
@@ -2894,12 +4025,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chainer CycleGAN",
+                "homepage": null,
                 "id": 87806263,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-09-16T03:00:30Z",
+                "open_issues": 3,
                 "owner": "Aixile",
                 "repo": "chainer-cyclegan",
-                "stars": 240
+                "stars": 240,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             },
@@ -2910,12 +4046,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Style transfer for between real photos and anime images using CycleGAN",
+                "homepage": null,
                 "id": 138349751,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-01-23T21:53:30Z",
+                "open_issues": 4,
                 "owner": "racinmat",
                 "repo": "anime-style-transfer",
-                "stars": 56
+                "stars": 56,
+                "topics": [
+                  "anime-data",
+                  "anime-style-transfer",
+                  "cyclegan"
+                ]
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             },
@@ -2926,12 +4071,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 233764629,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-11-22T05:03:36Z",
+                "open_issues": 4,
                 "owner": "KiedaTamashi",
                 "repo": "Real2Animation-video-generation",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             }
@@ -2949,12 +4099,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "sketch + style = paints :art: (TOG2018/SIGGRAPH2018ASIA)",
+                "homepage": null,
                 "id": 93354260,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2023-08-01T02:02:00Z",
+                "open_issues": 54,
                 "owner": "lllyasviel",
                 "repo": "style2paints",
-                "stars": 18179
+                "stars": 18178,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             },
@@ -2965,12 +4120,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "line drawing colorization using chainer",
+                "homepage": "https://paintschainer.preferred.tech/",
                 "id": 80181687,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2019-01-06T02:35:33Z",
+                "open_issues": 43,
                 "owner": "pfnet",
                 "repo": "PaintsChainer",
-                "stars": 3762
+                "stars": 3762,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             },
@@ -2981,12 +4141,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Given a simple anime line-art sketch the model outputs a decent colored anime image using Conditional-Generative Adversarial Networks (C-GANs) concept.",
+                "homepage": null,
                 "id": 228595390,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2020-10-21T06:06:01Z",
+                "open_issues": 1,
                 "owner": "sanjay035",
                 "repo": "Sketch2Color-anime-translation",
-                "stars": 114
+                "stars": 114,
+                "topics": [
+                  "deep-learning",
+                  "generative-adversarial-network",
+                  "hacktoberfest",
+                  "hacktoberfest-2020",
+                  "hacktoberfest2020",
+                  "image-processing-python",
+                  "image-synthesis",
+                  "implementation-from-scratch",
+                  "implementation-of-research-paper"
+                ]
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             },
@@ -2997,12 +4172,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reimplementation of Style2Paints V3",
+                "homepage": null,
                 "id": 169379766,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-04-19T09:07:29Z",
+                "open_issues": 6,
                 "owner": "Pengxiao-Wang",
                 "repo": "Style2Paints_V3",
-                "stars": 93
+                "stars": 93,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             },
@@ -3013,12 +4193,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SPADE-based Line Art Colorization",
+                "homepage": null,
                 "id": 213906884,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T05:04:13Z",
+                "open_issues": 12,
                 "owner": "Ugness",
                 "repo": "Line-Art-Colorization-SPADE",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "colorization",
+                  "computer-vision",
+                  "deep-learning",
+                  "demo",
+                  "pytorch",
+                  "safebooru",
+                  "spade",
+                  "style-transfer"
+                ]
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             }
@@ -3036,12 +4230,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Demo for the \"Talking Head Anime from a Single Image.\"",
+                "homepage": null,
                 "id": 230434313,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-06-29T20:27:14Z",
+                "open_issues": 7,
                 "owner": "pkhungurn",
                 "repo": "talking-head-anime-demo",
-                "stars": 2025
+                "stars": 2025,
+                "topics": [
+                  "ai",
+                  "anime",
+                  "computer-graphics",
+                  "computer-vision",
+                  "deep-learning",
+                  "machine-learning",
+                  "python",
+                  "pytorch",
+                  "vtuber"
+                ]
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             },
@@ -3052,12 +4261,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Demo programs for the Talking Head Anime from a Single Image 2: More Expressive project.",
+                "homepage": "http://pkhungurn.github.io/talking-head-anime-2/",
                 "id": 343834897,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-06-29T20:26:56Z",
+                "open_issues": 11,
                 "owner": "pkhungurn",
                 "repo": "talking-head-anime-2-demo",
-                "stars": 1154
+                "stars": 1154,
+                "topics": [
+                  "ai",
+                  "anime",
+                  "computer-graphics",
+                  "computer-vision",
+                  "deep-learning",
+                  "machine-learning",
+                  "python",
+                  "pytorch",
+                  "vtuber"
+                ]
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             },
@@ -3068,12 +4292,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Demo Programs for the \"Talking Head(?) Anime from a Single Image 3: Now the Body Too\" Project",
+                "homepage": "http://pkhungurn.github.io/talking-head-anime-3/",
                 "id": 508822336,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-08-29T08:12:25Z",
+                "open_issues": 11,
                 "owner": "pkhungurn",
                 "repo": "talking-head-anime-3-demo",
-                "stars": 1044
+                "stars": 1044,
+                "topics": [
+                  "ai",
+                  "anime",
+                  "computer-graphics",
+                  "computer-vision",
+                  "machine-learning",
+                  "python",
+                  "pytorch",
+                  "vtuber"
+                ]
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             },
@@ -3084,12 +4322,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Neural Rendering with Attention: An Incremental Improvement for Anime Character Animation",
+                "homepage": null,
                 "id": 521813525,
                 "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
                 "last_commit": "2023-04-15T03:38:48Z",
+                "open_issues": 1,
                 "owner": "transpchan",
                 "repo": "Live3D-v2",
-                "stars": 418
+                "stars": 418,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             }
@@ -3107,12 +4350,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Image Super-Resolution for Anime-Style Art",
+                "homepage": "http://waifu2x.udp.jp/ ",
                 "id": 35756351,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2023-05-04T00:50:48Z",
+                "open_issues": 154,
                 "owner": "nagadomi",
                 "repo": "waifu2x",
-                "stars": 28213
+                "stars": 28212,
+                "topics": [
+                  "super-resolution",
+                  "torch",
+                  "waifu2x"
+                ]
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             },
@@ -3123,12 +4375,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A High-Quality Real Time Upscaler for Anime Video",
+                "homepage": "https://bloc97.github.io/Anime4K/",
                 "id": 202234517,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-08-17T12:09:12Z",
+                "open_issues": 123,
                 "owner": "bloc97",
                 "repo": "Anime4K",
-                "stars": 21298
+                "stars": 21297,
+                "topics": [
+                  "anime",
+                  "anime-upscaling",
+                  "anime4k",
+                  "cnn",
+                  "computer-graphics",
+                  "convolutional-neural-networks",
+                  "denoising-algorithms",
+                  "neural-networks",
+                  "super-resolution",
+                  "upsampling",
+                  "upscaling",
+                  "video",
+                  "video-processing"
+                ]
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             },
@@ -3139,12 +4410,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 365098852,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-08-02T15:34:07Z",
+                "open_issues": 76,
                 "owner": "bilibili",
                 "repo": "ailab",
-                "stars": 5880
+                "stars": 5880,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             },
@@ -3155,12 +4431,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PyTorch implementation of SRGAN specific for Anime Super Resolution based on \"Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network\". And another PyTorch WGAN-gp implementation of SRGAN referring to \"Improved Training of Wasserstein GANs\".",
+                "homepage": null,
                 "id": 157783183,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-12-15T19:58:34Z",
+                "open_issues": 4,
                 "owner": "goldhuang",
                 "repo": "SRGAN-PyTorch",
-                "stars": 87
+                "stars": 87,
+                "topics": [
+                  "anime",
+                  "pytorch",
+                  "srgan",
+                  "wgan-gp"
+                ]
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             }
@@ -3178,12 +4464,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A faster-rcnn model for anime character segmentation.",
+                "homepage": null,
                 "id": 146223769,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2020-08-09T10:19:31Z",
+                "open_issues": 7,
                 "owner": "jerryli27",
                 "repo": "AniSeg",
-                "stars": 209
+                "stars": 209,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             },
@@ -3194,12 +4485,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Instance segmentation for anime characters based on CondInst and SOLOv2",
+                "homepage": null,
                 "id": 302627837,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2020-12-25T03:15:23Z",
+                "open_issues": 7,
                 "owner": "zymk9",
                 "repo": "Yet-Another-Anime-Segmenter",
-                "stars": 197
+                "stars": 197,
+                "topics": [
+                  "adelaidet",
+                  "anime-segmenter",
+                  "condinst",
+                  "detectron2",
+                  "instance-segmentation"
+                ]
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             }
@@ -3217,12 +4519,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Anime Face Detector using mmdet and mmpose",
+                "homepage": null,
                 "id": 422685613,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-05T12:37:29Z",
+                "open_issues": 13,
                 "owner": "hysts",
                 "repo": "anime-face-detector",
-                "stars": 533
+                "stars": 533,
+                "topics": [
+                  "anime",
+                  "computer-vision",
+                  "face-detection",
+                  "face-landmark-detection",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             },
@@ -3233,12 +4546,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Anime face landmark detection by deep cascaded regression",
+                "homepage": null,
                 "id": 220654474,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-11-16T08:13:17Z",
+                "open_issues": 2,
                 "owner": "kanosawa",
                 "repo": "anime_face_landmark_detection",
-                "stars": 253
+                "stars": 253,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             }
@@ -3249,15 +4567,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:09:05.031Z",
+    "last_updated": "2026-08-29T03:44:10.695Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Papers, repository and other data about anime or manga research. Please let me know if you have information that the list does not include.",
+      "homepage": null,
       "id": 259125787,
       "language": null,
+      "license": null,
       "last_commit": "2026-07-20T22:49:51Z",
+      "open_issues": 2,
       "owner": "SerialLain3170",
       "repo": "AwesomeAnimeResearch",
-      "stars": 1246
+      "stars": 1246,
+      "topics": [
+        "anime",
+        "awesome",
+        "deep-learning",
+        "machine-learning"
+      ]
     },
     "original_repository_sha": "b93d524e8e9975b14d99ba153521a7323595fcff",
     "enhanced_repository": "enhansome/enhansome-AwesomeAnimeResearch",
