@@ -1139,7 +1139,7 @@
                     "open_issues": 19,
                     "owner": "Ha0Tang",
                     "repo": "AttentionGAN",
-                    "stars": 686,
+                    "stars": 685,
                     "topics": [
                       "adversarial-networks",
                       "attention-model",
@@ -1196,7 +1196,7 @@
                     "open_issues": 56,
                     "owner": "taki0112",
                     "repo": "UGATIT",
-                    "stars": 6115,
+                    "stars": 6116,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -1514,7 +1514,7 @@
                     "open_issues": 7,
                     "owner": "youyuge34",
                     "repo": "PI-REC",
-                    "stars": 2057,
+                    "stars": 2058,
                     "topics": [
                       "ai-painting",
                       "auto-painting",
@@ -1785,7 +1785,7 @@
                     "open_issues": 59,
                     "owner": "ali-vilab",
                     "repo": "VACE",
-                    "stars": 3940,
+                    "stars": 3942,
                     "topics": [
                       "video-editing",
                       "video-generation"
@@ -1830,7 +1830,7 @@
                     "open_issues": 319,
                     "owner": "guoyww",
                     "repo": "AnimateDiff",
-                    "stars": 12238,
+                    "stars": 12240,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -2009,7 +2009,7 @@
                     "open_issues": 54,
                     "owner": "lllyasviel",
                     "repo": "style2paints",
-                    "stars": 18171,
+                    "stars": 18172,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -2030,7 +2030,7 @@
                     "open_issues": 54,
                     "owner": "lllyasviel",
                     "repo": "style2paints",
-                    "stars": 18171,
+                    "stars": 18172,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -2607,7 +2607,7 @@
                     "open_issues": 0,
                     "owner": "qyzdao",
                     "repo": "ShadeSketch",
-                    "stars": 355,
+                    "stars": 356,
                     "topics": [
                       "artists",
                       "cvpr2020",
@@ -2655,7 +2655,7 @@
                     "open_issues": 6,
                     "owner": "V-Sense",
                     "repo": "DeepNormals",
-                    "stars": 182,
+                    "stars": 183,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -2683,7 +2683,7 @@
                     "open_issues": 18,
                     "owner": "shitagaki-lab",
                     "repo": "see-through",
-                    "stars": 3868,
+                    "stars": 3896,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -2775,7 +2775,7 @@
                     "open_issues": 4,
                     "owner": "lllyasviel",
                     "repo": "AppearanceEraser",
-                    "stars": 187,
+                    "stars": 188,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -3176,7 +3176,7 @@
                     "open_issues": 646,
                     "owner": "xinntao",
                     "repo": "Real-ESRGAN",
-                    "stars": 36739,
+                    "stars": 36750,
                     "topics": [
                       "amine",
                       "denoise",
@@ -3702,7 +3702,7 @@
                 "open_issues": 41,
                 "owner": "makegirlsmoe",
                 "repo": "makegirlsmoe_web",
-                "stars": 3415,
+                "stars": 3414,
                 "topics": [
                   "anime",
                   "deep-learning",
@@ -4108,7 +4108,7 @@
                 "open_issues": 54,
                 "owner": "lllyasviel",
                 "repo": "style2paints",
-                "stars": 18171,
+                "stars": 18172,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
@@ -4129,7 +4129,7 @@
                 "open_issues": 43,
                 "owner": "pfnet",
                 "repo": "PaintsChainer",
-                "stars": 3762,
+                "stars": 3761,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
@@ -4359,7 +4359,7 @@
                 "open_issues": 154,
                 "owner": "nagadomi",
                 "repo": "waifu2x",
-                "stars": 28221,
+                "stars": 28220,
                 "topics": [
                   "super-resolution",
                   "torch",
@@ -4384,7 +4384,7 @@
                 "open_issues": 119,
                 "owner": "bloc97",
                 "repo": "Anime4K",
-                "stars": 21373,
+                "stars": 21380,
                 "topics": [
                   "anime",
                   "anime-upscaling",
@@ -4567,7 +4567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T00:16:54.844Z",
+    "last_updated": "2026-09-11T00:12:50.459Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers, repository and other data about anime or manga research. Please let me know if you have information that the list does not include.",
