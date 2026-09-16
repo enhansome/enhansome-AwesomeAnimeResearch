@@ -1655,7 +1655,7 @@
                     "open_issues": 18,
                     "owner": "mchong6",
                     "repo": "JoJoGAN",
-                    "stars": 1438,
+                    "stars": 1439,
                     "topics": [
                       "anime",
                       "gans",
@@ -1736,7 +1736,7 @@
                     "open_issues": 44,
                     "owner": "bilibili",
                     "repo": "Index-anisora",
-                    "stars": 2510,
+                    "stars": 2511,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -1757,7 +1757,7 @@
                     "open_issues": 44,
                     "owner": "bilibili",
                     "repo": "Index-anisora",
-                    "stars": 2510,
+                    "stars": 2511,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -1785,7 +1785,7 @@
                     "open_issues": 59,
                     "owner": "ali-vilab",
                     "repo": "VACE",
-                    "stars": 3947,
+                    "stars": 3946,
                     "topics": [
                       "video-editing",
                       "video-generation"
@@ -2009,7 +2009,7 @@
                     "open_issues": 54,
                     "owner": "lllyasviel",
                     "repo": "style2paints",
-                    "stars": 18176,
+                    "stars": 18175,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -2030,7 +2030,7 @@
                     "open_issues": 54,
                     "owner": "lllyasviel",
                     "repo": "style2paints",
-                    "stars": 18176,
+                    "stars": 18175,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -2683,7 +2683,7 @@
                     "open_issues": 18,
                     "owner": "shitagaki-lab",
                     "repo": "see-through",
-                    "stars": 3977,
+                    "stars": 3988,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -3019,7 +3019,7 @@
                     "open_issues": 57,
                     "owner": "Doubiiu",
                     "repo": "ToonCrafter",
-                    "stars": 6012,
+                    "stars": 6013,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -3155,7 +3155,7 @@
                     "open_issues": 11,
                     "owner": "TencentARC",
                     "repo": "AnimeSR",
-                    "stars": 371,
+                    "stars": 372,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -3176,7 +3176,7 @@
                     "open_issues": 647,
                     "owner": "xinntao",
                     "repo": "Real-ESRGAN",
-                    "stars": 36781,
+                    "stars": 36791,
                     "topics": [
                       "amine",
                       "denoise",
@@ -4108,7 +4108,7 @@
                 "open_issues": 54,
                 "owner": "lllyasviel",
                 "repo": "style2paints",
-                "stars": 18176,
+                "stars": 18175,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
@@ -4359,7 +4359,7 @@
                 "open_issues": 154,
                 "owner": "nagadomi",
                 "repo": "waifu2x",
-                "stars": 28223,
+                "stars": 28226,
                 "topics": [
                   "super-resolution",
                   "torch",
@@ -4384,7 +4384,7 @@
                 "open_issues": 119,
                 "owner": "bloc97",
                 "repo": "Anime4K",
-                "stars": 21395,
+                "stars": 21397,
                 "topics": [
                   "anime",
                   "anime-upscaling",
@@ -4567,7 +4567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T00:40:27.676Z",
+    "last_updated": "2026-09-16T00:24:24.250Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers, repository and other data about anime or manga research. Please let me know if you have information that the list does not include.",
@@ -4579,7 +4579,7 @@
       "open_issues": 2,
       "owner": "SerialLain3170",
       "repo": "AwesomeAnimeResearch",
-      "stars": 1247,
+      "stars": 1248,
       "topics": [
         "anime",
         "awesome",
