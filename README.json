@@ -1139,7 +1139,7 @@
                     "open_issues": 19,
                     "owner": "Ha0Tang",
                     "repo": "AttentionGAN",
-                    "stars": 685,
+                    "stars": 686,
                     "topics": [
                       "adversarial-networks",
                       "attention-model",
@@ -1196,7 +1196,7 @@
                     "open_issues": 56,
                     "owner": "taki0112",
                     "repo": "UGATIT",
-                    "stars": 6116,
+                    "stars": 6114,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -1785,7 +1785,7 @@
                     "open_issues": 59,
                     "owner": "ali-vilab",
                     "repo": "VACE",
-                    "stars": 3946,
+                    "stars": 3948,
                     "topics": [
                       "video-editing",
                       "video-generation"
@@ -2009,7 +2009,7 @@
                     "open_issues": 54,
                     "owner": "lllyasviel",
                     "repo": "style2paints",
-                    "stars": 18175,
+                    "stars": 18174,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -2030,7 +2030,7 @@
                     "open_issues": 54,
                     "owner": "lllyasviel",
                     "repo": "style2paints",
-                    "stars": 18175,
+                    "stars": 18174,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -2683,7 +2683,7 @@
                     "open_issues": 18,
                     "owner": "shitagaki-lab",
                     "repo": "see-through",
-                    "stars": 3988,
+                    "stars": 4004,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -3019,7 +3019,7 @@
                     "open_issues": 57,
                     "owner": "Doubiiu",
                     "repo": "ToonCrafter",
-                    "stars": 6013,
+                    "stars": 6014,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -3176,7 +3176,7 @@
                     "open_issues": 647,
                     "owner": "xinntao",
                     "repo": "Real-ESRGAN",
-                    "stars": 36791,
+                    "stars": 36814,
                     "topics": [
                       "amine",
                       "denoise",
@@ -4108,7 +4108,7 @@
                 "open_issues": 54,
                 "owner": "lllyasviel",
                 "repo": "style2paints",
-                "stars": 18175,
+                "stars": 18174,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
@@ -4301,7 +4301,7 @@
                 "open_issues": 11,
                 "owner": "pkhungurn",
                 "repo": "talking-head-anime-3-demo",
-                "stars": 1046,
+                "stars": 1045,
                 "topics": [
                   "ai",
                   "anime",
@@ -4384,7 +4384,7 @@
                 "open_issues": 119,
                 "owner": "bloc97",
                 "repo": "Anime4K",
-                "stars": 21397,
+                "stars": 21402,
                 "topics": [
                   "anime",
                   "anime-upscaling",
@@ -4567,7 +4567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T00:24:24.250Z",
+    "last_updated": "2026-09-17T00:34:25.229Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers, repository and other data about anime or manga research. Please let me know if you have information that the list does not include.",
