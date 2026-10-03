@@ -1274,7 +1274,7 @@
                 {
                   "node_type": "item",
                   "title": "AnimeGAN: a novel lightweight GAN for photo animation",
-                  "description": null,
+                  "description": "TachibanaYoshino/AnimeGAN",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1301,7 +1301,7 @@
                 {
                   "node_type": "item",
                   "title": "TachibanaYoshino/AnimeGAN",
-                  "description": null,
+                  "description": "TachibanaYoshino/AnimeGAN",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1353,7 +1353,7 @@
                 {
                   "node_type": "item",
                   "title": "Learning to Cartoonize Using White-box Cartoon Representations",
-                  "description": null,
+                  "description": "SystemErrorWang/White-box-Cartoonization",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1374,7 +1374,7 @@
                 {
                   "node_type": "item",
                   "title": "SystemErrorWang/White-box-Cartoonization",
-                  "description": null,
+                  "description": "SystemErrorWang/White-box-Cartoonization",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1830,7 +1830,7 @@
                     "open_issues": 318,
                     "owner": "guoyww",
                     "repo": "AnimateDiff",
-                    "stars": 12260,
+                    "stars": 12262,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -1996,7 +1996,7 @@
                 {
                   "node_type": "item",
                   "title": "Two-stage Sketch Colorization",
-                  "description": null,
+                  "description": "lllyasviel/style2paints",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2017,7 +2017,7 @@
                 {
                   "node_type": "item",
                   "title": "lllyasviel/style2paints",
-                  "description": null,
+                  "description": "lllyasviel/style2paints",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2302,7 +2302,7 @@
                 {
                   "node_type": "item",
                   "title": "Attentioned Deep Paint",
-                  "description": null,
+                  "description": "ktaebum/AttentionedDeepPaint",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2323,7 +2323,7 @@
                 {
                   "node_type": "item",
                   "title": "ktaebum/AttentionedDeepPaint",
-                  "description": null,
+                  "description": "ktaebum/AttentionedDeepPaint",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2683,7 +2683,7 @@
                     "open_issues": 20,
                     "owner": "shitagaki-lab",
                     "repo": "see-through",
-                    "stars": 4218,
+                    "stars": 4230,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -3176,7 +3176,7 @@
                     "open_issues": 648,
                     "owner": "xinntao",
                     "repo": "Real-ESRGAN",
-                    "stars": 36970,
+                    "stars": 36969,
                     "topics": [
                       "amine",
                       "denoise",
@@ -3624,7 +3624,7 @@
             {
               "node_type": "item",
               "title": "Awesome-Animation-Research",
-              "description": null,
+              "description": "zhenglinpan/Awesome-Animation-Research",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3652,7 +3652,7 @@
             {
               "node_type": "item",
               "title": "Classification and vectorization of key-frames and face characters of anime",
-              "description": null,
+              "description": "enmanuelmag/AnimeClassificator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3689,7 +3689,7 @@
             {
               "node_type": "item",
               "title": "makegirlsmoe",
-              "description": null,
+              "description": "makegirlsmoe/makegirlsmoe_web",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3717,7 +3717,7 @@
             {
               "node_type": "item",
               "title": "jayleicn/AnimeGAN",
-              "description": null,
+              "description": "jayleicn/animeGAN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3742,7 +3742,7 @@
             {
               "node_type": "item",
               "title": "tdrussell/IllustrationGAN",
-              "description": null,
+              "description": "tdrussell/IllustrationGAN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3763,7 +3763,7 @@
             {
               "node_type": "item",
               "title": "pavitrakumar78/Anime-Face-GAN-Keras",
-              "description": null,
+              "description": "pavitrakumar78/Anime-Face-GAN-Keras",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3793,7 +3793,7 @@
             {
               "node_type": "item",
               "title": "ANIME305/Anime-GAN-tensorflow",
-              "description": null,
+              "description": "ANIME305/Anime-GAN-tensorflow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3814,7 +3814,7 @@
             {
               "node_type": "item",
               "title": "forcecore/Keras-GAN-Animeface-Character",
-              "description": null,
+              "description": "forcecore/Keras-GAN-Animeface-Character",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3835,7 +3835,7 @@
             {
               "node_type": "item",
               "title": "m516825/Conditional-GAN",
-              "description": null,
+              "description": "m516825/Conditional-GAN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3861,7 +3861,7 @@
             {
               "node_type": "item",
               "title": "bchao1/Anime-Generation",
-              "description": null,
+              "description": "bchao1/Anime-Generation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3892,7 +3892,7 @@
             {
               "node_type": "item",
               "title": "FangYang970206/Anime_GAN",
-              "description": null,
+              "description": "FangYang970206/Anime_GAN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3921,7 +3921,7 @@
             {
               "node_type": "item",
               "title": "harubaru/waifu-diffusion",
-              "description": null,
+              "description": "harubaru/waifu-diffusion",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3949,7 +3949,7 @@
             {
               "node_type": "item",
               "title": "TachibanaYoshino/AnimeGANv2",
-              "description": null,
+              "description": "TachibanaYoshino/AnimeGANv2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3974,7 +3974,7 @@
             {
               "node_type": "item",
               "title": "experience-ml/cartoonize",
-              "description": null,
+              "description": "experience-ml/cartoonize",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4000,7 +4000,7 @@
             {
               "node_type": "item",
               "title": "SystemErrorWang/FacialCartoonization",
-              "description": null,
+              "description": "SystemErrorWang/FacialCartoonization",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4021,7 +4021,7 @@
             {
               "node_type": "item",
               "title": "Aixile/chainer-cyclegan",
-              "description": null,
+              "description": "Aixile/chainer-cyclegan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4042,7 +4042,7 @@
             {
               "node_type": "item",
               "title": "racinmat/anime-style-transfer",
-              "description": null,
+              "description": "racinmat/anime-style-transfer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4067,7 +4067,7 @@
             {
               "node_type": "item",
               "title": "XiaoSanGit/Real2Animation-video-generation",
-              "description": null,
+              "description": "KiedaTamashi/Real2Animation-video-generation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4095,7 +4095,7 @@
             {
               "node_type": "item",
               "title": "style2paints",
-              "description": null,
+              "description": "lllyasviel/style2paints",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4116,7 +4116,7 @@
             {
               "node_type": "item",
               "title": "PaintsChainer",
-              "description": null,
+              "description": "pfnet/PaintsChainer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4137,7 +4137,7 @@
             {
               "node_type": "item",
               "title": "sanjay235/Sketch2Color-anime-translation",
-              "description": null,
+              "description": "sanjay035/Sketch2Color-anime-translation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4168,7 +4168,7 @@
             {
               "node_type": "item",
               "title": "Pengxiao-Wang/Style2Paints_V3",
-              "description": null,
+              "description": "Pengxiao-Wang/Style2Paints_V3",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4189,7 +4189,7 @@
             {
               "node_type": "item",
               "title": "Ugness/Line-Art-Colorization-SPADE",
-              "description": null,
+              "description": "Ugness/Line-Art-Colorization-SPADE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4226,7 +4226,7 @@
             {
               "node_type": "item",
               "title": "Talking Head Anime from a Single Image",
-              "description": null,
+              "description": "pkhungurn/talking-head-anime-demo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4257,7 +4257,7 @@
             {
               "node_type": "item",
               "title": "Talking Head Anime from a Single Image 2: More Expressive",
-              "description": null,
+              "description": "pkhungurn/talking-head-anime-2-demo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4288,7 +4288,7 @@
             {
               "node_type": "item",
               "title": "Talking Head(?) Anime from a Single Image 3: Now the Body Too",
-              "description": null,
+              "description": "pkhungurn/talking-head-anime-3-demo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4318,7 +4318,7 @@
             {
               "node_type": "item",
               "title": "Neural Rendering with Attention: An Incremental Improvement for Anime Character Animation",
-              "description": null,
+              "description": "transpchan/Live3D-v2",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4346,7 +4346,7 @@
             {
               "node_type": "item",
               "title": "waifu2x",
-              "description": null,
+              "description": "nagadomi/waifu2x",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4371,7 +4371,7 @@
             {
               "node_type": "item",
               "title": "Anime4K",
-              "description": null,
+              "description": "bloc97/Anime4K",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4406,7 +4406,7 @@
             {
               "node_type": "item",
               "title": "Real-CUGAN",
-              "description": null,
+              "description": "bilibili/ailab",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4427,7 +4427,7 @@
             {
               "node_type": "item",
               "title": "goldhuang/SRGAN-PyTorch",
-              "description": null,
+              "description": "goldhuang/SRGAN-PyTorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4460,7 +4460,7 @@
             {
               "node_type": "item",
               "title": "jerryli27/AniSeg",
-              "description": null,
+              "description": "jerryli27/AniSeg",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4481,7 +4481,7 @@
             {
               "node_type": "item",
               "title": "zymk9/Yet-Another-Anime-Segmenter",
-              "description": null,
+              "description": "zymk9/Yet-Another-Anime-Segmenter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4515,7 +4515,7 @@
             {
               "node_type": "item",
               "title": "Anime Face Detector using mmdet and mmpose",
-              "description": null,
+              "description": "hysts/anime-face-detector",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4542,7 +4542,7 @@
             {
               "node_type": "item",
               "title": "Anime face landmark detection by deep cascaded regression",
-              "description": null,
+              "description": "kanosawa/anime_face_landmark_detection",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4567,7 +4567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:13:10.014Z",
+    "last_updated": "2026-10-03T04:30:38.145Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers, repository and other data about anime or manga research. Please let me know if you have information that the list does not include.",
