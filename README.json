@@ -847,7 +847,7 @@
                     "open_issues": 461,
                     "owner": "lllyasviel",
                     "repo": "ControlNet",
-                    "stars": 34124,
+                    "stars": 34129,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -1038,7 +1038,7 @@
                     "open_issues": 21,
                     "owner": "jerryli27",
                     "repo": "TwinGAN",
-                    "stars": 714,
+                    "stars": 713,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -1196,7 +1196,7 @@
                     "open_issues": 56,
                     "owner": "taki0112",
                     "repo": "UGATIT",
-                    "stars": 6112,
+                    "stars": 6111,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -1785,7 +1785,7 @@
                     "open_issues": 59,
                     "owner": "ali-vilab",
                     "repo": "VACE",
-                    "stars": 3962,
+                    "stars": 3963,
                     "topics": [
                       "video-editing",
                       "video-generation"
@@ -1830,7 +1830,7 @@
                     "open_issues": 319,
                     "owner": "guoyww",
                     "repo": "AnimateDiff",
-                    "stars": 12272,
+                    "stars": 12274,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -2009,7 +2009,7 @@
                     "open_issues": 54,
                     "owner": "lllyasviel",
                     "repo": "style2paints",
-                    "stars": 18165,
+                    "stars": 18164,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -2030,7 +2030,7 @@
                     "open_issues": 54,
                     "owner": "lllyasviel",
                     "repo": "style2paints",
-                    "stars": 18165,
+                    "stars": 18164,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -2467,7 +2467,7 @@
                     "open_issues": 9,
                     "owner": "TencentARC",
                     "repo": "ToonComposer",
-                    "stars": 589,
+                    "stars": 590,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -2509,7 +2509,7 @@
                     "open_issues": 5,
                     "owner": "robbyant-research",
                     "repo": "AniDoc",
-                    "stars": 571,
+                    "stars": 572,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -2683,7 +2683,7 @@
                     "open_issues": 20,
                     "owner": "shitagaki-lab",
                     "repo": "see-through",
-                    "stars": 4403,
+                    "stars": 4432,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -3019,7 +3019,7 @@
                     "open_issues": 57,
                     "owner": "Doubiiu",
                     "repo": "ToonCrafter",
-                    "stars": 6032,
+                    "stars": 6031,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -3176,7 +3176,7 @@
                     "open_issues": 647,
                     "owner": "xinntao",
                     "repo": "Real-ESRGAN",
-                    "stars": 37005,
+                    "stars": 37013,
                     "topics": [
                       "amine",
                       "denoise",
@@ -4108,7 +4108,7 @@
                 "open_issues": 54,
                 "owner": "lllyasviel",
                 "repo": "style2paints",
-                "stars": 18165,
+                "stars": 18164,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
@@ -4239,7 +4239,7 @@
                 "open_issues": 7,
                 "owner": "pkhungurn",
                 "repo": "talking-head-anime-demo",
-                "stars": 2028,
+                "stars": 2029,
                 "topics": [
                   "ai",
                   "anime",
@@ -4301,7 +4301,7 @@
                 "open_issues": 11,
                 "owner": "pkhungurn",
                 "repo": "talking-head-anime-3-demo",
-                "stars": 1046,
+                "stars": 1047,
                 "topics": [
                   "ai",
                   "anime",
@@ -4359,7 +4359,7 @@
                 "open_issues": 154,
                 "owner": "nagadomi",
                 "repo": "waifu2x",
-                "stars": 28222,
+                "stars": 28223,
                 "topics": [
                   "super-resolution",
                   "torch",
@@ -4384,7 +4384,7 @@
                 "open_issues": 119,
                 "owner": "bloc97",
                 "repo": "Anime4K",
-                "stars": 21469,
+                "stars": 21472,
                 "topics": [
                   "anime",
                   "anime-upscaling",
@@ -4419,7 +4419,7 @@
                 "open_issues": 76,
                 "owner": "bilibili",
                 "repo": "ailab",
-                "stars": 5876,
+                "stars": 5877,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
@@ -4567,7 +4567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T01:35:05.189Z",
+    "last_updated": "2026-10-08T01:58:48.564Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers, repository and other data about anime or manga research. Please let me know if you have information that the list does not include.",
