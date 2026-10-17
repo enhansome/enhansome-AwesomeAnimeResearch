@@ -24,7 +24,7 @@
                 "open_issues": 0,
                 "owner": "sizigi",
                 "repo": "animescore",
-                "stars": 12,
+                "stars": 13,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
@@ -205,7 +205,7 @@
                 "open_issues": 0,
                 "owner": "ku21fan",
                 "repo": "COO-Comic-Onomatopoeia",
-                "stars": 96,
+                "stars": 97,
                 "topics": [
                   "comic-onomatopoeia",
                   "eccv2022",
@@ -1736,7 +1736,7 @@
                     "open_issues": 44,
                     "owner": "bilibili",
                     "repo": "Index-anisora",
-                    "stars": 2528,
+                    "stars": 2527,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -1757,7 +1757,7 @@
                     "open_issues": 44,
                     "owner": "bilibili",
                     "repo": "Index-anisora",
-                    "stars": 2528,
+                    "stars": 2527,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -1785,7 +1785,7 @@
                     "open_issues": 59,
                     "owner": "ali-vilab",
                     "repo": "VACE",
-                    "stars": 3975,
+                    "stars": 3978,
                     "topics": [
                       "video-editing",
                       "video-generation"
@@ -1830,7 +1830,7 @@
                     "open_issues": 320,
                     "owner": "guoyww",
                     "repo": "AnimateDiff",
-                    "stars": 12274,
+                    "stars": 12273,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -2009,7 +2009,7 @@
                     "open_issues": 54,
                     "owner": "lllyasviel",
                     "repo": "style2paints",
-                    "stars": 18160,
+                    "stars": 18159,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -2030,7 +2030,7 @@
                     "open_issues": 54,
                     "owner": "lllyasviel",
                     "repo": "style2paints",
-                    "stars": 18160,
+                    "stars": 18159,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -2607,7 +2607,7 @@
                     "open_issues": 0,
                     "owner": "qyzdao",
                     "repo": "ShadeSketch",
-                    "stars": 358,
+                    "stars": 357,
                     "topics": [
                       "artists",
                       "cvpr2020",
@@ -2683,7 +2683,7 @@
                     "open_issues": 21,
                     "owner": "shitagaki-lab",
                     "repo": "see-through",
-                    "stars": 4639,
+                    "stars": 4656,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -3019,7 +3019,7 @@
                     "open_issues": 57,
                     "owner": "Doubiiu",
                     "repo": "ToonCrafter",
-                    "stars": 6034,
+                    "stars": 6038,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -3082,7 +3082,7 @@
                     "open_issues": 0,
                     "owner": "ShuhongChen",
                     "repo": "eisai-anime-interpolator",
-                    "stars": 128,
+                    "stars": 129,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -3134,7 +3134,7 @@
                     "open_issues": 21,
                     "owner": "Kiteretsu77",
                     "repo": "APISR",
-                    "stars": 1139,
+                    "stars": 1138,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -3155,7 +3155,7 @@
                     "open_issues": 11,
                     "owner": "TencentARC",
                     "repo": "AnimeSR",
-                    "stars": 375,
+                    "stars": 376,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -3176,7 +3176,7 @@
                     "open_issues": 647,
                     "owner": "xinntao",
                     "repo": "Real-ESRGAN",
-                    "stars": 37103,
+                    "stars": 37118,
                     "topics": [
                       "amine",
                       "denoise",
@@ -4108,7 +4108,7 @@
                 "open_issues": 54,
                 "owner": "lllyasviel",
                 "repo": "style2paints",
-                "stars": 18160,
+                "stars": 18159,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
@@ -4359,7 +4359,7 @@
                 "open_issues": 154,
                 "owner": "nagadomi",
                 "repo": "waifu2x",
-                "stars": 28226,
+                "stars": 28224,
                 "topics": [
                   "super-resolution",
                   "torch",
@@ -4384,7 +4384,7 @@
                 "open_issues": 119,
                 "owner": "bloc97",
                 "repo": "Anime4K",
-                "stars": 21514,
+                "stars": 21517,
                 "topics": [
                   "anime",
                   "anime-upscaling",
@@ -4567,7 +4567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T00:25:56.176Z",
+    "last_updated": "2026-10-17T00:31:01.220Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers, repository and other data about anime or manga research. Please let me know if you have information that the list does not include.",
