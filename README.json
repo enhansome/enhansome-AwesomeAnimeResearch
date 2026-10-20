@@ -718,7 +718,7 @@
                     "open_issues": 3,
                     "owner": "xrenaa",
                     "repo": "DisCo",
-                    "stars": 138,
+                    "stars": 137,
                     "topics": [
                       "deep-learning",
                       "disentangled-representations",
@@ -847,7 +847,7 @@
                     "open_issues": 461,
                     "owner": "lllyasviel",
                     "repo": "ControlNet",
-                    "stars": 34121,
+                    "stars": 34123,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -1287,7 +1287,7 @@
                     "open_issues": 17,
                     "owner": "TachibanaYoshino",
                     "repo": "AnimeGAN",
-                    "stars": 4610,
+                    "stars": 4611,
                     "topics": [
                       "anime-images",
                       "animegan",
@@ -1314,7 +1314,7 @@
                     "open_issues": 17,
                     "owner": "TachibanaYoshino",
                     "repo": "AnimeGAN",
-                    "stars": 4610,
+                    "stars": 4611,
                     "topics": [
                       "anime-images",
                       "animegan",
@@ -1785,7 +1785,7 @@
                     "open_issues": 59,
                     "owner": "ali-vilab",
                     "repo": "VACE",
-                    "stars": 3982,
+                    "stars": 3983,
                     "topics": [
                       "video-editing",
                       "video-generation"
@@ -1830,7 +1830,7 @@
                     "open_issues": 320,
                     "owner": "guoyww",
                     "repo": "AnimateDiff",
-                    "stars": 12274,
+                    "stars": 12273,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -2446,7 +2446,7 @@
                     "open_issues": 2,
                     "owner": "zhangxulu1996",
                     "repo": "OmniColor",
-                    "stars": 21,
+                    "stars": 22,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -2464,7 +2464,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2025-08-20T06:21:56Z",
-                    "open_issues": 9,
+                    "open_issues": 10,
                     "owner": "TencentARC",
                     "repo": "ToonComposer",
                     "stars": 591,
@@ -2683,7 +2683,7 @@
                     "open_issues": 21,
                     "owner": "shitagaki-lab",
                     "repo": "see-through",
-                    "stars": 4700,
+                    "stars": 4718,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -2796,7 +2796,7 @@
                     "open_issues": 3,
                     "owner": "quolc",
                     "repo": "neural-collage",
-                    "stars": 559,
+                    "stars": 558,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -3019,7 +3019,7 @@
                     "open_issues": 57,
                     "owner": "Doubiiu",
                     "repo": "ToonCrafter",
-                    "stars": 6039,
+                    "stars": 6040,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -3173,10 +3173,10 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2024-08-06T13:15:18Z",
-                    "open_issues": 648,
+                    "open_issues": 649,
                     "owner": "xinntao",
                     "repo": "Real-ESRGAN",
-                    "stars": 37141,
+                    "stars": 37152,
                     "topics": [
                       "amine",
                       "denoise",
@@ -4129,7 +4129,7 @@
                 "open_issues": 43,
                 "owner": "pfnet",
                 "repo": "PaintsChainer",
-                "stars": 3756,
+                "stars": 3757,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
@@ -4301,7 +4301,7 @@
                 "open_issues": 11,
                 "owner": "pkhungurn",
                 "repo": "talking-head-anime-3-demo",
-                "stars": 1048,
+                "stars": 1047,
                 "topics": [
                   "ai",
                   "anime",
@@ -4359,7 +4359,7 @@
                 "open_issues": 154,
                 "owner": "nagadomi",
                 "repo": "waifu2x",
-                "stars": 28227,
+                "stars": 28230,
                 "topics": [
                   "super-resolution",
                   "torch",
@@ -4384,7 +4384,7 @@
                 "open_issues": 119,
                 "owner": "bloc97",
                 "repo": "Anime4K",
-                "stars": 21525,
+                "stars": 21530,
                 "topics": [
                   "anime",
                   "anime-upscaling",
@@ -4567,7 +4567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T00:13:14.840Z",
+    "last_updated": "2026-10-20T01:06:11.602Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers, repository and other data about anime or manga research. Please let me know if you have information that the list does not include.",
