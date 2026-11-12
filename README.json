@@ -66,7 +66,7 @@
                 "open_issues": 6,
                 "owner": "ragavsachdeva",
                 "repo": "magi",
-                "stars": 478,
+                "stars": 479,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
@@ -1366,7 +1366,7 @@
                     "open_issues": 72,
                     "owner": "SystemErrorWang",
                     "repo": "White-box-Cartoonization",
-                    "stars": 4001,
+                    "stars": 4000,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -1387,7 +1387,7 @@
                     "open_issues": 72,
                     "owner": "SystemErrorWang",
                     "repo": "White-box-Cartoonization",
-                    "stars": 4001,
+                    "stars": 4000,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -1736,7 +1736,7 @@
                     "open_issues": 44,
                     "owner": "bilibili",
                     "repo": "Index-anisora",
-                    "stars": 2539,
+                    "stars": 2540,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -1757,7 +1757,7 @@
                     "open_issues": 44,
                     "owner": "bilibili",
                     "repo": "Index-anisora",
-                    "stars": 2539,
+                    "stars": 2540,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -1785,7 +1785,7 @@
                     "open_issues": 59,
                     "owner": "ali-vilab",
                     "repo": "VACE",
-                    "stars": 4058,
+                    "stars": 4059,
                     "topics": [
                       "video-editing",
                       "video-generation"
@@ -1830,7 +1830,7 @@
                     "open_issues": 320,
                     "owner": "guoyww",
                     "repo": "AnimateDiff",
-                    "stars": 12292,
+                    "stars": 12294,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -2009,7 +2009,7 @@
                     "open_issues": 54,
                     "owner": "lllyasviel",
                     "repo": "style2paints",
-                    "stars": 18147,
+                    "stars": 18143,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -2030,7 +2030,7 @@
                     "open_issues": 54,
                     "owner": "lllyasviel",
                     "repo": "style2paints",
-                    "stars": 18147,
+                    "stars": 18143,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -2467,7 +2467,7 @@
                     "open_issues": 10,
                     "owner": "TencentARC",
                     "repo": "ToonComposer",
-                    "stars": 593,
+                    "stars": 594,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -2683,7 +2683,7 @@
                     "open_issues": 27,
                     "owner": "shitagaki-lab",
                     "repo": "see-through",
-                    "stars": 5596,
+                    "stars": 5620,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -3103,7 +3103,7 @@
                     "open_issues": 15,
                     "owner": "lisiyao21",
                     "repo": "AnimeInterp",
-                    "stars": 461,
+                    "stars": 462,
                     "topics": [
                       "animation-videos",
                       "frame-interpolation"
@@ -3155,7 +3155,7 @@
                     "open_issues": 11,
                     "owner": "TencentARC",
                     "repo": "AnimeSR",
-                    "stars": 375,
+                    "stars": 376,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -3176,7 +3176,7 @@
                     "open_issues": 648,
                     "owner": "xinntao",
                     "repo": "Real-ESRGAN",
-                    "stars": 37441,
+                    "stars": 37462,
                     "topics": [
                       "amine",
                       "denoise",
@@ -3702,7 +3702,7 @@
                 "open_issues": 41,
                 "owner": "makegirlsmoe",
                 "repo": "makegirlsmoe_web",
-                "stars": 3417,
+                "stars": 3418,
                 "topics": [
                   "anime",
                   "deep-learning",
@@ -3762,36 +3762,6 @@
             },
             {
               "node_type": "item",
-              "title": "pavitrakumar78/Anime-Face-GAN-Keras",
-              "description": "pavitrakumar78/Anime-Face-GAN-Keras",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A DCGAN to generate anime faces using custom mined dataset",
-                "homepage": null,
-                "id": 97803883,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2017-07-20T09:03:03Z",
-                "open_issues": 0,
-                "owner": "pavitrakumar78",
-                "repo": "Anime-Face-GAN-Keras",
-                "stars": 198,
-                "topics": [
-                  "anime",
-                  "cnn",
-                  "deep-learning",
-                  "face",
-                  "gan",
-                  "generative-adversarial-network",
-                  "keras",
-                  "python"
-                ]
-              },
-              "first_seen": "2026-08-28T06:09:05.031Z"
-            },
-            {
-              "node_type": "item",
               "title": "ANIME305/Anime-GAN-tensorflow",
               "description": "ANIME305/Anime-GAN-tensorflow",
               "children": [],
@@ -3808,6 +3778,36 @@
                 "repo": "Anime-GAN-tensorflow",
                 "stars": 197,
                 "topics": []
+              },
+              "first_seen": "2026-08-28T06:09:05.031Z"
+            },
+            {
+              "node_type": "item",
+              "title": "pavitrakumar78/Anime-Face-GAN-Keras",
+              "description": "pavitrakumar78/Anime-Face-GAN-Keras",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A DCGAN to generate anime faces using custom mined dataset",
+                "homepage": null,
+                "id": 97803883,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2017-07-20T09:03:03Z",
+                "open_issues": 0,
+                "owner": "pavitrakumar78",
+                "repo": "Anime-Face-GAN-Keras",
+                "stars": 197,
+                "topics": [
+                  "anime",
+                  "cnn",
+                  "deep-learning",
+                  "face",
+                  "gan",
+                  "generative-adversarial-network",
+                  "keras",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
             },
@@ -4108,7 +4108,7 @@
                 "open_issues": 54,
                 "owner": "lllyasviel",
                 "repo": "style2paints",
-                "stars": 18147,
+                "stars": 18143,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
@@ -4359,7 +4359,7 @@
                 "open_issues": 154,
                 "owner": "nagadomi",
                 "repo": "waifu2x",
-                "stars": 28238,
+                "stars": 28239,
                 "topics": [
                   "super-resolution",
                   "torch",
@@ -4384,7 +4384,7 @@
                 "open_issues": 119,
                 "owner": "bloc97",
                 "repo": "Anime4K",
-                "stars": 21625,
+                "stars": 21629,
                 "topics": [
                   "anime",
                   "anime-upscaling",
@@ -4419,7 +4419,7 @@
                 "open_issues": 76,
                 "owner": "bilibili",
                 "repo": "ailab",
-                "stars": 5881,
+                "stars": 5879,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
@@ -4528,7 +4528,7 @@
                 "open_issues": 13,
                 "owner": "hysts",
                 "repo": "anime-face-detector",
-                "stars": 543,
+                "stars": 544,
                 "topics": [
                   "anime",
                   "computer-vision",
@@ -4567,7 +4567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T01:57:21.597Z",
+    "last_updated": "2026-11-12T03:03:37.649Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers, repository and other data about anime or manga research. Please let me know if you have information that the list does not include.",
