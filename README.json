@@ -295,7 +295,7 @@
                 "open_issues": 0,
                 "owner": "juvian",
                 "repo": "Manga-Text-Segmentation",
-                "stars": 143,
+                "stars": 144,
                 "topics": [
                   "deep-learning",
                   "manga",
@@ -847,7 +847,7 @@
                     "open_issues": 461,
                     "owner": "lllyasviel",
                     "repo": "ControlNet",
-                    "stars": 34156,
+                    "stars": 34157,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -1287,7 +1287,7 @@
                     "open_issues": 17,
                     "owner": "TachibanaYoshino",
                     "repo": "AnimeGAN",
-                    "stars": 4610,
+                    "stars": 4611,
                     "topics": [
                       "anime-images",
                       "animegan",
@@ -1314,7 +1314,7 @@
                     "open_issues": 17,
                     "owner": "TachibanaYoshino",
                     "repo": "AnimeGAN",
-                    "stars": 4610,
+                    "stars": 4611,
                     "topics": [
                       "anime-images",
                       "animegan",
@@ -1736,7 +1736,7 @@
                     "open_issues": 44,
                     "owner": "bilibili",
                     "repo": "Index-anisora",
-                    "stars": 2541,
+                    "stars": 2542,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -1757,7 +1757,7 @@
                     "open_issues": 44,
                     "owner": "bilibili",
                     "repo": "Index-anisora",
-                    "stars": 2541,
+                    "stars": 2542,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -1782,10 +1782,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2025-10-17T05:46:57Z",
-                    "open_issues": 60,
+                    "open_issues": 61,
                     "owner": "ali-vilab",
                     "repo": "VACE",
-                    "stars": 4062,
+                    "stars": 4064,
                     "topics": [
                       "video-editing",
                       "video-generation"
@@ -1830,7 +1830,7 @@
                     "open_issues": 320,
                     "owner": "guoyww",
                     "repo": "AnimateDiff",
-                    "stars": 12292,
+                    "stars": 12291,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -1936,7 +1936,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-08-31T21:58:49Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "marc2825",
                     "repo": "GapFill",
                     "stars": 17,
@@ -2683,7 +2683,7 @@
                     "open_issues": 25,
                     "owner": "shitagaki-lab",
                     "repo": "see-through",
-                    "stars": 5672,
+                    "stars": 5683,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -2796,7 +2796,7 @@
                     "open_issues": 3,
                     "owner": "quolc",
                     "repo": "neural-collage",
-                    "stars": 558,
+                    "stars": 557,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -3134,7 +3134,7 @@
                     "open_issues": 21,
                     "owner": "Kiteretsu77",
                     "repo": "APISR",
-                    "stars": 1146,
+                    "stars": 1147,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -3176,7 +3176,7 @@
                     "open_issues": 648,
                     "owner": "xinntao",
                     "repo": "Real-ESRGAN",
-                    "stars": 37497,
+                    "stars": 37510,
                     "topics": [
                       "amine",
                       "denoise",
@@ -4359,7 +4359,7 @@
                 "open_issues": 154,
                 "owner": "nagadomi",
                 "repo": "waifu2x",
-                "stars": 28231,
+                "stars": 28236,
                 "topics": [
                   "super-resolution",
                   "torch",
@@ -4381,10 +4381,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2024-08-17T12:09:12Z",
-                "open_issues": 119,
+                "open_issues": 120,
                 "owner": "bloc97",
                 "repo": "Anime4K",
-                "stars": 21634,
+                "stars": 21637,
                 "topics": [
                   "anime",
                   "anime-upscaling",
@@ -4528,7 +4528,7 @@
                 "open_issues": 13,
                 "owner": "hysts",
                 "repo": "anime-face-detector",
-                "stars": 545,
+                "stars": 547,
                 "topics": [
                   "anime",
                   "computer-vision",
@@ -4567,7 +4567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T01:57:11.563Z",
+    "last_updated": "2026-11-16T02:11:59.812Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers, repository and other data about anime or manga research. Please let me know if you have information that the list does not include.",
@@ -4579,7 +4579,7 @@
       "open_issues": 3,
       "owner": "SerialLain3170",
       "repo": "AwesomeAnimeResearch",
-      "stars": 1260,
+      "stars": 1259,
       "topics": [
         "anime",
         "awesome",
