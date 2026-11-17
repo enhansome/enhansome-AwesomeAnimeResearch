@@ -2,7 +2,7 @@
 
 Everything related to Anime.\
 For the **Comics/Manga** papers, please refer to [🔥 Awesome Comics Understanding](https://github.com/emanuelevivoli/awesome-comics-understanding) ⭐ 143 | 🐛 3 | 📅 2025-01-02\
-For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-Research](https://github.com/zhenglinpan/Awesome-Animation-Research) ⭐ 222 | 🐛 1 | 📅 2026-11-08
+For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-Research](https://github.com/zhenglinpan/Awesome-Animation-Research) ⭐ 223 | 🐛 1 | 📅 2026-11-08
 
 ## 📂 Datasets
 
@@ -55,9 +55,9 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
   | **Year** | **Conference / Journal** | **Title**                                                                                                                                           | **Links**                                                                                                  |
   | -------- | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
   | 2025     | SIGGRAPH                 | [AniME: Adaptive Multi-Agent Planning for Long AnimationGeneration](https://dl.acm.org/doi/epdf/10.1145/3757374.3771455)                            |                                                                                                            |
-  | 2025     | SIGGRAPH                 | [AniMaker: Multi-Agent Animated Storytelling with MCTS-Driven Clip Generation](https://arxiv.org/pdf/2506.10540)                                    | [Github](https://github.com/HITsz-TMG/Anim-Director) ⭐ 265 \| 🐛 5 \| 🌐 Jupyter Notebook \| 📅 2026-01-07 |
+  | 2025     | SIGGRAPH                 | [AniMaker: Multi-Agent Animated Storytelling with MCTS-Driven Clip Generation](https://arxiv.org/pdf/2506.10540)                                    | [Github](https://github.com/HITsz-TMG/Anim-Director) ⭐ 266 \| 🐛 5 \| 🌐 Jupyter Notebook \| 📅 2026-01-07 |
   | 2025     | arXiv                    | [CartoonAlive: Towards Expressive Live2D Modeling from Single Portraits](https://arxiv.org/pdf/2507.17327)                                          | [HP](https://human3daigc.github.io/CartoonAlive_webpage/)                                                  |
-  | 2024     | SIGGRAPH                 | [Anim-Director: A Large Multimodal Model Powered Agent for Controllable Animation Video Generation](https://dl.acm.org/doi/10.1145/3680528.3687688) | [Github](https://github.com/HITsz-TMG/Anim-Director) ⭐ 265 \| 🐛 5 \| 🌐 Jupyter Notebook \| 📅 2026-01-07 |
+  | 2024     | SIGGRAPH                 | [Anim-Director: A Large Multimodal Model Powered Agent for Controllable Animation Video Generation](https://dl.acm.org/doi/10.1145/3680528.3687688) | [Github](https://github.com/HITsz-TMG/Anim-Director) ⭐ 266 \| 🐛 5 \| 🌐 Jupyter Notebook \| 📅 2026-01-07 |
 
 ### Image Generation
 
@@ -155,7 +155,7 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
   | 2022     | Arxiv                    | [Neural Optimal Transport](https://arxiv.org/pdf/2201.12220.pdf)                                                                                                                                        |                                                                                                                  |
   | 2022     | CVPR Workshop            | [Cross-Domain Style Mixing for Face Cartoonization](https://arxiv.org/pdf/2205.12450.pdf)                                                                                                               | [HP](https://webtoon.github.io/WebtoonMe/en)                                                                     |
   | 2021     | Arxiv                    | [A Domain Gap Aware Generative Adversarial Network for Multi-domain Image Translation](https://arxiv.org/pdf/2110.10837.pdf)                                                                            |                                                                                                                  |
-  | 2021     | ACM-TG                   | [AgileGAN: Stylizing Portraits by Inversion-Consistent Transfer Learning](https://dl.acm.org/doi/pdf/10.1145/3450626.3459771)                                                                           | [Github](https://github.com/GuoxianSong/AgileGAN) ⭐ 373 \| 🐛 3 \| 📅 2022-08-09                                 |
+  | 2021     | ACM-TG                   | [AgileGAN: Stylizing Portraits by Inversion-Consistent Transfer Learning](https://dl.acm.org/doi/pdf/10.1145/3450626.3459771)                                                                           | [Github](https://github.com/GuoxianSong/AgileGAN) ⭐ 374 \| 🐛 3 \| 📅 2022-08-09                                 |
   | 2021     | Arxiv                    | [FINE-TUNING STYLEGAN2 FOR CARTOON FACE GENERATION](https://arxiv.org/pdf/2106.12445.pdf)                                                                                                               | [Github](https://github.com/happy-jihye/Cartoon-StyleGAN) ⭐ 654 \| 🐛 12 \| 🌐 Jupyter Notebook \| 📅 2021-10-16 |
   | 2021     | Arxiv                    | [GANs N’ Roses: Stable, Controllable, Diverse Image to Image Translation (works for videos too!)](https://arxiv.org/pdf/2106.06561.pdf)                                                                 | [Github](https://github.com/mchong6/GANsNRoses) ⭐ 1,148 \| 🐛 14 \| 🌐 Jupyter Notebook \| 📅 2022-05-27         |
   | 2021     | JSAI                     | [Multi-CartoonGAN for Conditional Artistic Face Translation ](https://www.jstage.jst.go.jp/article/pjsai/JSAI2021/0/JSAI2021_2N1IS2a01/_pdf)                                                            |                                                                                                                  |
@@ -232,7 +232,7 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
   | 2021     | TVCG                     | [Deep Sketch-guided Cartoon Video Inbetweening](https://arxiv.org/pdf/2008.04149.pdf)                                                                |                                                                                                |
   | 2020     | NeurIPS                  | [How to train your conditional GAN: An approach using geometrically structured latent manifolds](https://arxiv.org/pdf/2011.13055.pdf)               |                                                                                                |
   | 2020     | ECCV                     | [Modeling Artistic Workflows for Image Generation and Editing](https://arxiv.org/pdf/2007.07238.pdf)                                                 | [Github](https://github.com/hytseng0509/ArtEditing) ⭐ 89 \| 🐛 2 \| 🌐 Python \| 📅 2020-09-24 |
-  | 2019     | Arxiv                    | [PI-REC: Progressive Image Reconstruction Network With Edge and Color Domain](https://arxiv.org/pdf/1903.10146.pdf)                                  | [Github](https://github.com/youyuge34/PI-REC) ⭐ 2,062 \| 🐛 7 \| 🌐 Python \| 📅 2022-11-22    |
+  | 2019     | Arxiv                    | [PI-REC: Progressive Image Reconstruction Network With Edge and Color Domain](https://arxiv.org/pdf/1903.10146.pdf)                                  | [Github](https://github.com/youyuge34/PI-REC) ⭐ 2,061 \| 🐛 7 \| 🌐 Python \| 📅 2022-11-22    |
   | 2019     | FITEE                    | [SmartPaint: a co-creative drawing system based on generative adversarial networks](https://link.springer.com/content/pdf/10.1631/FITEE.1900386.pdf) |                                                                                                |
 
   </details>
@@ -297,8 +297,8 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
   | -------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
   | 2026     | Arxiv                    | [ANIMATRIX: AN ANIME VIDEO GENERATION MODEL THATTHINKS IN ART, NOT PHYSICS](https://arxiv.org/pdf/2605.03652)      |                                                                                                    |
   | 2025     | Arxiv                    | [PTTA: A PURE TEXT-TO-ANIMATION FRAMEWORK FOR HIGH-QUALITY CREATION](https://arxiv.org/pdf/2512.18614)             |                                                                                                    |
-  | 2025     | IJCAI                    | [AniSora: Exploring the Frontiers of Animation Video Generation in the Sora Era](https://arxiv.org/pdf/2412.10255) | [Github](https://github.com/bilibili/Index-anisora) ⭐ 2,542 \| 🐛 44 \| 🌐 Python \| 📅 2026-07-16 |
-  | 2024     | Arxiv                    | [Aligning Anime Video Generation with Human Feedback](https://arxiv.org/pdf/2504.10044v2)                          | [Github](https://github.com/bilibili/Index-anisora) ⭐ 2,542 \| 🐛 44 \| 🌐 Python \| 📅 2026-07-16 |
+  | 2025     | IJCAI                    | [AniSora: Exploring the Frontiers of Animation Video Generation in the Sora Era](https://arxiv.org/pdf/2412.10255) | [Github](https://github.com/bilibili/Index-anisora) ⭐ 2,545 \| 🐛 44 \| 🌐 Python \| 📅 2026-07-16 |
+  | 2024     | Arxiv                    | [Aligning Anime Video Generation with Human Feedback](https://arxiv.org/pdf/2504.10044v2)                          | [Github](https://github.com/bilibili/Index-anisora) ⭐ 2,545 \| 🐛 44 \| 🌐 Python \| 📅 2026-07-16 |
 
   </details>
 
@@ -307,10 +307,10 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
 
   | **Year** | **Conference / Journal** | **Title**                                                                                                                                                                                                                             | **Links**                                                                                               |
   | -------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-  | 2025     | ICCV                     | [VACE: All-in-One Video Creation and Editing](https://arxiv.org/pdf/2503.07598)                                                                                                                                                       | [Github](https://github.com/ali-vilab/VACE) ⭐ 4,064 \| 🐛 61 \| 🌐 Python \| 📅 2025-10-17              |
+  | 2025     | ICCV                     | [VACE: All-in-One Video Creation and Editing](https://arxiv.org/pdf/2503.07598)                                                                                                                                                       | [Github](https://github.com/ali-vilab/VACE) ⭐ 4,066 \| 🐛 61 \| 🌐 Python \| 📅 2025-10-17              |
   | 2025     | ICCV                     | [LayerAnimate: Layer-level Control for Animation](https://openaccess.thecvf.com/content/ICCV2025/papers/Yang_LayerAnimate_Layer-level_Control_for_Animation_ICCV_2025_paper.pdf)                                                      | [Github](https://github.com/IamCreateAI/LayerAnimate) ⭐ 199 \| 🐛 0 \| 🌐 Python \| 📅 2025-08-22       |
   | 2025     | CVPR                     | [PhysAnimator: Physics-Guided Generative Cartoon Animation](https://openaccess.thecvf.com/content/CVPR2025/papers/Xie_PhysAnimator_Physics-Guided_Generative_Cartoon_Animation_CVPR_2025_paper.pdf)                                   | [HP](https://xpandora.github.io/PhysAnimator/)                                                          |
-  | 2024     | ICLR                     | [ANIMATEDIFF: ANIMATE YOUR PERSONALIZEDTEXT-TO-IMAGE DIFFUSION MODELS WITHOUTSPECIFIC TUNING](https://arxiv.org/pdf/2307.04725)                                                                                                       | [Github](https://github.com/guoyww/AnimateDiff) ⭐ 12,291 \| 🐛 320 \| 🌐 Python \| 📅 2024-07-31        |
+  | 2024     | ICLR                     | [ANIMATEDIFF: ANIMATE YOUR PERSONALIZEDTEXT-TO-IMAGE DIFFUSION MODELS WITHOUTSPECIFIC TUNING](https://arxiv.org/pdf/2307.04725)                                                                                                       | [Github](https://github.com/guoyww/AnimateDiff) ⭐ 12,292 \| 🐛 320 \| 🌐 Python \| 📅 2024-07-31        |
   | 2024     | Arxiv                    | [AnimateDiff-Lightning: Cross-Model Diffusion Distillation](https://arxiv.org/pdf/2403.12706)                                                                                                                                         | [HF](https://huggingface.co/ByteDance/AnimateDiff-Lightning)                                            |
   | 2024     | TCSVT                    | [Hierarchical Feature Warping and Blending for Talking Head Animation](https://gwern.net/doc/ai/anime/2024-zhang.pdf)                                                                                                                 |                                                                                                         |
   | 2023     | TMM                      | [Language-Guided Face Animation by Recurrent StyleGAN-based Generator](https://arxiv.org/pdf/2208.05617.pdf)                                                                                                                          | [Github](https://github.com/TiankaiHang/language-guided-animation) ⭐ 20 \| 🐛 0 \| 📅 2023-04-23        |
@@ -337,7 +337,7 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
   | 2022     | CHI                      | [FlatMagic: Improving Flat Colorization through AI-driven Design for Digital Comic Professionals](https://dl.acm.org/doi/10.1145/3491102.3502075)                                                                                                                                              | [Github](https://cragl.cs.gmu.edu/flatmagic/)                                                      |
   | 2022     | ICCIR                    | [Attention-Based Unsupervised Sketch Colorization of Anime Avatar](https://dl.acm.org/doi/abs/10.1145/3548608.3559316)                                                                                                                                                                         |                                                                                                    |
   | 2023     | IEEE Access              | [Robust Manga Page Colorization via Coloring Latent Space](https://ieeexplore.ieee.org/document/10278137)                                                                                                                                                                                      |                                                                                                    |
-  | 2026     | CHI                      | [No Pixel Left Behind: Filling Gaps in Anime Colorization](https://dl.acm.org/doi/pdf/10.1145/3772318.3790968)                                                                                                                                                                                 | [Github](https://github.com/marc2825/GapFill) ⭐ 17 \| 🐛 1 \| 🌐 Python \| 📅 2026-08-31           |
+  | 2026     | CHI                      | [No Pixel Left Behind: Filling Gaps in Anime Colorization](https://dl.acm.org/doi/pdf/10.1145/3772318.3790968)                                                                                                                                                                                 | [Github](https://github.com/marc2825/GapFill) ⭐ 18 \| 🐛 2 \| 🌐 Python \| 📅 2026-08-31           |
   | 2026     | WACV                     | [Diverse Sketch Colorization with Content-Enhanced Style Representation and Recolorization Distillation](https://openaccess.thecvf.com/content/WACV2026/papers/Mao_Diverse_Sketch_Colorization_with_Content-Enhanced_Style_Representation_and_Recolorization_Distillation_WACV_2026_paper.pdf) | [Github]()                                                                                         |
 
   </details>
@@ -479,7 +479,7 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
 
   | **Year** | **Conference / Journal** | **Title**                                                                                                                                                                                                                                        | **Links**                                                                                               |   |
   | -------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- | - |
-  | 2026     | SIGGRAPH                 | [See-through: Single-image Layer Decomposition for Anime Characters](https://dl.acm.org/doi/epdf/10.1145/3799902.3811209)                                                                                                                        | [Github](https://github.com/shitagaki-lab/see-through) ⭐ 5,683 \| 🐛 25 \| 🌐 Python \| 📅 2026-11-14   |   |
+  | 2026     | SIGGRAPH                 | [See-through: Single-image Layer Decomposition for Anime Characters](https://dl.acm.org/doi/epdf/10.1145/3799902.3811209)                                                                                                                        | [Github](https://github.com/shitagaki-lab/see-through) ⭐ 5,711 \| 🐛 25 \| 🌐 Python \| 📅 2026-11-14   |   |
   | 2024     | Arxiv                    | [Re:Draw - Context Aware Translation as a Controllable Method for Artistic Production](https://arxiv.org/pdf/2401.03499.pdf)                                                                                                                     |                                                                                                         |   |
   | 2023     | Arxiv                    | [DreamTuner: Single Image is Enough for Subject-Driven Generation](https://arxiv.org/pdf/2312.13691)                                                                                                                                             |                                                                                                         |   |
   | 2023     | Arxiv                    | [Instance-guided Cartoon Editing with a Large-scale Dataset](https://arxiv.org/pdf/2312.01943.pdf)                                                                                                                                               |                                                                                                         |   |
@@ -514,9 +514,9 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
   | 2019     | TVCG                     | [Perceptual-aware Sketch Simplification Based on Integrated VGG Layers](https://ieeexplore.ieee.org/abstract/document/8771128)                                           |                                                                                                      |
   | 2019     | SIGGRAPH                 | [Unpaired Sketch-to-Line Translation via Synthesis of Sketches](https://dl.acm.org/doi/pdf/10.1145/3355088.3365163)                                                      |                                                                                                      |
   | 2018     | ACM-TG                   | [Real-Time Data-Driven Interactive Rough Sketch Inking](https://dl.acm.org/doi/pdf/10.1145/3197517.3201370)                                                              | [Github](https://github.com/bobbens/line_thinning) ⭐ 29 \| 🐛 1 \| 🌐 Python \| 📅 2019-05-19        |
-  | 2018     | ACM-TG                   | [Mastering Sketching: Adversarial Augmentation for Structured Prediction](https://arxiv.org/pdf/1703.08966.pdf)                                                          | [Github](https://github.com/bobbens/sketch_simplification) ⭐ 754 \| 🐛 11 \| 🌐 Lua \| 📅 2022-01-13 |
+  | 2018     | ACM-TG                   | [Mastering Sketching: Adversarial Augmentation for Structured Prediction](https://arxiv.org/pdf/1703.08966.pdf)                                                          | [Github](https://github.com/bobbens/sketch_simplification) ⭐ 755 \| 🐛 11 \| 🌐 Lua \| 📅 2022-01-13 |
   | 2017     | ACM-TG                   | [Deep Extraction of Manga Structural Lines](https://dl.acm.org/doi/10.1145/3072959.3073675)                                                                              | [Github](https://github.com/ljsabc/MangaLineExtraction) ⭐ 88 \| 🐛 4 \| 🌐 Python \| 📅 2021-09-05   |
-  | 2016     | ACM-TG                   | [Learning to Simplify: Fully Convolutional Networks for Rough Sketch Cleanup](https://esslab.jp/~ess/publications/SimoSerraSIGGRAPH2016.pdf)                             | [Github](https://github.com/bobbens/sketch_simplification) ⭐ 754 \| 🐛 11 \| 🌐 Lua \| 📅 2022-01-13 |
+  | 2016     | ACM-TG                   | [Learning to Simplify: Fully Convolutional Networks for Rough Sketch Cleanup](https://esslab.jp/~ess/publications/SimoSerraSIGGRAPH2016.pdf)                             | [Github](https://github.com/bobbens/sketch_simplification) ⭐ 755 \| 🐛 11 \| 🌐 Lua \| 📅 2022-01-13 |
   | 2011     | NPAR                     | [Temporal Noise Control for Sketchy Animation](https://dl.acm.org/doi/10.1145/2024676.2024691)                                                                           |                                                                                                      |
 
   </details>
@@ -526,12 +526,12 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
 
   | **Year** | **Conference / Journal** | **Title**                                                                                                                                                                | **Links**                                                                                                      |
   | -------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
-  | 2024     | ACM-TG                   | [ToonCrafter: Generative Cartoon Interpolation](https://dl.acm.org/doi/epdf/10.1145/3687761)                                                                             | [Github](https://github.com/Doubiiu/ToonCrafter) ⭐ 6,062 \| 🐛 58 \| 🌐 Python \| 📅 2025-03-19                |
+  | 2024     | ACM-TG                   | [ToonCrafter: Generative Cartoon Interpolation](https://dl.acm.org/doi/epdf/10.1145/3687761)                                                                             | [Github](https://github.com/Doubiiu/ToonCrafter) ⭐ 6,064 \| 🐛 58 \| 🌐 Python \| 📅 2025-03-19                |
   | 2023     | MTA                      | [Automatic Animation Inbetweening](https://link.springer.com/article/10.1007/s11042-023-17354-x)                                                                         |                                                                                                                |
-  | 2023     | ICCV                     | [Deep Geometrized Cartoon Line Inbetweening](https://openaccess.thecvf.com/content/ICCV2023/papers/Siyao_Deep_Geometrized_Cartoon_Line_Inbetweening_ICCV_2023_paper.pdf) | [Github](https://github.com/lisiyao21/animeinbet) ⭐ 373 \| 🐛 9 \| 🌐 Python \| 📅 2024-04-15                  |
+  | 2023     | ICCV                     | [Deep Geometrized Cartoon Line Inbetweening](https://openaccess.thecvf.com/content/ICCV2023/papers/Siyao_Deep_Geometrized_Cartoon_Line_Inbetweening_ICCV_2023_paper.pdf) | [Github](https://github.com/lisiyao21/animeinbet) ⭐ 374 \| 🐛 9 \| 🌐 Python \| 📅 2024-04-15                  |
   | 2022     | ICIP                     | [Enhanced Deep Animation Video Interpolation](https://arxiv.org/pdf/2206.12657.pdf)                                                                                      | [Github](https://github.com/laomao0/AutoSktFI) ⭐ 5 \| 🐛 1 \| 📅 2022-08-02                                    |
   | 2022     | ECCV                     | [Improving the Perceptual Quality of 2D Animation Interpolation](https://arxiv.org/pdf/2111.12792.pdf)                                                                   | [Github](https://github.com/ShuhongChen/eisai-anime-interpolator/) ⭐ 129 \| 🐛 0 \| 🌐 Python \| 📅 2024-06-30 |
-  | 2021     | CVPR                     | [Deep Animation Video Interpolation in the Wild](https://arxiv.org/pdf/2104.02495.pdf)                                                                                   | [Github](https://github.com/lisiyao21/AnimeInterp/) ⭐ 462 \| 🐛 15 \| 🌐 Python \| 📅 2024-03-31               |
+  | 2021     | CVPR                     | [Deep Animation Video Interpolation in the Wild](https://arxiv.org/pdf/2104.02495.pdf)                                                                                   | [Github](https://github.com/lisiyao21/AnimeInterp/) ⭐ 464 \| 🐛 15 \| 🌐 Python \| 📅 2024-03-31               |
   | 2019     | ICIP                     | [Optical Flow Based Line Drawing Frame Interpolation Using Distance Transform to Support Inbetweenings](https://ieeexplore.ieee.org/document/8803506)                    |                                                                                                                |
   | 2017     | CMV                      | [DiLight: Digital light table – Inbetweening for 2D animations using guidelines](http://graphics.tudelft.nl/Publications-new/2017/CMV17/pdf.pdf)                         |                                                                                                                |
 
@@ -543,9 +543,9 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
   | **Year** | **Conference / Journal** | **Title**                                                                                                                | **Links**                                                                                         |
   | -------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- |
   | 2024     | CVPR                     | [APISR: Anime Production Inspired Real-World Anime Super-Resolution](https://arxiv.org/pdf/2403.01598.pdf)               | [Github](https://github.com/Kiteretsu77/APISR) ⭐ 1,147 \| 🐛 21 \| 🌐 Python \| 📅 2025-10-16     |
-  | 2022     | NeurIPS                  | [AnimeSR: Learning Real-World Super-Resolution Models for Animation Videos](https://arxiv.org/pdf/2206.07038.pdf)        | [Github](https://github.com/TencentARC/AnimeSR) ⭐ 376 \| 🐛 11 \| 🌐 Python \| 📅 2023-08-18      |
+  | 2022     | NeurIPS                  | [AnimeSR: Learning Real-World Super-Resolution Models for Animation Videos](https://arxiv.org/pdf/2206.07038.pdf)        | [Github](https://github.com/TencentARC/AnimeSR) ⭐ 377 \| 🐛 11 \| 🌐 Python \| 📅 2023-08-18      |
   | 2022     | Sensors                  | [A Transformer-Based Model for Super-Resolution of Anime Image](https://www.mdpi.com/1424-8220/22/21/8126)               |                                                                                                   |
-  | 2021     | ICCV Workshop            | [Real-ESRGAN: Training Real-World Blind Super-Resolution with Pure Synthetic Data](https://arxiv.org/pdf/2107.10833.pdf) | [Github](https://github.com/xinntao/Real-ESRGAN) ⭐ 37,510 \| 🐛 648 \| 🌐 Python \| 📅 2024-08-06 |
+  | 2021     | ICCV Workshop            | [Real-ESRGAN: Training Real-World Blind Super-Resolution with Pure Synthetic Data](https://arxiv.org/pdf/2107.10833.pdf) | [Github](https://github.com/xinntao/Real-ESRGAN) ⭐ 37,534 \| 🐛 648 \| 🌐 Python \| 📅 2024-08-06 |
   | 2021     | JSCI                     | [Enhancement of Anime Imaging Enlargement using Modified Super-Resolution CNN](https://arxiv.org/pdf/2110.02321.pdf)     | [Github](https://github.com/TanakitInt/SRCNN-anime) ⚠️ Archived                                   |
 
   </details>
@@ -846,7 +846,7 @@ Summary of github or other types of projects that are related to anime or manga 
 * <details>
     <summary>Repository</summary>
 
-  * [Awesome-Animation-Research](https://github.com/zhenglinpan/Awesome-Animation-Research) ⭐ 222 | 🐛 1 | 📅 2026-11-08
+  * [Awesome-Animation-Research](https://github.com/zhenglinpan/Awesome-Animation-Research) ⭐ 223 | 🐛 1 | 📅 2026-11-08
 
   </details>
 
@@ -871,8 +871,8 @@ Summary of github or other types of projects that are related to anime or manga 
 
   ### GANs
 
-  * [makegirlsmoe](https://github.com/makegirlsmoe/makegirlsmoe_web) ⭐ 3,419 | 🐛 41 | 🌐 JavaScript | 📅 2022-12-08
-  * [jayleicn/AnimeGAN](https://github.com/jayleicn/animeGAN) ⭐ 1,278 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2022-08-24
+  * [makegirlsmoe](https://github.com/makegirlsmoe/makegirlsmoe_web) ⭐ 3,422 | 🐛 41 | 🌐 JavaScript | 📅 2022-12-08
+  * [jayleicn/AnimeGAN](https://github.com/jayleicn/animeGAN) ⭐ 1,279 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2022-08-24
   * [tdrussell/IllustrationGAN](https://github.com/tdrussell/IllustrationGAN) ⭐ 266 | 🐛 3 | 🌐 Python | 📅 2016-08-31
   * [ANIME305/Anime-GAN-tensorflow](https://github.com/ANIME305/Anime-GAN-tensorflow) ⭐ 197 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2018-12-13
   * [pavitrakumar78/Anime-Face-GAN-Keras](https://github.com/pavitrakumar78/Anime-Face-GAN-Keras) ⭐ 197 | 🐛 0 | 🌐 Python | 📅 2017-07-20
@@ -893,7 +893,7 @@ Summary of github or other types of projects that are related to anime or manga 
 * <details>
     <summary>Image-to-Image Tranlation</summary>
 
-  * [TachibanaYoshino/AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2) ⭐ 5,377 | 🐛 51 | 🌐 Python | 📅 2024-08-27
+  * [TachibanaYoshino/AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2) ⭐ 5,376 | 🐛 51 | 🌐 Python | 📅 2024-08-27
   * [experience-ml/cartoonize](https://github.com/experience-ml/cartoonize) ⭐ 624 | 🐛 14 | 🌐 Python | 📅 2023-09-12
   * [SystemErrorWang/FacialCartoonization](https://github.com/SystemErrorWang/FacialCartoonization) ⭐ 283 | 🐛 7 | 🌐 Python | 📅 2020-10-03
   * [Aixile/chainer-cyclegan](https://github.com/Aixile/chainer-cyclegan) ⭐ 240 | 🐛 3 | 🌐 Python | 📅 2017-09-16
@@ -920,7 +920,7 @@ Summary of github or other types of projects that are related to anime or manga 
 * <details>
     <summary>Character Animating</summary>
 
-  * [Talking Head Anime from a Single Image](https://github.com/pkhungurn/talking-head-anime-demo) ⭐ 2,027 | 🐛 7 | 🌐 Python | 📅 2022-06-29
+  * [Talking Head Anime from a Single Image](https://github.com/pkhungurn/talking-head-anime-demo) ⭐ 2,028 | 🐛 7 | 🌐 Python | 📅 2022-06-29
   * [Talking Head Anime from a Single Image 2: More Expressive](https://github.com/pkhungurn/talking-head-anime-2-demo) ⭐ 1,154 | 🐛 11 | 🌐 Python | 📅 2022-06-29
   * [Talking Head(?) Anime from a Single Image 3: Now the Body Too](https://github.com/pkhungurn/talking-head-anime-3-demo) ⭐ 1,050 | 🐛 11 | 🌐 Python | 📅 2023-08-29
   * [Neural Rendering with Attention: An Incremental Improvement for Anime Character Animation](https://github.com/transpchan/Live3D-v2) ⚠️ Archived
@@ -930,9 +930,9 @@ Summary of github or other types of projects that are related to anime or manga 
 * <details>
     <summary>Super Resolution</summary>
 
-  * [waifu2x](https://github.com/nagadomi/waifu2x) ⭐ 28,236 | 🐛 154 | 🌐 Lua | 📅 2023-05-04
-  * [Anime4K](https://github.com/bloc97/Anime4K) ⭐ 21,637 | 🐛 120 | 🌐 Jupyter Notebook | 📅 2024-08-17
-  * [Real-CUGAN](https://github.com/bilibili/ailab/blob/main/Real-CUGAN/README_EN.md) ⭐ 5,879 | 🐛 76 | 🌐 Python | 📅 2023-08-02
+  * [waifu2x](https://github.com/nagadomi/waifu2x) ⭐ 28,237 | 🐛 154 | 🌐 Lua | 📅 2023-05-04
+  * [Anime4K](https://github.com/bloc97/Anime4K) ⭐ 21,644 | 🐛 119 | 🌐 Jupyter Notebook | 📅 2024-08-17
+  * [Real-CUGAN](https://github.com/bilibili/ailab/blob/main/Real-CUGAN/README_EN.md) ⭐ 5,880 | 🐛 76 | 🌐 Python | 📅 2023-08-02
   * [goldhuang/SRGAN-PyTorch](https://github.com/goldhuang/SRGAN-PyTorch) ⭐ 87 | 🐛 4 | 🌐 Python | 📅 2018-12-15
 
   </details>
@@ -986,4 +986,4 @@ Summary of github or other types of projects that are related to anime or manga 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
