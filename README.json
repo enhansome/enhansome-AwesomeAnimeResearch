@@ -847,7 +847,7 @@
                     "open_issues": 461,
                     "owner": "lllyasviel",
                     "repo": "ControlNet",
-                    "stars": 34157,
+                    "stars": 34158,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -1287,7 +1287,7 @@
                     "open_issues": 17,
                     "owner": "TachibanaYoshino",
                     "repo": "AnimeGAN",
-                    "stars": 4610,
+                    "stars": 4611,
                     "topics": [
                       "anime-images",
                       "animegan",
@@ -1314,7 +1314,7 @@
                     "open_issues": 17,
                     "owner": "TachibanaYoshino",
                     "repo": "AnimeGAN",
-                    "stars": 4610,
+                    "stars": 4611,
                     "topics": [
                       "anime-images",
                       "animegan",
@@ -1782,7 +1782,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2025-10-17T05:46:57Z",
-                    "open_issues": 61,
+                    "open_issues": 59,
                     "owner": "ali-vilab",
                     "repo": "VACE",
                     "stars": 4067,
@@ -2683,7 +2683,7 @@
                     "open_issues": 25,
                     "owner": "shitagaki-lab",
                     "repo": "see-through",
-                    "stars": 5744,
+                    "stars": 5777,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -3155,7 +3155,7 @@
                     "open_issues": 11,
                     "owner": "TencentARC",
                     "repo": "AnimeSR",
-                    "stars": 377,
+                    "stars": 378,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -3176,7 +3176,7 @@
                     "open_issues": 648,
                     "owner": "xinntao",
                     "repo": "Real-ESRGAN",
-                    "stars": 37551,
+                    "stars": 37561,
                     "topics": [
                       "amine",
                       "denoise",
@@ -3382,7 +3382,7 @@
                     "open_issues": 22,
                     "owner": "rezoo",
                     "repo": "illustration2vec",
-                    "stars": 678,
+                    "stars": 679,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -3730,7 +3730,7 @@
                 "open_issues": 6,
                 "owner": "jayleicn",
                 "repo": "animeGAN",
-                "stars": 1280,
+                "stars": 1281,
                 "topics": [
                   "dataset",
                   "generative-adversarial-network",
@@ -3755,7 +3755,7 @@
                 "open_issues": 3,
                 "owner": "tdrussell",
                 "repo": "IllustrationGAN",
-                "stars": 266,
+                "stars": 267,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
@@ -3962,7 +3962,7 @@
                 "open_issues": 51,
                 "owner": "TachibanaYoshino",
                 "repo": "AnimeGANv2",
-                "stars": 5375,
+                "stars": 5374,
                 "topics": [
                   "animegan",
                   "animeganv2",
@@ -4359,7 +4359,7 @@
                 "open_issues": 154,
                 "owner": "nagadomi",
                 "repo": "waifu2x",
-                "stars": 28237,
+                "stars": 28236,
                 "topics": [
                   "super-resolution",
                   "torch",
@@ -4384,7 +4384,7 @@
                 "open_issues": 119,
                 "owner": "bloc97",
                 "repo": "Anime4K",
-                "stars": 21645,
+                "stars": 21643,
                 "topics": [
                   "anime",
                   "anime-upscaling",
@@ -4567,7 +4567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T03:43:18.376Z",
+    "last_updated": "2026-11-19T03:33:14.451Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers, repository and other data about anime or manga research. Please let me know if you have information that the list does not include.",
