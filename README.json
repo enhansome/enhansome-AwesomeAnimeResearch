@@ -405,7 +405,7 @@
                     "open_issues": 5,
                     "owner": "HITsz-TMG",
                     "repo": "Anim-Director",
-                    "stars": 266,
+                    "stars": 267,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -426,7 +426,7 @@
                     "open_issues": 5,
                     "owner": "HITsz-TMG",
                     "repo": "Anim-Director",
-                    "stars": 266,
+                    "stars": 267,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -847,7 +847,7 @@
                     "open_issues": 461,
                     "owner": "lllyasviel",
                     "repo": "ControlNet",
-                    "stars": 34158,
+                    "stars": 34155,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -903,7 +903,7 @@
                     "open_issues": 3,
                     "owner": "GuoxianSong",
                     "repo": "AgileGAN",
-                    "stars": 374,
+                    "stars": 373,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -924,7 +924,7 @@
                     "open_issues": 12,
                     "owner": "happy-jihye",
                     "repo": "Cartoon-StyleGAN",
-                    "stars": 654,
+                    "stars": 653,
                     "topics": [
                       "animegan",
                       "cartoongan",
@@ -1196,7 +1196,7 @@
                     "open_issues": 56,
                     "owner": "taki0112",
                     "repo": "UGATIT",
-                    "stars": 6108,
+                    "stars": 6106,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -1287,7 +1287,7 @@
                     "open_issues": 17,
                     "owner": "TachibanaYoshino",
                     "repo": "AnimeGAN",
-                    "stars": 4611,
+                    "stars": 4610,
                     "topics": [
                       "anime-images",
                       "animegan",
@@ -1314,7 +1314,7 @@
                     "open_issues": 17,
                     "owner": "TachibanaYoshino",
                     "repo": "AnimeGAN",
-                    "stars": 4611,
+                    "stars": 4610,
                     "topics": [
                       "anime-images",
                       "animegan",
@@ -1514,7 +1514,7 @@
                     "open_issues": 7,
                     "owner": "youyuge34",
                     "repo": "PI-REC",
-                    "stars": 2061,
+                    "stars": 2059,
                     "topics": [
                       "ai-painting",
                       "auto-painting",
@@ -1736,7 +1736,7 @@
                     "open_issues": 44,
                     "owner": "bilibili",
                     "repo": "Index-anisora",
-                    "stars": 2545,
+                    "stars": 2546,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -1757,7 +1757,7 @@
                     "open_issues": 44,
                     "owner": "bilibili",
                     "repo": "Index-anisora",
-                    "stars": 2545,
+                    "stars": 2546,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -1782,7 +1782,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2025-10-17T05:46:57Z",
-                    "open_issues": 59,
+                    "open_issues": 60,
                     "owner": "ali-vilab",
                     "repo": "VACE",
                     "stars": 4067,
@@ -1830,7 +1830,7 @@
                     "open_issues": 320,
                     "owner": "guoyww",
                     "repo": "AnimateDiff",
-                    "stars": 12298,
+                    "stars": 12300,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -1939,7 +1939,7 @@
                     "open_issues": 0,
                     "owner": "marc2825",
                     "repo": "GapFill",
-                    "stars": 18,
+                    "stars": 19,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -2009,7 +2009,7 @@
                     "open_issues": 54,
                     "owner": "lllyasviel",
                     "repo": "style2paints",
-                    "stars": 18143,
+                    "stars": 18144,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -2030,7 +2030,7 @@
                     "open_issues": 54,
                     "owner": "lllyasviel",
                     "repo": "style2paints",
-                    "stars": 18143,
+                    "stars": 18144,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -2680,10 +2680,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-14T03:37:09Z",
-                    "open_issues": 25,
+                    "open_issues": 28,
                     "owner": "shitagaki-lab",
                     "repo": "see-through",
-                    "stars": 5777,
+                    "stars": 5795,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -2935,7 +2935,7 @@
                     "open_issues": 11,
                     "owner": "bobbens",
                     "repo": "sketch_simplification",
-                    "stars": 755,
+                    "stars": 754,
                     "topics": [
                       "convolutional-neural-networks",
                       "deep-learning",
@@ -2984,7 +2984,7 @@
                     "open_issues": 11,
                     "owner": "bobbens",
                     "repo": "sketch_simplification",
-                    "stars": 755,
+                    "stars": 754,
                     "topics": [
                       "convolutional-neural-networks",
                       "deep-learning",
@@ -3019,7 +3019,7 @@
                     "open_issues": 58,
                     "owner": "Doubiiu",
                     "repo": "ToonCrafter",
-                    "stars": 6066,
+                    "stars": 6065,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -3040,7 +3040,7 @@
                     "open_issues": 9,
                     "owner": "lisiyao21",
                     "repo": "AnimeInbet",
-                    "stars": 374,
+                    "stars": 373,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -3103,7 +3103,7 @@
                     "open_issues": 15,
                     "owner": "lisiyao21",
                     "repo": "AnimeInterp",
-                    "stars": 464,
+                    "stars": 463,
                     "topics": [
                       "animation-videos",
                       "frame-interpolation"
@@ -3155,7 +3155,7 @@
                     "open_issues": 11,
                     "owner": "TencentARC",
                     "repo": "AnimeSR",
-                    "stars": 378,
+                    "stars": 377,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -3173,10 +3173,10 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2024-08-06T13:15:18Z",
-                    "open_issues": 648,
+                    "open_issues": 649,
                     "owner": "xinntao",
                     "repo": "Real-ESRGAN",
-                    "stars": 37561,
+                    "stars": 37574,
                     "topics": [
                       "amine",
                       "denoise",
@@ -3702,7 +3702,7 @@
                 "open_issues": 41,
                 "owner": "makegirlsmoe",
                 "repo": "makegirlsmoe_web",
-                "stars": 3423,
+                "stars": 3422,
                 "topics": [
                   "anime",
                   "deep-learning",
@@ -3730,7 +3730,7 @@
                 "open_issues": 6,
                 "owner": "jayleicn",
                 "repo": "animeGAN",
-                "stars": 1281,
+                "stars": 1280,
                 "topics": [
                   "dataset",
                   "generative-adversarial-network",
@@ -3934,7 +3934,7 @@
                 "open_issues": 5,
                 "owner": "harubaru",
                 "repo": "waifu-diffusion",
-                "stars": 1914,
+                "stars": 1913,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
@@ -3962,7 +3962,7 @@
                 "open_issues": 51,
                 "owner": "TachibanaYoshino",
                 "repo": "AnimeGANv2",
-                "stars": 5374,
+                "stars": 5372,
                 "topics": [
                   "animegan",
                   "animeganv2",
@@ -4013,7 +4013,7 @@
                 "open_issues": 7,
                 "owner": "SystemErrorWang",
                 "repo": "FacialCartoonization",
-                "stars": 283,
+                "stars": 284,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
@@ -4108,7 +4108,7 @@
                 "open_issues": 54,
                 "owner": "lllyasviel",
                 "repo": "style2paints",
-                "stars": 18143,
+                "stars": 18144,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
@@ -4239,7 +4239,7 @@
                 "open_issues": 7,
                 "owner": "pkhungurn",
                 "repo": "talking-head-anime-demo",
-                "stars": 2028,
+                "stars": 2027,
                 "topics": [
                   "ai",
                   "anime",
@@ -4270,7 +4270,7 @@
                 "open_issues": 11,
                 "owner": "pkhungurn",
                 "repo": "talking-head-anime-2-demo",
-                "stars": 1154,
+                "stars": 1153,
                 "topics": [
                   "ai",
                   "anime",
@@ -4301,7 +4301,7 @@
                 "open_issues": 11,
                 "owner": "pkhungurn",
                 "repo": "talking-head-anime-3-demo",
-                "stars": 1050,
+                "stars": 1049,
                 "topics": [
                   "ai",
                   "anime",
@@ -4359,7 +4359,7 @@
                 "open_issues": 154,
                 "owner": "nagadomi",
                 "repo": "waifu2x",
-                "stars": 28236,
+                "stars": 28234,
                 "topics": [
                   "super-resolution",
                   "torch",
@@ -4384,7 +4384,7 @@
                 "open_issues": 119,
                 "owner": "bloc97",
                 "repo": "Anime4K",
-                "stars": 21643,
+                "stars": 21645,
                 "topics": [
                   "anime",
                   "anime-upscaling",
@@ -4419,7 +4419,7 @@
                 "open_issues": 76,
                 "owner": "bilibili",
                 "repo": "ailab",
-                "stars": 5881,
+                "stars": 5880,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
@@ -4567,7 +4567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T03:33:14.451Z",
+    "last_updated": "2026-11-20T03:22:02.006Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers, repository and other data about anime or manga research. Please let me know if you have information that the list does not include.",
@@ -4579,7 +4579,7 @@
       "open_issues": 3,
       "owner": "SerialLain3170",
       "repo": "AwesomeAnimeResearch",
-      "stars": 1260,
+      "stars": 1259,
       "topics": [
         "anime",
         "awesome",
