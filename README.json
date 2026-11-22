@@ -847,7 +847,7 @@
                     "open_issues": 461,
                     "owner": "lllyasviel",
                     "repo": "ControlNet",
-                    "stars": 34157,
+                    "stars": 34159,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -1440,7 +1440,7 @@
                     "open_issues": 23,
                     "owner": "maciej3031",
                     "repo": "comixify",
-                    "stars": 345,
+                    "stars": 346,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -1785,7 +1785,7 @@
                     "open_issues": 60,
                     "owner": "ali-vilab",
                     "repo": "VACE",
-                    "stars": 4068,
+                    "stars": 4070,
                     "topics": [
                       "video-editing",
                       "video-generation"
@@ -2692,7 +2692,7 @@
                     "open_issues": 28,
                     "owner": "shitagaki-lab",
                     "repo": "see-through",
-                    "stars": 5818,
+                    "stars": 5836,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -3028,7 +3028,7 @@
                     "open_issues": 58,
                     "owner": "Doubiiu",
                     "repo": "ToonCrafter",
-                    "stars": 6065,
+                    "stars": 6066,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -3185,7 +3185,7 @@
                     "open_issues": 649,
                     "owner": "xinntao",
                     "repo": "Real-ESRGAN",
-                    "stars": 37589,
+                    "stars": 37601,
                     "topics": [
                       "amine",
                       "denoise",
@@ -4138,7 +4138,7 @@
                 "open_issues": 43,
                 "owner": "pfnet",
                 "repo": "PaintsChainer",
-                "stars": 3756,
+                "stars": 3757,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
@@ -4368,7 +4368,7 @@
                 "open_issues": 154,
                 "owner": "nagadomi",
                 "repo": "waifu2x",
-                "stars": 28236,
+                "stars": 28235,
                 "topics": [
                   "super-resolution",
                   "torch",
@@ -4393,7 +4393,7 @@
                 "open_issues": 119,
                 "owner": "bloc97",
                 "repo": "Anime4K",
-                "stars": 21649,
+                "stars": 21650,
                 "topics": [
                   "anime",
                   "anime-upscaling",
@@ -4537,7 +4537,7 @@
                 "open_issues": 13,
                 "owner": "hysts",
                 "repo": "anime-face-detector",
-                "stars": 547,
+                "stars": 548,
                 "topics": [
                   "anime",
                   "computer-vision",
@@ -4576,7 +4576,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T03:14:19.300Z",
+    "last_updated": "2026-11-22T02:16:06.268Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers, repository and other data about anime or manga research. Please let me know if you have information that the list does not include.",
