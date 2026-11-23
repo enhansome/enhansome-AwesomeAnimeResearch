@@ -1366,7 +1366,7 @@
                     "open_issues": 72,
                     "owner": "SystemErrorWang",
                     "repo": "White-box-Cartoonization",
-                    "stars": 4000,
+                    "stars": 4001,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -1387,7 +1387,7 @@
                     "open_issues": 72,
                     "owner": "SystemErrorWang",
                     "repo": "White-box-Cartoonization",
-                    "stars": 4000,
+                    "stars": 4001,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -1596,7 +1596,7 @@
                     "open_issues": 31,
                     "owner": "williamyang1991",
                     "repo": "DualStyleGAN",
-                    "stars": 1684,
+                    "stars": 1685,
                     "topics": [
                       "caricatures",
                       "cvpr2022",
@@ -1736,7 +1736,7 @@
                     "open_issues": 44,
                     "owner": "bilibili",
                     "repo": "Index-anisora",
-                    "stars": 2546,
+                    "stars": 2545,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -1757,7 +1757,7 @@
                     "open_issues": 44,
                     "owner": "bilibili",
                     "repo": "Index-anisora",
-                    "stars": 2546,
+                    "stars": 2545,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -1785,7 +1785,7 @@
                     "open_issues": 60,
                     "owner": "ali-vilab",
                     "repo": "VACE",
-                    "stars": 4070,
+                    "stars": 4073,
                     "topics": [
                       "video-editing",
                       "video-generation"
@@ -1830,7 +1830,7 @@
                     "open_issues": 320,
                     "owner": "guoyww",
                     "repo": "AnimateDiff",
-                    "stars": 12301,
+                    "stars": 12302,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -2018,7 +2018,7 @@
                     "open_issues": 54,
                     "owner": "lllyasviel",
                     "repo": "style2paints",
-                    "stars": 18143,
+                    "stars": 18144,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -2039,7 +2039,7 @@
                     "open_issues": 54,
                     "owner": "lllyasviel",
                     "repo": "style2paints",
-                    "stars": 18143,
+                    "stars": 18144,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -2692,7 +2692,7 @@
                     "open_issues": 28,
                     "owner": "shitagaki-lab",
                     "repo": "see-through",
-                    "stars": 5836,
+                    "stars": 5858,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -2944,7 +2944,7 @@
                     "open_issues": 11,
                     "owner": "bobbens",
                     "repo": "sketch_simplification",
-                    "stars": 754,
+                    "stars": 755,
                     "topics": [
                       "convolutional-neural-networks",
                       "deep-learning",
@@ -2993,7 +2993,7 @@
                     "open_issues": 11,
                     "owner": "bobbens",
                     "repo": "sketch_simplification",
-                    "stars": 754,
+                    "stars": 755,
                     "topics": [
                       "convolutional-neural-networks",
                       "deep-learning",
@@ -3185,7 +3185,7 @@
                     "open_issues": 649,
                     "owner": "xinntao",
                     "repo": "Real-ESRGAN",
-                    "stars": 37601,
+                    "stars": 37619,
                     "topics": [
                       "amine",
                       "denoise",
@@ -3971,7 +3971,7 @@
                 "open_issues": 51,
                 "owner": "TachibanaYoshino",
                 "repo": "AnimeGANv2",
-                "stars": 5372,
+                "stars": 5373,
                 "topics": [
                   "animegan",
                   "animeganv2",
@@ -4117,7 +4117,7 @@
                 "open_issues": 54,
                 "owner": "lllyasviel",
                 "repo": "style2paints",
-                "stars": 18143,
+                "stars": 18144,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
@@ -4248,7 +4248,7 @@
                 "open_issues": 7,
                 "owner": "pkhungurn",
                 "repo": "talking-head-anime-demo",
-                "stars": 2027,
+                "stars": 2026,
                 "topics": [
                   "ai",
                   "anime",
@@ -4393,7 +4393,7 @@
                 "open_issues": 119,
                 "owner": "bloc97",
                 "repo": "Anime4K",
-                "stars": 21650,
+                "stars": 21657,
                 "topics": [
                   "anime",
                   "anime-upscaling",
@@ -4428,7 +4428,7 @@
                 "open_issues": 76,
                 "owner": "bilibili",
                 "repo": "ailab",
-                "stars": 5880,
+                "stars": 5881,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
@@ -4576,7 +4576,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T02:16:06.268Z",
+    "last_updated": "2026-11-23T02:49:24.899Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers, repository and other data about anime or manga research. Please let me know if you have information that the list does not include.",
