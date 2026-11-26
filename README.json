@@ -847,7 +847,7 @@
                     "open_issues": 461,
                     "owner": "lllyasviel",
                     "repo": "ControlNet",
-                    "stars": 34164,
+                    "stars": 34159,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -1287,7 +1287,7 @@
                     "open_issues": 17,
                     "owner": "TachibanaYoshino",
                     "repo": "AnimeGAN",
-                    "stars": 4611,
+                    "stars": 4612,
                     "topics": [
                       "anime-images",
                       "animegan",
@@ -1314,7 +1314,7 @@
                     "open_issues": 17,
                     "owner": "TachibanaYoshino",
                     "repo": "AnimeGAN",
-                    "stars": 4611,
+                    "stars": 4612,
                     "topics": [
                       "anime-images",
                       "animegan",
@@ -1366,7 +1366,7 @@
                     "open_issues": 72,
                     "owner": "SystemErrorWang",
                     "repo": "White-box-Cartoonization",
-                    "stars": 4002,
+                    "stars": 4003,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -1387,7 +1387,7 @@
                     "open_issues": 72,
                     "owner": "SystemErrorWang",
                     "repo": "White-box-Cartoonization",
-                    "stars": 4002,
+                    "stars": 4003,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -1596,7 +1596,7 @@
                     "open_issues": 31,
                     "owner": "williamyang1991",
                     "repo": "DualStyleGAN",
-                    "stars": 1684,
+                    "stars": 1683,
                     "topics": [
                       "caricatures",
                       "cvpr2022",
@@ -1736,7 +1736,7 @@
                     "open_issues": 44,
                     "owner": "bilibili",
                     "repo": "Index-anisora",
-                    "stars": 2546,
+                    "stars": 2547,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -1757,7 +1757,7 @@
                     "open_issues": 44,
                     "owner": "bilibili",
                     "repo": "Index-anisora",
-                    "stars": 2546,
+                    "stars": 2547,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -1785,7 +1785,7 @@
                     "open_issues": 60,
                     "owner": "ali-vilab",
                     "repo": "VACE",
-                    "stars": 4076,
+                    "stars": 4079,
                     "topics": [
                       "video-editing",
                       "video-generation"
@@ -1830,7 +1830,7 @@
                     "open_issues": 320,
                     "owner": "guoyww",
                     "repo": "AnimateDiff",
-                    "stars": 12302,
+                    "stars": 12304,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -2518,7 +2518,7 @@
                     "open_issues": 5,
                     "owner": "robbyant-research",
                     "repo": "AniDoc",
-                    "stars": 580,
+                    "stars": 581,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -2692,7 +2692,7 @@
                     "open_issues": 28,
                     "owner": "shitagaki-lab",
                     "repo": "see-through",
-                    "stars": 5882,
+                    "stars": 5900,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -3028,7 +3028,7 @@
                     "open_issues": 58,
                     "owner": "Doubiiu",
                     "repo": "ToonCrafter",
-                    "stars": 6069,
+                    "stars": 6071,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -3112,7 +3112,7 @@
                     "open_issues": 15,
                     "owner": "lisiyao21",
                     "repo": "AnimeInterp",
-                    "stars": 463,
+                    "stars": 465,
                     "topics": [
                       "animation-videos",
                       "frame-interpolation"
@@ -3185,7 +3185,7 @@
                     "open_issues": 649,
                     "owner": "xinntao",
                     "repo": "Real-ESRGAN",
-                    "stars": 37643,
+                    "stars": 37660,
                     "topics": [
                       "amine",
                       "denoise",
@@ -4368,7 +4368,7 @@
                 "open_issues": 154,
                 "owner": "nagadomi",
                 "repo": "waifu2x",
-                "stars": 28236,
+                "stars": 28237,
                 "topics": [
                   "super-resolution",
                   "torch",
@@ -4393,7 +4393,7 @@
                 "open_issues": 119,
                 "owner": "bloc97",
                 "repo": "Anime4K",
-                "stars": 21663,
+                "stars": 21672,
                 "topics": [
                   "anime",
                   "anime-upscaling",
@@ -4428,7 +4428,7 @@
                 "open_issues": 76,
                 "owner": "bilibili",
                 "repo": "ailab",
-                "stars": 5879,
+                "stars": 5881,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
@@ -4576,7 +4576,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T04:54:00.745Z",
+    "last_updated": "2026-11-26T04:10:20.213Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers, repository and other data about anime or manga research. Please let me know if you have information that the list does not include.",
