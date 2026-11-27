@@ -1196,7 +1196,7 @@
                     "open_issues": 56,
                     "owner": "taki0112",
                     "repo": "UGATIT",
-                    "stars": 6106,
+                    "stars": 6104,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -1366,7 +1366,7 @@
                     "open_issues": 72,
                     "owner": "SystemErrorWang",
                     "repo": "White-box-Cartoonization",
-                    "stars": 4003,
+                    "stars": 4004,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -1387,7 +1387,7 @@
                     "open_issues": 72,
                     "owner": "SystemErrorWang",
                     "repo": "White-box-Cartoonization",
-                    "stars": 4003,
+                    "stars": 4004,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -1785,7 +1785,7 @@
                     "open_issues": 60,
                     "owner": "ali-vilab",
                     "repo": "VACE",
-                    "stars": 4079,
+                    "stars": 4080,
                     "topics": [
                       "video-editing",
                       "video-generation"
@@ -1830,7 +1830,7 @@
                     "open_issues": 320,
                     "owner": "guoyww",
                     "repo": "AnimateDiff",
-                    "stars": 12304,
+                    "stars": 12305,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -2689,10 +2689,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-14T03:37:09Z",
-                    "open_issues": 28,
+                    "open_issues": 29,
                     "owner": "shitagaki-lab",
                     "repo": "see-through",
-                    "stars": 5900,
+                    "stars": 5918,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -3143,7 +3143,7 @@
                     "open_issues": 21,
                     "owner": "Kiteretsu77",
                     "repo": "APISR",
-                    "stars": 1147,
+                    "stars": 1148,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:09:05.031Z"
@@ -3185,7 +3185,7 @@
                     "open_issues": 649,
                     "owner": "xinntao",
                     "repo": "Real-ESRGAN",
-                    "stars": 37660,
+                    "stars": 37689,
                     "topics": [
                       "amine",
                       "denoise",
@@ -3646,7 +3646,7 @@
                 "open_issues": 1,
                 "owner": "zhenglinpan",
                 "repo": "Awesome-Animation-Research",
-                "stars": 223,
+                "stars": 224,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:09:05.031Z"
@@ -4368,7 +4368,7 @@
                 "open_issues": 154,
                 "owner": "nagadomi",
                 "repo": "waifu2x",
-                "stars": 28237,
+                "stars": 28239,
                 "topics": [
                   "super-resolution",
                   "torch",
@@ -4393,7 +4393,7 @@
                 "open_issues": 119,
                 "owner": "bloc97",
                 "repo": "Anime4K",
-                "stars": 21672,
+                "stars": 21679,
                 "topics": [
                   "anime",
                   "anime-upscaling",
@@ -4576,7 +4576,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T04:10:20.213Z",
+    "last_updated": "2026-11-27T04:17:01.857Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers, repository and other data about anime or manga research. Please let me know if you have information that the list does not include.",
